@@ -8,7 +8,7 @@ permalink: /wgs/valanginian
 <div class="person-grid">
     <div class="person">
         <div>
-            <img src="/images/person-company.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-company.jpg" alt="" />
         </div>
         <div class="contact-details">
             Chair: Prof. Miguel Company<br />
@@ -25,7 +25,7 @@ permalink: /wgs/valanginian
     </div>
     <div class="person">
         <div>
-            <img src="/images/person-reboulet.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-reboulet.jpg" alt="" />
         </div>
         <div class="contact-details">
             Chair: Prof. Stéphane Reboulet<br />

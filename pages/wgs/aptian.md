@@ -8,7 +8,7 @@ permalink: /wgs/aptian
 <div class="person-grid">
     <div class="person">
         <div>
-            <img src="/images/person-weissert.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-weissert.jpg" alt="" />
         </div>
         <div class="contact-details">
             Chair: Prof. Helmut Weissert<br />
@@ -21,7 +21,7 @@ permalink: /wgs/aptian
     </div>
     <div class="person">
         <div>
-            <img src="/images/person-erba.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-erba.jpg" alt="" />
         </div>
         <div class="contact-details">
             Chair: Prof. Elisabetta Erba<br />

@@ -8,7 +8,7 @@ permalink: /wgs/coniacian
 <div class="person-grid">
     <div class="person">
         <div>
-            <img src="/images/person-walaszczyk.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-walaszczyk.jpg" alt="" />
         </div>
         <div class="contact-details">
             Chair: Prof. Irek Walaszczyk<br />

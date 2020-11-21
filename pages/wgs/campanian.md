@@ -8,7 +8,7 @@ permalink: /wgs/campanian
 <div class="person-grid">
     <div class="person">
         <div>
-            <img src="/images/person-gale.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-gale.jpg" alt="" />
         </div>
         <div class="contact-details">
             Chair: Prof. Andrew Gale<br />

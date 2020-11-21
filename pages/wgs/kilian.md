@@ -8,7 +8,7 @@ permalink: /wgs/kilian
 <div class="person-grid">
     <div class="person">
         <div>
-            <img src="/images/person-reboulet.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-reboulet.jpg" alt="" />
         </div>
         <div class="contact-details">
             Chair: Prof. Stéphane Reboulet<br />
@@ -30,7 +30,7 @@ permalink: /wgs/kilian
 <div class="person-grid">
     <div class="person">
         <div>
-            <img src="/images/person-klein.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-klein.jpg" alt="" />
         </div>
         <div class="contact-details">
             Prof. Jaap Klein<br />
@@ -45,7 +45,7 @@ permalink: /wgs/kilian
     </div>
     <div class="person">
         <div>
-            <img src="/images/person-moreno-bedmar.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-moreno-bedmar.jpg" alt="" />
         </div>
         <div class="contact-details">
             Dr. Josep A. Moreno-Bedmar<br />
@@ -61,7 +61,7 @@ permalink: /wgs/kilian
     </div>
     <div class="person">
         <div>
-            <img src="/images/person-rawson.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-rawson.jpg" alt="" />
         </div>
         <div class="contact-details">
             Prof. Peter Rawson<br />
@@ -79,7 +79,7 @@ permalink: /wgs/kilian
     </div>
     <div class="person">
         <div>
-            <img src="/images/person-szives.jpg" alt="" />
+            <img src="https://stratigraphy.org/subcommission-cretaceous/images/person-szives.jpg" alt="" />
         </div>
         <div class="contact-details">
             Dr. Ottilia Szives<br />
