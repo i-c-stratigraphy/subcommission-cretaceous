@@ -18,7 +18,7 @@ permalink: /officers
         Via Mangiagalli, 34<br />
         20133, Milano, Italy<br />
         Phone: +39-02-503 15531<br />
-        E-mail: <mrose.petrizzo@unimi.it>
+        E-mail: <a href="mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>
     </div>
     <div style="grid-row:2; grid-column:1;">
         <img src="images/person-wagreich.gif" style="width:150px;" alt="Michael" />
@@ -30,7 +30,7 @@ permalink: /officers
         Althansstrasse, 14<br />
         A-1090, Vienna, Austria<br />
         Phone: +43-1-4277-53465<br />
-        E-mail: <michael.wagreich@univie.ac.at>
+        E-mail: <a href="michael.wagreich@univie.ac.at">michael.wagreich@univie.ac.at</a>
     </div>
     <div style="grid-row:3; grid-column:1;">
         <img src="images/person-FFalzoni.gif" style="width:150px;" alt="Francesca" />
@@ -42,6 +42,6 @@ permalink: /officers
         Via Mangiagalli, 34<br />
         20133, Milano, Italy<br />
         Phone: +39-02-503 15563<br />
-        E-mail: <francesca.falzoni1@gmail.com>
+        E-mail: <a href="francesca.falzoni1@gmail.com">francesca.falzoni1@gmail.com</a>
     </div>
 </div>
