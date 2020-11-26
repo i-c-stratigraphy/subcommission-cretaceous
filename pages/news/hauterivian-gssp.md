@@ -7,4 +7,4 @@ permalink: /news/hauterivian-gssp
 
 The GSSP proposal to formalize the base of the Hauterivian Stage at the FO of the ammonite genus Acanthodiscus at La Charce (SE France) was unanimously approved by the IUGS Executive Committee on December 2019.
 
-![](images/IUGS-ratification-to-ICS_Cretaceous-765x1024.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/IUGS-ratification-to-ICS_Cretaceous-765x1024.jpg)

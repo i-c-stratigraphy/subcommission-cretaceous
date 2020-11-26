@@ -12,5 +12,5 @@ permalink: /news/bottaccione
 Members of the group assembled in Gubbio with a view to assessing the possibility of the section as a potential GSSP for the Campanian Stage.
 Isabella provided an excellent overview of the history of work on the Bottacione section, and its international importance.  We inspected the Santonian-Campanian part of the section, which is fortunately still well exposed, in spite of some protective netting. The facies is developed in deep water micritic limestones with cherts. The attractions of the section are the good magnetic signal, the high-resolution biostratigraphy (nannofossils, planktonic foraminifera) and quality carbon isotope signal. I re-logged the section in detail, and we discussed some additional future sampling to refine the details previously published.
 
-<img src="images/S_C-Bottaccione-comoposite_low_2.jpg" alt="img" style="width:80%" />  
+<img src="https://stratigraphy.org/subcommission-cretaceous/images/S_C-Bottaccione-comoposite_low_2.jpg" alt="img" style="width:80%" />  
 The upper Santonian-lower Campanian stratigraphic record at the Bottaccione Gorge

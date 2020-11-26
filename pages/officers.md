@@ -37,10 +37,11 @@ permalink: /officers
     </div>
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Francesca Falzoni</strong><br />
-        Post-Doc researcher: Dipartimento di Scienze della Terra “A. Desio”<br /> 
-        Università degli Studi di Milano<br />
-        Via Mangiagalli, 34<br />
-        20133, Milano, Italy<br />
+        Post-Doc researcher:<br />
+        Dipartimento di Scienze della Terra,<br />
+        dell’Ambiente e delle Risorse<br /> 
+        Università degli Studi di Napoli Federico II<br />
+        80126 Napoli, Italy<br />
         Phone: +39-02-503 15563<br />
         E-mail: <a href="francesca.falzoni1@gmail.com">francesca.falzoni1@gmail.com</a>
     </div>
