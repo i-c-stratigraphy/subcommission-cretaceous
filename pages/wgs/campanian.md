@@ -19,7 +19,7 @@ permalink: /wgs/campanian
             Portsmouth PO1 3QL, United Kingdom<br />
             <br />
             Phone: +44-02392846127<br />
-            E-mail: <a href="andy.gale@port.ac.uk<br />">andy.gale@port.ac.uk</a>
+            E-mail: <a href="andy.gale@port.ac.uk">andy.gale@port.ac.uk</a>
         </div>
     </div>
 </div>
@@ -49,6 +49,16 @@ The Group was re-formed in summer 2017 and currently has 18 members. Our aim is 
 **Michael Wagreich**, Department of Geodynamics and Sedimentology, Center for Earth Sciences, University of Vienna, Althanstrasse 14, Vienna, A-1090, Austria  
 **Irek Walasczyck**, Faculty of Geology, University of Warsaw, Al. Zwirki i Wigury 93, 02-089 Warszawa, Poland  
 
-### Relevant publications arising from members of the Campanian WG in 2018-2019:
+## Publications
+
+Gale, A.S., Kennedy, W.J., Walaszczyk, I., (2020 in press). Correlation of the late Santonian-early Campanian of Texas with the Anglo-Paris Basin and other regions. Newsletters on Stratigraphy.
+
+Maron, M., Muttoni, G. (2020). A detailed record of the C34n/C33r magnetozone boundary for the definition of the base of the Campanian Stage at the Bottaccione section (Gubbio, Italy). Newsletters on Stratigraphy. DOI: [10.1127/nos/2020/0607](https://doi.org/10.1127/nos/2020/0607)
+
+Miniati, F., Petrizzo, M.R., Falzoni, F., Erba, E. (2020). Calcareous plankton biostratigraphy of the Santonian-Campanian boundary interval in the Bottaccione section (Umbria-Marche Basin, central Italy. Rivista Italiana di Paleontologia e Stratigrafia, 126, 771-789.
+
+<!--
+### Older publications
 
 Haggart, J.W., Graham, R. 2018. The crinoid Marsupites in the Upper Cretaceous Nanaimo Group, British Columbia: Resolution of the Santonian–Campanian boundary in the North Pacific Province. Cretaceous Research, 87, 277-295.
+-->

@@ -19,7 +19,7 @@ permalink: /wgs/barremian
             E-18002 Granada, Spain<br />
             <br />
             Phone: +34-958242729<br />
-            E-mail: <a href="mcompany@ugr.es<br />">mcompany@ugr.es</a>
+            E-mail: <a href="mcompany@ugr.es">mcompany@ugr.es</a>
         </div>
     </div>
 </div>
@@ -40,6 +40,10 @@ permalink: /wgs/barremian
 **Zdenĕk Vašíček**, Institute of Geonics of the Academy of Sciences, Ostrava-Poruba, Czech Republic  
 **Helmut J. Weissert**, ETH Zürich, Switzerland  
 
+## Publications
+Martinez, M., Aguado, R., Company, M., Sandoval, J., O’Dogherty, L. (2020). Integrated astrochronology of the Barremian Stage (Early Cretaceous) and its biostratigraphic subdivisions. Global and Planetary Changes 195, 103368.
+
+<!--
 ### Relevant publications arising from members of the Barremian WG in 2018-2019:
 
 Melliti, S., Reboulet, S., Ben Haj Ali, N., Arfaoui, M.S., Zargouni, F., Memmi, L. 2019. Ammonoid and foraminiferal biostratigraphy from uppermost Valanginian to lowermost Barremian of the Jebel Boulahouajeb section (northern Tunisia). Journal of African Earth Sciences, 151, 438-460.
@@ -55,3 +59,4 @@ Lukeneder, A. 2018. A new ammonoid fauna from the Northern Calcareous Alps (uppe
 Premoli-Silva, I., Soldan, D.M., Petrizzo, M.R. 2018. Upper Hauterivian-upper Barremian planktonic foraminiferal assemblages from the Arroyo Gilico section (southern Spain). Journal of Foraminiferal Research, 48, 314-355.
 
 Reboulet, S., Szives, O., Aguirre-Urreta, B., Barragán, R., Company, M., Frau, C., Kakabadze, M.V., Klein, J., Moreno-Bedmar, J.A., Lukeneder, A., Pictet, A., Ploch, I., Raisossadat, S.N, Vašíček, Z., Baraboshkin, E.J., Mitta, V.V. 2018. Report of the 6th International Meeting of the IUGS Lower Cretaceous Ammonite Working Group, the Kilian Group (Vienna, Austria, 20th August 2017). Cretaceous Research, 91, 100-110.
+-->

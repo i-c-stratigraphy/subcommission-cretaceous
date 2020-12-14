@@ -20,7 +20,7 @@ permalink: /wgs/valanginian
             E-18002 Granada, Spain<br />
             <br />
             Phone: +34-958242729<br />
-            E-mail: <a href="mcompany@ugr.es<br />">mcompany@ugr.es</a>
+            E-mail: <a href="mcompany@ugr.es">mcompany@ugr.es</a>
         </div>
     </div>
     <div class="person">
@@ -37,7 +37,7 @@ permalink: /wgs/valanginian
             69622 Villeurbanne, France<br />
             <br />
             Phone: +33(0)472446244<br />
-            E-mail: <a href="stephane.reboulet@univ-lyon1.fr<br />">stephane.reboulet@univ-lyon1.fr</a>
+            E-mail: <a href="stephane.reboulet@univ-lyon1.fr">stephane.reboulet@univ-lyon1.fr</a>
         </div>
     </div>
 </div>
@@ -62,6 +62,16 @@ permalink: /wgs/valanginian
 **Zdenĕk Vašíček**, Institute of Geonics of the Academy of Sciences, Ostrava-Poruba, Czech Republic  
 **Helmut J. Weissert**, Department of Earth Sciences, ETH Zürich, Switzerland  
 
+## Publications
+Benzaggagh, M., (2020). Discussion on the calpionellid biozones and proposal of a homogeneous calpionellid zonation for the Tethyan Realm. Cretaceous Research 114, 104184.
+
+Grischenko, V.A., Manikin, A.G., Savelieva, Y.N., Feodorova, A.A., 2020. Magnetostratigraphy and biostratigraphy of the Valanginian in the Crimean Mountains. Problems of Geocosmos-2018. Springer Proceedings in Earth and Environmental Sciences, 53-81. 
+
+Salazar, C., Stinnesbeck, W., Álvarez, M., (2020). Ammonite biostratigraphy and bioevents in the Jurassic-Cretaceous boundary of central Chile. Cretaceous Research 107, 104282.
+
+Zakharov, V.A., Rogov, M.A., (2020). High-resolution stratigraphy of buchiid bivalves and ammonites from the Jurassic-Cretaceous boundary beds in the Paskenta area (California). Cretaceous Research 110, 104422.
+
+<!--
 ### Relevant publications arising from members of the Valanginian WG in 2018-2019:
 
 Aguirre-Urreta, B., Martinez, M., Schmitz, M., Lescano, M., Omarini, J., Tunik, M., Kuhnert, H., Concheyro, A., Rawson, P.F., Ramos, V.A., Reboulet, S., Noclin, N., Frederichs, T., Nickl, A.-L., Pälike, H. 2019. Interhemispheric radio-astrochronological calibration of the time scales from the Andean and the Tethyan areas in the Valanginian–Hauterivian (Early Cretaceous). Gondwana Research, 70, 104-132.
@@ -79,3 +89,4 @@ Price, G.D., Janssen, N.M.M., Martinez, M., Company, M., Vandevelde J.H., Grimes
 Reboulet, S., Szives, O., Aguirre-Urreta, B., Barragán, R., Company, M., Frau, C., Kakabadze, M.V., Klein, J., Moreno-Bedmar, J.A., Lukeneder, A., Pictet, A., Ploch, I., Raisossadat, S.N, Vašíček, Z., Baraboshkin, E.J., Mitta, V.V. 2018. Report of the 6th International Meeting of the IUGS Lower Cretaceous Ammonite Working Group, the Kilian Group (Vienna, Austria, 20th August 2017). Cretaceous Research, 91, 100-110.
 
 Arkadiev, V.V., Grishchenko, V.A., Guzhikov, A. Y., Mankin, A.G., Savelieva, Y. N., Feodorova, A. A., Shurekova, O.A. 2017. Ammonites and magnetostratigraphy of the Berriasian-Valanginian boundary deposits from eastern Crimea. Geologica Carpathica, 68, 505-516.
+-->

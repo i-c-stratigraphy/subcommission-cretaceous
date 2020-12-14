@@ -47,9 +47,15 @@ permalink: /wgs/coniacian
 **Frank Wiese**, Georg-August-Universität Göttingen, Courant Research Centre Geobiology, Goldschmidtstr. 3, D-37077 Göttingen  
 **Markus Wilmsen**, Sektionsleiter Paläozoologie, Senckenberg Naturhistorische Sammlungen Dresden, Museum für Mineralogie und Geologie, Königsbrücker Landstr. 159, D – 01109 Dresden, Germany  
 
+## Publications
+Čech, S., Uličný, D. (2020). The Turonian-Coniacian stage boundary in an expanded siliciclastic succession: Integrated stratigraphy in deltaic through offshore facies, Bohemian Cretaceous Basin. Cretaceous Research, 117, 104576.
+
+Voigt, S., Püttmann, T., Mutterlose, J., Bornemann, A., Jarvis, I., Pearce, M., Walaszczyk, I., (2021). Reassessment of the Salzgitter-Salder section as a potential stratotype for the Turonian–Coniacian boundary: stable carbon isotopes and cyclostratigraphy constrained by calcareous nannofossils and palynology: Newsletters on Stratigraphy, in press, doi: 961 [10.1127/nos/2020/0615](https://doi.org/10.1127/nos/2020/0615).
+
+<!--
 ### Relevant publications and presentations arising from members of the Coniacian WG in 2018-2019:
 
 Peryt, D., Dubicka, Z. and Walaszczyk, I. 2018. Foraminiferal bioevents within the Turonian-Coniacian boundary interval in Central Europe. Forams 2018, 17-24 June 2018, Edinburgh.
 
 Stróżyk, K., Barski, M., Dubicka, Z. and Walaszczyk, I. 2018. Integrated biostratigraphy of the Turonian-Coniacian boundary interval in the Folwark Quarry (Opole Trough, SW Poland). 9th Czech-Slovak-Polish Palaeontological Conference & 11th MIKRO 2018 Workshop, 17-19 Oct. 2018, Prague.
-
+-->

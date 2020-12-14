@@ -166,6 +166,18 @@
             line-height: 1.2em;
         }
     </style>
+    <script>
+        var banners = [
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-03.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-04.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-05.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-06.jpg",
+            "https://stratigraphy.org/subcommission-cretaceous/images/banner-07.jpg",
+        ];
+        window.onload = function () {
+            document.getElementById('banner-img').src=banners[Math.floor(banners.length*Math.random())];  
+        };      
+    </script>    
 </head>
 <body>
     <div id="widther">
@@ -179,9 +191,9 @@
                 </div>
             </div>
         </div>
-        <!-- <div id="banner">
+        <div id="banner">
             <img id="banner-img" />
-        </div> -->
+        </div>
         <!--<div id="subcomm-age">&nbsp;</div>-->
         <div id="body-grid">
             <div id="sidebar" style="grid-column: 1;">
