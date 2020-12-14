@@ -1,9 +1,9 @@
-# Cretateous Subcommission Website
-The small website for the Neogene subcommission of the International Commission on Stratigraphy, online at <http://cretateous.stratigraphy.org>.
+# Cretaceous Subcommission Website
+The small website for the Neogene subcommission of the International Commission on Stratigraphy, online at <http://cretaceous.stratigraphy.org>.
 
 
 ## Content
-Content for this website is managed by the [Cretateous subcommission of the ICS](https://stratigraphy.org/subcommissions#Cretateous).
+Content for this website is managed by the [Cretaceous subcommission of the ICS](https://stratigraphy.org/subcommissions#Cretaceous).
 
 See Contacts below.
 
@@ -30,10 +30,16 @@ See the [local copy of the license deed](LICENSE) for details.
 
 ## Support and contacts
 *For website content:*  
-**Professor Angela L. Coe**  
-Cretateous Subcommission Chair  
-The Open University, UK  
-<Angela.Coe@open.ac.uk>  
+**Prof. Maria Rose Petrizzo**  
+Chair, International Subcommission on Cretaceous Stratigraphy  
+
+Dipartimento di Scienze della Terra "A. Desio"  
+Università degli Studi di Milano  
+via Mangiagalli 34,  
+20133 Milano, Italy  
+ph: +39-02-50315531  
+fax: +39-02-50315494  
+<https://www.unimi.it/it/ugov/person/mrose-petrizzo>
 
 
 *For website technical matters:*  
