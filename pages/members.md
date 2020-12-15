@@ -37,6 +37,7 @@ permalink: /members
         E-mail: <a href="mailto:ismar@geologia.ufrj.br">ismar@geologia.ufrj.br</a>
     </div>
     <div class="person" style="grid-row:2; grid-column:2;">
+         <img src="images/person-galbrun.jpg" style="width:150px;" alt="Galbrun" /><br />
         <strong>Prof. Bruno Galbrun</strong><br />
         Université Pierre et Marie Curie, ISTeP<br />
         Institut des Sciences de la Terre-Paris, UMR-CNRS 7193<br />
