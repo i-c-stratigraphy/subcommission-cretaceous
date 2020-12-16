@@ -1,5 +1,5 @@
 # Cretaceous Subcommission Website
-The small website for the Neogene subcommission of the International Commission on Stratigraphy, online at <http://cretaceous.stratigraphy.org>.
+The small website for the Cretaceous Subcommission of the International Commission on Stratigraphy, online at <http://cretaceous.stratigraphy.org>.
 
 
 ## Content
