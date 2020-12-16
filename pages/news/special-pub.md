@@ -3,7 +3,7 @@ layout: page
 title: "New special publications on Cretaceous Stratigraphy"
 permalink: /news/special-pub
 ---
-# New special publications on Cretaceous Stratigraphy
+# New special publications on Cretaceous Stratigraphy - 2020
 
 Proceedings of the IGCP 609 project were published in 2020 as Special Publication of the Geological Society of London (SP498):
 
