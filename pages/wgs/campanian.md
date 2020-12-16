@@ -55,7 +55,7 @@ Gale, A.S., Kennedy, W.J., Walaszczyk, I., (2020 in press). Correlation of the l
 
 Maron, M., Muttoni, G. (2020). A detailed record of the C34n/C33r magnetozone boundary for the definition of the base of the Campanian Stage at the Bottaccione section (Gubbio, Italy). Newsletters on Stratigraphy. DOI: [10.1127/nos/2020/0607](https://doi.org/10.1127/nos/2020/0607)
 
-Miniati, F., Petrizzo, M.R., Falzoni, F., Erba, E. (2020). Calcareous plankton biostratigraphy of the Santonian-Campanian boundary interval in the Bottaccione section (Umbria-Marche Basin, central Italy. Rivista Italiana di Paleontologia e Stratigrafia, 126, 771-789. (https://riviste.unimi.it/index.php/RIPS/article/view/14399)
+Miniati, F., Petrizzo, M.R., Falzoni, F., Erba, E. (2020). Calcareous plankton biostratigraphy of the Santonian-Campanian boundary interval in the Bottaccione section (Umbria-Marche Basin, central Italy. Rivista Italiana di Paleontologia e Stratigrafia, 126, 771-789. [https://riviste.unimi.it/index.php/RIPS/article/view/14399](https://riviste.unimi.it/index.php/RIPS/article/view/14399)
 
 <!--
 ### Older publications
