@@ -195,17 +195,6 @@ permalink: /members
         Phone: +49 +351-795841-4273<br />
         E-mail: <a href="mailto:markus.wilmsen@senckenberg.de">markus.wilmsen@senckenberg.de</a>
     </div>
-    <div class="person" style="grid-row:10; grid-column:1;">
-        <img src="images/person-wimbledon.jpg" style="width:150px;" alt="Wimbledon" /><br />
-        <strong>Dr. William A.P. Wimbledon</strong><br />
-        School of Earth Sciences<br />
-        University of Bristol<br />
-        Wills Memorial Building<br />
-        Queens Road, Bristol BS8 1RJ, UK<br />
-        <br />
-        Phone: 44 (0) 1633 483836<br />
-        E-mail: <a href="mailto:mishenka1@yahoo.co.uk">mishenka1@yahoo.co.uk</a>
-    </div>
 </div>
 
 <p></p>
