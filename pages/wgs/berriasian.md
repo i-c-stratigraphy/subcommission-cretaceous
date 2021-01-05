@@ -31,6 +31,7 @@ permalink: /wgs/berriasian
 **Jean-Francois Deconinck**, Université de Bourgogne, Dijon, France 
 
 **Elisabetta Erba**, Universitá degli Studi di Milano, Dipartimento di Scienze della Terra A. Desio, Milano, Italy 
+
 **Camille Frau**, Groupement d’Intérêt Paléontologique, Science et Exposition, Toulon, France 
 **Gang Li**, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing, China 
 **Mathieu Martinez**, Géosciences Rennes, Université de Rennes 1, France 
