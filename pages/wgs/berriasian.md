@@ -24,4 +24,23 @@ permalink: /wgs/berriasian
     </div>
 </div>
 
-The list of members will be available soon.
+### Working Group Members:
+**Beatriz Aguirre-Urreta**, Department of Geological Sciences, University of Buenos Aires, Argentina
+**Jean-Francois Deconinck**, Université de Bourgogne, Dijon, France
+**Elisabetta Erba**, Universitá degli Studi di Milano, Dipartimento di Scienze della Terra A. Desio, Milano, Italy
+**Camille Frau**, Groupement d’Intérêt Paléontologique, Science et Exposition, Toulon, France
+**Gang Li**, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing, China
+**Mathieu Martinez**, Géosciences Rennes, Université de Rennes 1, France
+**Atsushi Matsuoka**, Department of Geology, Niigata University, Niigata, Japan
+**Jozef Michalik**, Earth Science Institute, Slovak Academy of Sciences, Bratislava, Slovakia
+**Joerg Mutterlose**, Institut für Geologie, Mineralogie und Geophysik, Ruhr-Universität Bochum, Germany
+**Gregory Price**, School of Geography, Earth and Environmental Sciences, University of Plymouth, UK
+**Daniela Reháková**, Faculty of Natural Sciences, Comenius University, Bratislava, Slovakia
+**James B. Riding**, British Geological Survey, Nottingham, UK
+**Mikhail Rogov**, Geological Institute, Russian Academy of Sciences, Moscow, Russia
+**Mark D. Schmitz**, Department of Geosciences, Boise State University, Boise, USA
+**Petr Schnabl**, Institute of Geology, Czech Academy of Sciences, Praha, Czech Republic
+**Ottilia Szives**, Department of Palaeontology and Geology, Hungarian Natural History Museum, Budapest, Hungary
+
+
+
