@@ -43,4 +43,3 @@ permalink: /wgs/berriasian
 **Petr Schnabl**, Institute of Geology, Czech Academy of Sciences, Praha, Czech Republic  
 **Ottilia Szives**, Department of Palaeontology and Geology, Hungarian Natural History Museum, Budapest, Hungary  
 
-## Test
