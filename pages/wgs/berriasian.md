@@ -42,7 +42,3 @@ permalink: /wgs/berriasian
 **Mark D. Schmitz**, Department of Geosciences, Boise State University, Boise, USA 
 **Petr Schnabl**, Institute of Geology, Czech Academy of Sciences, Praha, Czech Republic 
 **Ottilia Szives**, Department of Palaeontology and Geology, Hungarian Natural History Museum, Budapest, Hungary 
-
-
-
-
