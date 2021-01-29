@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "New Berriasian Working Group appointed"
+title: "New Berriasian Working Group appointed by the Cretaceous Subcommission"
 permalink: /berriasian-wg
 ---
 # New Berriasian Working Group appointed by the Cretaceous Subcommission - January 2021
