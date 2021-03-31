@@ -30,9 +30,9 @@ permalink: /wgs/coniacian
 **James Crampton**, GNS Science, Post Office Box 30368, Lower Hutt, New Zealand  
 **Zofia Dubicka**, Faculty of Geology, University of Warsaw, Al Zwirki i Wigury 93, Pl-02-089 Warszawa, Poland  
 **Andy S. Gale**, School of Earth and Environmental Sciences, University of Portsmouth, Portsmouth PO1 3QL, United Kingdom  
-**Christina Ifrim**, Institut für Geowissenschaften, Ruprecht-Karls-Universität Im Neuenheimer Feld 234, 69120 Heidelberg, Germanyv
+**Christina Ifrim**, Institut für Geowissenschaften, Ruprecht-Karls-Universität Im Neuenheimer Feld 234, 69120 Heidelberg, Germany  
 **Elena A. Jagt-Yazykova**, Zakład Paleobiologii, Katedra Biosystematyki, Uniwersytet Opolski, ul. Oleska 22, PL-45-052 Opole, Poland  
-**Ian Jarvis**, Kingston University London, Department of Geography and Geology, Kingston upon Thames, KT1 2EE, UK
+**Ian Jarvis**, Kingston University London, Department of Geography and Geology, Kingston upon Thames, KT1 2EE, UK  
 **William J. Kennedy**, Oxford University Museum of Natural History, Parks Road, Oxford OX1 3PW and Department of Earth Scievnces, South Parks Road, Oxford OX1 3AN, United Kingdom  
 **Jackie Lees**, Department of Earth Sciences, University College London, Gower Street, London WC1E 6BT, United Kingdom  
 **Damian Lodowski**, Faculty of Geology, University of Warsaw, Al Zwirki i Wigury 93, Pl-02-089 Warszawa, Poland  
