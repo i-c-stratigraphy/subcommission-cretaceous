@@ -174,16 +174,6 @@ permalink: /members
         Phone: +48 22 5540482<br />
         E-mail: <a href="mailto:i.walaszczyk@uw.edu.pl">i.walaszczyk@uw.edu.pl</a>
     </div>
-    <div class="person" style="grid-row:9; grid-column:1;">
-        <img src="images/person-watkins.jpg" style="width:150px;" alt="Watkins" /><br />
-        <strong>Prof. David K. Watkins</strong><br />
-        Dept of Earth & Atmospheric Sciences<br />
-        University of Nebraska<br />
-        Lincoln, NE 68588-0340, USA<br />
-        <br />
-        Phone: 1-402-472-2177<br />
-        E-mail: <a href="mailto:dwatkins1@unl.edu">dwatkins1@unl.edu</a>
-    </div>
     <div class="person" style="grid-row:9; grid-column:2;">
         <img src="images/person-wilmsen.jpg" style="width:150px;" alt="Wilmsen" /><br />
         <strong>Dr. Markus Wilmsen</strong><br />
@@ -195,6 +185,15 @@ permalink: /members
         Phone: +49 +351-795841-4273<br />
         E-mail: <a href="mailto:markus.wilmsen@senckenberg.de">markus.wilmsen@senckenberg.de</a>
     </div>
+    <div class="person" style="grid-row:9; grid-column:1;">
+        <img src="images/person-xi.jpg" style="width:150px;" alt="Xi" /><br />
+        <strong>Prof. Dangpeng Xi</strong><br />
+     China University of Geosciences<br />
+        Xueyuan Lu 29<br />
+        Beijing 100083, China, P. R.<br />
+        <br />
+        Phone: 0086-15810903538<br />
+        E-mail: <a href="mailto:xidp@cugb.edu.cn">xidp@cugb.edu.cn</a> 
 </div>
 
 <p></p>
