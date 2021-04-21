@@ -174,7 +174,7 @@ permalink: /members
         Phone: +48 22 5540482<br />
         E-mail: <a href="mailto:i.walaszczyk@uw.edu.pl">i.walaszczyk@uw.edu.pl</a>
     </div>
-    <div class="person" style="grid-row:9; grid-column:2;">
+    <div class="person" style="grid-row:9; grid-column:1;">
         <img src="images/person-wilmsen.jpg" style="width:150px;" alt="Wilmsen" /><br />
         <strong>Dr. Markus Wilmsen</strong><br />
         Senckenberg Naturhistorische Sammlungen, Dresden<br />
@@ -185,7 +185,7 @@ permalink: /members
         Phone: +49 +351-795841-4273<br />
         E-mail: <a href="mailto:markus.wilmsen@senckenberg.de">markus.wilmsen@senckenberg.de</a>
     </div>
-    <div class="person" style="grid-row:9; grid-column:1;">
+    <div class="person" style="grid-row:9; grid-column:2;">
         <img src="images/person-xi.jpg" style="width:150px;" alt="Xi" /><br />
         <strong>Prof. Dangpeng Xi</strong><br />
      China University of Geosciences<br />
