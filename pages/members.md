@@ -6,14 +6,14 @@ permalink: /members
 ## Members
 <div style="display:grid; grid-row-gap:20px;">
     <div class="person" style="grid-row:1; grid-column:1;">
-        <img src="images/person-baraboshkin.jpg" style="width:150px;" alt="Baraboshkin" /><br />
-        <strong>Prof. Evgenij J. Baraboshkin</strong><br />
-        Dept. Regional Geology and Earth History, Geological Faculty<br />
-        M. V. Lomonosov Moscow State Uni.<br />
-        119234, Vorobjovy (Leninskie) Gory, Moscow, Russian Federation<br />
+        <img src="images/person-batenburg.jpg" style="width:150px;" alt="Batenburg" /><br />
+        <strong>Dr. Sietske J. Batenburg</strong><br />
+        Faculty of Earth Sciences<br />
+        University of Barcelona<br />
+        Martí i Franqués, 08028 Barcelona, Spain<br />
         <br />
-        Phone: +7(495)939-49-32<br />
-        E-mail: <a href="mailto:ejbaraboshkin@mail.ru">ejbaraboshkin@mail.ru</a>
+        Phone: +34 698963831<br />
+        E-mail: <a href="mailto:sbatenburg@ub.edu">sbatenburg@ub.edu</a>
     </div>
     <div class="person" style="grid-row:1; grid-column:2;">
         <img src="images/person-bown.jpg" style="width:150px;" alt="Bown" /><br />
