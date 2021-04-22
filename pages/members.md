@@ -187,7 +187,7 @@ permalink: /members
     </div>
     <div class="person" style="grid-row:9; grid-column:2;">
         <img src="images/person-xi.jpg" style="width:150px;" alt="Xi" /><br />
-        <strong>Prof. Dangpeng Xi</strong><br />
+        <strong>Dr. Dangpeng Xi</strong><br />
      China University of Geosciences<br />
         Xueyuan Lu 29<br />
         Beijing 100083, China, P. R.<br />
