@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: "Hauterivian GSSP ratified by IUGS"
 permalink: /news/hauterivian-gssp
