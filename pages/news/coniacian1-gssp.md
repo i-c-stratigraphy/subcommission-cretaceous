@@ -1,4 +1,4 @@
-...
+---
 layout: page
 title: "Coniacian GSSP ratified by IUGS"
 permalink: /news/coniacian-gssp
