@@ -1,10 +1,11 @@
 
 layout: page
-title: "Coniacian GSSP ratified by IUGS"
-permalink: /news/coniacian-gssp
+title: "Hauterivian GSSP ratified by IUGS"
+permalink: /news/hauterivian-gssp
 ---
-# Coniacian GSSP ratified by IUGS
+# Hauterivian GSSP ratified by IUGS
 
-The GSSP proposal to formalize the base of the Coniacian Stage at at the first appearance datum (FAD) of the inoceramid bivalve Cremnoceramus deformis erectus in the Salzgitter-Salder Quarry section in Lower Saxony, Germany was unanimously approved by the IUGS Executive Committee on May 2021.
+The GSSP proposal to formalize the base of the Hauterivian Stage at the FO of the ammonite genus Acanthodiscus at La Charce (SE France) was unanimously approved by the IUGS Executive Committee on December 2019.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/IUGS-ratification-to-ICS_ConiacianGSSP_Cretaceous.jpg)
+
