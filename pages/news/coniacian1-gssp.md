@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coniacian GSSP ratified by IUGS"
-permalink: /news/coniacian-gssp
+permalink: /news/coniacian1-gssp
 ---
 # Coniacian GSSP ratified by IUGS
 
