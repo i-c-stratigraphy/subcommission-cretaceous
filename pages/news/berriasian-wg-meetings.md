@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Online Meetings of the Berriasian Working Group"
-permalink:  /news/berriasian-wg1
+permalink:  /news/berriasian-wg-meetings
 ---
 #  Online Meetings of the Berriasian Working Group
 
