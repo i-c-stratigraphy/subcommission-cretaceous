@@ -40,6 +40,6 @@ Carbon isotopes from carbonate bulk rock samples show a plateau of around 1.3‰
 ### Links
 [Reboulet, S., Atrops, F., Ferry, S., Schaaf, A. (1992). Renouvellement des ammonites en fosse vocontienne à la limite Valanginien-Hauterivien. Geobios 25: 469-476.](/files/Reboulet-et-al.-1992-Geobios.pdf)
 
-[Mutterlose, J., Rawson, P.F., Reboulet, S., with contributions by Baudin, F., Bulot, L., Emmanuel, L., Gardin, S., Martinez, M., and Renard, M. (2020). The Global Boundary Stratotype Section and Point (GSSP) for the base of the Hauterivian Stage (Lower Cretaceous), La Charce, southeast France. Episodes: in press.](http://www.episodes.org/journal/view.html?uid=2175&vmd=Full)
+[Mutterlose, J., Rawson, P.F., Reboulet, S., with contributions by Baudin, F., Bulot, L., Emmanuel, L., Gardin, S., Martinez, M., and Renard, M. (2021). The Global Boundary Stratotype Section and Point (GSSP) for the base of the Hauterivian Stage (Lower Cretaceous), La Charce, southeast France. Episodes 44 (2): 129-150.](http://www.episodes.org/journal/view.html?uid=2175&vmd=Full)
 
 [GSSP Table](https://stratigraphy.org/gssps/)
