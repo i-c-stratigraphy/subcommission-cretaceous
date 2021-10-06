@@ -10,4 +10,4 @@ The 11th International Symposium on the Cretaceous System will take place from 2
 For more information visit the Cretaceous Symposium website at <https://www.cretaceous2022.com/>
 
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/Cretaceous Symposium2022.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/Cretaceous_Symposium2022.jpg)
