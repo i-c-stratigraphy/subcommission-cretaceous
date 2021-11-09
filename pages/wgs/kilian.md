@@ -125,8 +125,3 @@ The next meeting of the Kilian Group will be associated with the next Cretaceous
 **José Sandoval**, Dpto Estratigrafía y Paleontología, Universidad de Granada, 18002 Granada, Spain  
 **José M. Tavera**, Departamento de Estratigrafía y Paleontología, Facultad de Ciencias, Universidad de Granada, Campus de Fuentenueva s/n, 18002 Granada, Spain  
 **Zdenek Vašiček**, Institute of Geonics, Academy of Sciences of the Czech Republic, Studentská 1768, 708 00, Ostrava-Poruba, Czech Republic  
-**Jean Vermeulen**, Grand rue, 04330 Barrême, France  
-
-### Relevant publications arising from members of the Kilian WG in 2018-2019:
-
-Reboulet, S., Szives, O. (reporters), Aguirre-Urreta, B., Barragán, R., Company, M., Frau, C., Kakabadze, M.V., Klein, J., Moreno-Bedmar J.A., Lukeneder, A., Pictet, A., Ploch, I., Raisossadat, S.N., Vašíček, Z., Baraboshkin, E.J., Mitta, V.V., 2018. Report on the 6th International Meeting of the IUGS Lower Cretaceous Ammonite Working Group, the Kilian Group (Vienna, Austria, 20th August 2017). Cretaceous Research, 91, 100-110.
