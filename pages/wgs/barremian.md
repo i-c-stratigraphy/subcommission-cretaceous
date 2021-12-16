@@ -50,6 +50,7 @@ permalink: /wgs/barremian
 **Zdenĕk Vašíček**, Institute of Geonics of the Academy of Sciences, Ostrava-Poruba, Czech Republic
 **Helmut J. Weissert**, Geologisches Institut, ETH Zentrum, Zürich, Switzerland
 
+
 ## Publications
 Martinez, M., Aguado, R., Company, M., Sandoval, J., O’Dogherty, L. (2020). Integrated astrochronology of the Barremian Stage (Early Cretaceous) and its biostratigraphic subdivisions. Global and Planetary Changes 195, 103368.
 
