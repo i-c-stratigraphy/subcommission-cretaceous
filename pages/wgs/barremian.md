@@ -27,10 +27,10 @@ permalink: /wgs/barremian
 ### Working Group Members:
 
 
-**Roque Aguados**, Departamento de Geología, Universidad de Jaén, Spain
-**María Beatriz Aguirre-Urreta**, Instituto de Estudios Andinos (UBA-CONICET), Universidad de Buenos Aires, Argentina
+**Roque Aguados** , Departamento de Geología, Universidad de Jaén, Spain
+**María Beatriz Aguirre-Urreta** , Instituto de Estudios Andinos (UBA-CONICET), Universidad de Buenos Aires, Argentina
 **Evgenij J. Baraboshkin**, Lomonosov Moscow State University, Faculty of Geology, Moscow, Russia
-**Didier Bert**, Réserve Naturelle Nationale Géologique de Haute-Provence, Digne-Les-Bains, France
+**Didier Bert** , Réserve Naturelle Nationale Géologique de Haute-Provence, Digne-Les-Bains, France
 **Paul R. Bown**, Department of Earth Sciences, University College London, London, UK
 **Rodolfo Coccioni**, Dipartimento di Scienze Pure e Applicate, Università degli Studi di Urbino “Carlo Bo”, Urbino, Italy
 **Elisabetta Erba**, Dipartimento di Scienze della Terra, Università degli Studi di Milano, Milano, Italia
