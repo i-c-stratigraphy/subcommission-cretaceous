@@ -26,7 +26,6 @@ permalink: /wgs/barremian
 
 ### Working Group Members:
 
-
 **Roque Aguados**, Departamento de Geología, Universidad de Jaén, Spain
 **María Beatriz Aguirre-Urreta**, Instituto de Estudios Andinos (UBA-CONICET), Universidad de Buenos Aires, Argentina
 **Evgenij J. Baraboshkin**, Lomonosov Moscow State University, Faculty of Geology, Moscow, Russia
