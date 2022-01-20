@@ -39,16 +39,16 @@ permalink: /wgs/barremian
 **Andrey Y. Guzhikov**, Saratov State University, Saratov, Russia   
 **Nico M.M. Janssen**, Utrecht, The Netherlands 
 **Mikheil V. Kakabadze**, A. Janelidze Institute of Geology, I. Javakhishvili Tbilisi State University, Tbilisi, Georgia    
-**Mathieu Martinez**, Univ Rennes, CNRS, Géosciences Rennes, Rennes, France 
+**Mathieu Martinez**, Univ Rennes, CNRS, Géosciences Rennes, Rennes, France     
 **Jean-Pierre Masse**, Aix Marseille Université, place Victor Hugo, Marseille, France   
 **Mihaela Carmen Melinte-Dobrinescu**, Institute of Marine Geology and Geo-ecology, Bucharest, Romania  
-**Jörg Mutterlose**, Institute for Geology, Mineralogy and Geophysics, Ruhr-Universität Bochum, Bochum, Germany 
-**Isabella Premoli-Silva**, Dipartimento di Scienze della Terra, Università degli Studi di Milano, Milano, Italia   
+**Jörg Mutterlose**, Institute for Geology, Mineralogy and Geophysics, Ruhr-Universität Bochum, Bochum, Germany     
+**Isabella Premoli-Silva**, Dipartimento di Scienze della Terra, Università degli Studi di Milano, Milano, Italia     
 **Gregory D. Price**, School of Geography, Earth and Environmental Sciences, Plymouth University, Plymouth, UK  
 **Peter F. Rawson**, Department of Earth Sciences, University College London, UK; Centre for Marine and Environmental Sciences, University of Hull, UK  
 **José Sandoval**, Departamento de Estratigrafía y Paleontología, Universidad de Granada, Granada, Spain    
-**Zdenĕk Vašíček**, Institute of Geonics of the Academy of Sciences, Ostrava-Poruba, Czech Republic 
-**Helmut J. Weissert**, Geologisches Institut, ETH Zentrum, Zürich, Switzerland 
+**Zdenĕk Vašíček**, Institute of Geonics of the Academy of Sciences, Ostrava-Poruba, Czech Republic     
+**Helmut J. Weissert**, Geologisches Institut, ETH Zentrum, Zürich, Switzerland     
 
 
 ## Publications
