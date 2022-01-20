@@ -191,6 +191,7 @@ permalink: /members
      China University of Geosciences<br />
         Xueyuan Lu 29<br />
         Beijing 100083, China, P. R.<br />
+**expertise**
         <br />
         Phone: 0086-15810903538<br />
         E-mail: <a href="mailto:xidp@cugb.edu.cn">xidp@cugb.edu.cn</a> 
