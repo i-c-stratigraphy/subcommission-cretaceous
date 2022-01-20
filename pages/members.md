@@ -194,7 +194,7 @@ permalink: /members
         <br />
         Phone: 0086-15810903538<br />
         E-mail: <a href="mailto:xidp@cugb.edu.cn">xidp@cugb.edu.cn</a> 
-**expertise**: ciclo      
+     
 </div>
 
 <p></p>
