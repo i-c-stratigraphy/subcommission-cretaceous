@@ -35,9 +35,9 @@ permalink: /wgs/barremian
 **Elisabetta Erba**, Dipartimento di Scienze della Terra, Università degli Studi di Milano, Milano, Italia  
 **Silvia Gardin**, Centre de Recherche en Paléontologie-Paris, Sorbonne Université, Paris, France   
 **Alexis Godet**, Department of Geological Sciences, University of Texas at San Antonio, San Antonio, TX, USA   
-**Bruno Granier**, Plougonvelin, France 
+**Bruno Granier**, Plougonvelin, France     
 **Andrey Y. Guzhikov**, Saratov State University, Saratov, Russia   
-**Nico M.M. Janssen**, Utrecht, The Netherlands 
+**Nico M.M. Janssen**, Utrecht, The Netherlands     
 **Mikheil V. Kakabadze**, A. Janelidze Institute of Geology, I. Javakhishvili Tbilisi State University, Tbilisi, Georgia    
 **Mathieu Martinez**, Univ Rennes, CNRS, Géosciences Rennes, Rennes, France     
 **Jean-Pierre Masse**, Aix Marseille Université, place Victor Hugo, Marseille, France   
