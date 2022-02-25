@@ -14,6 +14,7 @@ permalink: /members
         <br />
         Phone: +34 698963831<br />
         E-mail: <a href="mailto:sbatenburg@ub.edu">sbatenburg@ub.edu</a>
+        <br />
         Keywords:carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
     </div>
     <div class="person" style="grid-row:1; grid-column:2;">
