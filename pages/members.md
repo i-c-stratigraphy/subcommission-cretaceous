@@ -15,7 +15,7 @@ permalink: /members
         Phone: +34 698963831<br />
         E-mail: <a href="mailto:sbatenburg@ub.edu">sbatenburg@ub.edu</a>
         <br />
-        Keywords:carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
+        Scientific Expertise: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
     </div>
     <div class="person" style="grid-row:1; grid-column:2;">
         <img src="images/person-bown.jpg" style="width:150px;" alt="Bown" /><br />
@@ -26,6 +26,8 @@ permalink: /members
         <br />
         Phone: +44(0)20-7485-3257<br />
         E-mail: <a href="mailto:p.bown@ucl.ac.uk">p.bown@ucl.ac.uk</a>
+        <br />
+        Scientific Expertise: calcareous nannofossils, biostratigraphy, palaeoceanography, coccolithophores, evolution, diversity.
     </div>
     <div class="person" style="grid-row:2; grid-column:1;">
         <img src="images/person-ismar.jpg" style="width:150px;" alt="Ismar" /><br />
@@ -37,6 +39,8 @@ permalink: /members
         <br />
         Phone: +55-21-3938-9405<br />
         E-mail: <a href="mailto:ismar@geologia.ufrj.br">ismar@geologia.ufrj.br</a>
+        <br />
+        Scientific Expertise: Ichnology, vertebrate palaeontology, continental palaeoenvironments, conchostracans.
     </div>
     <div class="person" style="grid-row:2; grid-column:2;">
          <img src="images/person-galbrun.jpg" style="width:150px;" alt="Galbrun" /><br />
@@ -46,6 +50,8 @@ permalink: /members
         4 place Jussieu, 75252 Paris CEDEX 5, France<br />
         <br />
         E-mail: <a href="mailto:bruno.galbrun@upmc.fr">bruno.galbrun@upmc.fr</a>
+        <br />
+        Scientific Expertise:
     </div>
     <div class="person" style="grid-row:3; grid-column:1;">
         <img src="images/person-granier.jpg" style="width:150px;" alt="Granier" /><br />
@@ -57,6 +63,8 @@ permalink: /members
         F – 29238 Brest, France<br />
         <br />
         E-mail: <a href="mailto:bgranier@univ-brest.fr">bgranier@univ-brest.fr</a>
+        <br />
+        Scientific Expertise: holostratigraphy, sequence stratigraphy, carbonate sedimentology, paleophycology, benthic foraminifers.
     </div>
     <div class="person" style="grid-row:3; grid-column:2;">
         <img src="images/person-hasegawa.jpg" style="width:150px;" alt="Hasegawa" /><br />
@@ -68,6 +76,8 @@ permalink: /members
         <br />
         Phone: +81-76-264-6508<br />
         E-mail: <a href="mailto:jh7ujr@staff.kanazawa-u.ac.jp">jh7ujr@staff.kanazawa-u.ac.jp</a>
+        <br />
+        Scientific Expertise: carbon isotope stratigraphy, organic carbon, biomarkers, OAEs, paleoenvironment, paleoceanography.
     </div>
     <div class="person" style="grid-row:4; grid-column:1;">
         <img src="images/person-huber.jpg" style="width:150px;" alt="Huber" /><br />
@@ -79,6 +89,8 @@ permalink: /members
         <br />
         Phone: 1-202-633-1328<br />
         E-mail: <a href="mailto:huberb@si.edu">huberb@si.edu</a>
+        <br />
+        Scientific Expertise: Cretaceous, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
     </div>
     <div class="person" style="grid-row:4; grid-column:2;">
         <img src="images/person-yazykova.jpg" style="width:150px;" alt="Yazykova" /><br />
@@ -101,6 +113,8 @@ permalink: /members
         <br />
         Phone: +44 20 8417 2526<br />
         E-mail: <a href="mailto:i.jarvis@kingston.ac.uk">i.jarvis@kingston.ac.uk</a> 
+        <br />
+        Scientific Expertise: carbon isotopes, chemostratigraphy, Dinoflagellate cysts, Chalk sedimentology, palaeoenvironments, climate and sea level.
     </div>
     <div class="person" style="grid-row:5; grid-column:2;">
         <img src="images/person-kawabe.jpg" style="width:150px;" alt="Kawabe" /><br />
@@ -132,6 +146,8 @@ permalink: /members
         <br />
         Phone: +90.232.4127342<br />
         E-mail: <a href="mailto:bilal.sari@deu.edu.tr">bilal.sari@deu.edu.tr</a>
+        <br />
+        Scientific Expertise: Late Cretaceous, planktonic foraminifera, taxonomy, biostratigraphy.
     </div>
     <div class="person" style="grid-row:7; grid-column:1;">
         <img src="images/person-schioler.jpg" style="width:150px;" alt="Schioler" /><br />
@@ -142,6 +158,8 @@ permalink: /members
         <br />
         Phone: +64 210768325<br />
         E-mail: <a href="mailto:poul.schioler@mgpalaeo.com.au">poul.schioler@mgpalaeo.com.au</a>
+        <br />
+        Scientific Expertise: Biostratigraphy (palynology), Dinoflagellate taxonomy, palynofacies analysis, petrophysical log correlation, sequence stratigraphy, petroleum geology.
     </div>
     <div class="person" style="grid-row:7; grid-column:2;">
         <img src="images/person-vishnevskaya.jpg" style="width:150px;" alt="Vishnevskaya" /><br />
@@ -153,6 +171,8 @@ permalink: /members
         <br />
         Phone: 7(495)959-0174<br />
         E-mail: <a href="mailto:valentina.vishnaa@mail.ru">valentina.vishnaa@mail.ru</a>
+        <br />
+        Scientific Expertise: Radiolaria, calcareous dinocysts, biostratigraphy, Boreal Realm.
     </div>
     <div class="person" style="grid-row:8; grid-column:1;">
         <img src="images/person-voigt.jpg" style="width:150px;" alt="Voigt" /><br />
@@ -164,6 +184,8 @@ permalink: /members
         <br />
         Phone: +49 (0)69798 40190
         E-mail: <a href="mailto:s.voigt@em.uni-frankfurt.de">s.voigt@em.uni-frankfurt.de</a>
+        <br />
+        Scientific Expertise: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
     </div>
     <div class="person" style="grid-row:8; grid-column:2;">
         <img src="images/person-walaszczyk.jpg" style="width:150px;" alt="Walaszczyk" /><br />
@@ -186,6 +208,8 @@ permalink: /members
         <br />
         Phone: +49 +351-795841-4273<br />
         E-mail: <a href="mailto:markus.wilmsen@senckenberg.de">markus.wilmsen@senckenberg.de</a>
+        <br />
+        Scientific Expertise: integrated stratigraphy, facies analysis, palaeoenvironmental reconstructions, mid-Cretaceous ectocochleates, trace fossils.
     </div>
     <div class="person" style="grid-row:9; grid-column:2;">
         <img src="images/person-xi.jpg" style="width:150px;" alt="Xi" /><br />
@@ -196,7 +220,8 @@ permalink: /members
         <br />
         Phone: 0086-15810903538<br />
         E-mail: <a href="mailto:xidp@cugb.edu.cn">xidp@cugb.edu.cn</a> 
-     
+     <br />
+        Scientific Expertise: microfossils, stratigraphic correlation of marine and non-marine Cretaceous, evoution of ecosystem during Cretaceous,paleolimnology and paleoclimate, paleoceanography. 
 </div>
 
 <p></p>
