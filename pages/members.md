@@ -136,7 +136,7 @@ permalink: /members
         Phone: +1-847-467-2257<br />
         E-mail: <a href="mailto:brad@earth.northwestern.edu">brad@earth.northwestern.edu</a>
         <br />
-        *Scientific Expertise*: 
+        *Scientific Expertise*: stratigraphy, biogeochemistry, paleoceanography, paleoclimatology.
     </div>
     <div class="person" style="grid-row:6; grid-column:2;">
         <img src="images/person-sari.jpg" style="width:150px;" alt="Sari" /><br />
