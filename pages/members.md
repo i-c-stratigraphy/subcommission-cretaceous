@@ -85,7 +85,7 @@ permalink: /members
         Department of Paleobiology<br />
         National Museum of Natural History<br />
         Smithsonian Institution<br />
-        Washington, DC 20013-7012<br />
+        Washington, DC 20013-7012, USA<br />
         <br />
         Phone: 1-202-633-1328<br />
         E-mail: <a href="mailto:huberb@si.edu">huberb@si.edu</a>
