@@ -92,17 +92,6 @@ permalink: /members
         <br />
         *Scientific Expertise*: Cretaceous, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
     </div>
-    <div class="person" style="grid-row:4; grid-column:2;">
-        <img src="images/person-yazykova.jpg" style="width:150px;" alt="Yazykova" /><br />
-        <strong>Prof. Elena Jagt-Yazykova</strong><br />
-        Laboratory of Palaeobiology and evolution<br />
-        Opole University<br />
-        Oleska str. 22<br />
-        45-052 Opole, Poland<br />
-        <br />
-        Phone: +48 (77) 4527312<br />
-        E-mail: <a href="mailto:elenajagt@gmail.com">elenajagt@gmail.com</a>
-    </div>
     <div class="person" style="grid-row:5; grid-column:1;">
         <img src="images/person-jarvis.jpg" style="width:150px;" alt="Jarvis" /><br />
         <strong>Prof. Ian Jarvis</strong><br />
@@ -116,14 +105,29 @@ permalink: /members
         <br />
         *Scientific Expertise*: carbon isotopes, chemostratigraphy, Dinoflagellate cysts, Chalk sedimentology, palaeoenvironments, climate and sea level.
     </div>
-    <div class="person" style="grid-row:5; grid-column:2;">
-        <img src="images/person-kawabe.jpg" style="width:150px;" alt="Kawabe" /><br />
-        <strong>Dr. Fumihisa Kawabe</strong><br />
-        Ministry of Education, Culture, Sports, Science and Technology – Japan (MEXT)<br />
-        3-2-2 Kasumigaseki, Chiyoda-ku<br />
-        Tokyo 100-8959, Japan<br />
+    <div class="person" style="grid-row:4; grid-column:2;">
+        <img src="images/person-koutsoukos.jpg" style="width:150px;" alt="Koutsoukos" /><br />
+        <strong>Dr. Eduardo A. M. Koutsoukos </strong><br />
+        Institut für Geowissenschaften<br />
+        Universität Heidelberg<br />
+        Im Neuenheimer Feld 234 <br />
+        69120 Heidelberg, Germany<br />
         <br />
-        E-mail: <a href="mailto:fkawabe@aoni.waseda.jp">fkawabe@aoni.waseda.jp</a>
+        Phone: <br />
+        E-mail: <a href="mailto:ekoutsoukos@gmail.com">ekoutsoukos@gmail.com</a>
+        <br />
+        *Scientific Expertise*: evolutionary paleobiology, ecosystem dynamics, stratigraphy, foraminifera.
+    </div>
+    <div class="person" style="grid-row:5; grid-column:2;">
+        <img src="images/person-morenobedmar.jpg" style="width:150px;" alt="Moreno Bedmar" /><br />
+        <strong>Prof. Josep A. Moreno Bedmar </strong><br />
+        Instituto de Geología<br />
+        Universidad Nacional Autónoma de México (UNAM), Ciudad Universitaria<br />
+        Coyoacán, 04510, Ciudad de México, México<br />
+        <br />
+        E-mail: <a href="mailto:josepamb@geologia.unam.mx">josepamb@geologia.unam.mx</a>
+        <br />
+        *Scientific Expertise*: paleontology, ammonite biostratigraphy, stratigraphy, Lower Cretaceous.
     </div>
     <div class="person" style="grid-row:6; grid-column:1;">
         <img src="images/person-sageman.jpg" style="width:150px;" alt="Sageman" /><br />
