@@ -225,7 +225,7 @@ permalink: /members
         Phone: 0086-15810903538<br />
         E-mail: <a href="mailto:xidp@cugb.edu.cn">xidp@cugb.edu.cn</a> 
      <br />
-        *Scientific Expertise*: microfossils, stratigraphic correlation of marine and non-marine Cretaceous, evoution of ecosystem during Cretaceous,paleolimnology and paleoclimate, paleoceanography. 
+        *Scientific Expertise*: microfossils, stratigraphic correlation of marine and non-marine Cretaceous, Cretaceous ecosystem, paleolimnology and paleoclimate, paleoceanography. 
 </div>
 
 <p></p>
