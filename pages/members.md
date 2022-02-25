@@ -15,7 +15,7 @@ permalink: /members
         Phone: +34 698963831<br />
         E-mail: <a href="mailto:sbatenburg@ub.edu">sbatenburg@ub.edu</a>
         <br />
-       Scientific Expertise: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
+       ****_Scientific Expertise_: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
     </div>
     <div class="person" style="grid-row:1; grid-column:2;">
         <img src="images/person-bown.jpg" style="width:150px;" alt="Bown" /><br />
