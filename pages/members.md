@@ -204,7 +204,7 @@ permalink: /members
         Phone: +48 22 5540482<br />
         E-mail: <a href="mailto:i.walaszczyk@uw.edu.pl">i.walaszczyk@uw.edu.pl</a>
          <br />
-        *Scientific Expertise*:
+        *Scientific Expertise*: biostratigraphy, biogeography, palaeogeography, regional geology, taxonomic palaeontology, evolution.
     </div>
     <div class="person" style="grid-row:9; grid-column:1;">
         <img src="images/person-wilmsen.jpg" style="width:150px;" alt="Wilmsen" /><br />
