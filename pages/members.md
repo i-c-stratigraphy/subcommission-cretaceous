@@ -51,7 +51,7 @@ permalink: /members
         <br />
         E-mail: <a href="mailto:bruno.galbrun@upmc.fr">bruno.galbrun@upmc.fr</a>
         <br />
-        *Scientific Expertise*:
+        *Scientific Expertise*: cyclostratigraphy, magnetostratigraphy, paleoclimatology.
     </div>
     <div class="person" style="grid-row:3; grid-column:1;">
         <img src="images/person-granier.jpg" style="width:150px;" alt="Granier" /><br />
