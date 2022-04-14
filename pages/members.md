@@ -155,18 +155,6 @@ permalink: /members
         <br />
         *Scientific Expertise*: Late Cretaceous, planktonic foraminifera, taxonomy, biostratigraphy.
     </div>
-    <div class="person" style="grid-row:7; grid-column:1;">
-        <img src="images/person-schioler.jpg" style="width:150px;" alt="Schioler" /><br />
-        <strong>Dr. Poul Schioler</strong><br />
-        Morgan Goodall Palaeo Pty Ltd<br />
-        12 Summit Road, Fairfield<br />
-        Lower Hutt 5011, New Zealand<br />
-        <br />
-        Phone: +64 210768325<br />
-        E-mail: <a href="mailto:poul.schioler@mgpalaeo.com.au">poul.schioler@mgpalaeo.com.au</a>
-        <br />
-        *Scientific Expertise*: biostratigraphy (palynology), Dinoflagellate taxonomy, palynofacies analysis, petrophysical log correlation, sequence stratigraphy, petroleum geology.
-    </div>
     <div class="person" style="grid-row:7; grid-column:2;">
         <img src="images/person-vishnevskaya.jpg" style="width:150px;" alt="Vishnevskaya" /><br />
         <strong>Dr. Valentina Vishnevskaya</strong><br />
