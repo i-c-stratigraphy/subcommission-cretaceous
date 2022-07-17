@@ -44,7 +44,7 @@ permalink: /wgs/valanginian
 
 ### Working Group Members:
 
-**Thierry Adatte**, Institute of Earth Sciences, University of Lausanne, Lausanne, Switzerland 
+**Thierry Adatte**, Institute of Earth Sciences, University of Lausanne, Lausanne, Switzerland  
 **María Beatriz Aguirre-Urreta**, Instituto de Estudios Andinos (UBA-CONICET), Universidad de Buenos Aires, Argentina  
 **Roque Aguado**, Departamento de Geología, Universidad de Jaén, Spain  
 **Evgenij J. Baraboshkin**, Geological Faculty, Moscow State University, Russia  
@@ -53,21 +53,21 @@ permalink: /wgs/valanginian
 **Elisabetta Erba**, Dipartimento di Scienze della Terra, Università degli Studio di Milano, Italia  
 **Mohssine Ettachfini**, Département de Géologie, Université Cadi Ayyad, Marrakech, Morocco  
 **Bruno Galbrun**, Institut des Sciences de la Terre Paris (ISTeP), UPMC Univ Paris 06, France  
-**Silvia Gardin**, Centre de recherche en paléontologie, CNRS-MNHN-Sorbonne Université, Paris, France 
+**Silvia Gardin**, Centre de recherche en paléontologie, CNRS-MNHN-Sorbonne Université, Paris, France  
 **Celestina González-Arreola**, Instituto de Geología, Universidad Nacional Autónoma de México, México  
 **Jacek Grabowski**, Polish Geological Institute – National Research Institute, Warszawa, Poland  
-**Bruno Granier**, Département des Sciences de la Terre et de l’Univers, Université de Bretagne Occidentale, Brest, France 
+**Bruno Granier**, Département des Sciences de la Terre et de l’Univers, Université de Bretagne Occidentale, Brest, France  
 **Nico M.M. Janssen**, Utrecht, The Netherlands  
-**Mikheil V. Kakabadze**, A. Janelidze Institute of Geology, Tbilisi State University, Tbilisi, Georgia 
+**Mikheil V. Kakabadze**, A. Janelidze Institute of Geology, Tbilisi State University, Tbilisi, Georgia  
 **Jaap Klein**, Vinkeveen, The Netherlands  
-**Iskra Lakova**, Geological Institute, Bulgarian Academy of Sciences, Sofia, Bulgaria 
-**Mathieu Martinez**, Géosciences, Université de  Rennes, Rennes, France
-**Emanuela Mattioli**, Laboratoire de Géologie de Lyon, Université Claude Bernard Lyon 1, Villeurbanne, France 
+**Iskra Lakova**, Geological Institute, Bulgarian Academy of Sciences, Sofia, Bulgaria  
+**Mathieu Martinez**, Géosciences, Université de  Rennes, Rennes, France  
+**Emanuela Mattioli**, Laboratoire de Géologie de Lyon, Université Claude Bernard Lyon 1, Villeurbanne, France  
 **Mihaela Carmen Melinte-Dobrinescu**, National Institut of Marine Geology and Geoecology, Bucharest, Romania  
 **Jörg Mutterlose**, Institute for Geology, Mineralogy and Geophysics, Ruhr-Universität Bochum, Germany  
 **Isabella Premoli-Silva**, Dipartimento di Scienze della Terra, Università degli Studio di Milano, Italia  
 **Peter F. Rawson**, Centre for Marine and Environmental Sciences, University of Hull, UK  
-**Daniela Reháková**, Department of Geology and Paleontology, Comenius University, Bratislava, Slovakia 
+**Daniela Reháková**, Department of Geology and Paleontology, Comenius University, Bratislava, Slovakia  
 **José M. Tavera**, Departamento de Estratigrafía y Paleontología, Universidad de Granada Spain  
 **Zdenĕk Vašíček**, Institute of Geonics of the Academy of Sciences, Ostrava-Poruba, Czech Republic  
 **Helmut J. Weissert**, Department of Earth Sciences, ETH Zürich, Switzerland  
