@@ -5,7 +5,7 @@ permalink: /officers
 ---
 ## Officers
 
-### Nominated officers for 2016-2020
+### Nominated officers for 2020-2024
 
 <div style="display:grid; grid-row-gap:20px;">
     <div style="grid-row:1; grid-column:1;">
