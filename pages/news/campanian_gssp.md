@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Campanian GSSP ratified by IUGS"
-permalink: /news/campanian-gssp
+permalink: /news/campanian_gssp
 ---
 # Campanian GSSP ratified by IUGS
 
