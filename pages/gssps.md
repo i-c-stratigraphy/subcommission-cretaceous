@@ -46,7 +46,7 @@ Click on the ages in the timeline below to go to Working Groups or GSSP pages.
     <div style="grid-column:2; grid-row:1/7; background-color:#c0dc92;" class="age">Late</div>
     <div style="grid-column:2; grid-row:7/13; background-color:#8FD07B;" class="age">Early</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/maastrichtian" style="grid-column:3; grid-row:1; background-color:#F9F1A8;" class="age gssp">Maastrichtian</a><div style="grid-column:4; grid-row:1;" class="num">66.0</div>
-    <a href="https://stratigraphy.org/subcommission-cretaceous/wgs/campanian" style="grid-column:3; grid-row:2; background-color:#EBEC9E;" class="age wg">Campanian</a><div style="grid-column:4; grid-row:2;" class="num">72.1</div>
+    <a href="https://stratigraphy.org/subcommission-cretaceous/wgs/campanian" style="grid-column:3; grid-row:2; background-color:#EBEC9E;" class="age gssp">Campanian</a><div style="grid-column:4; grid-row:2;" class="num">72.1</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/santonian" style="grid-column:3; grid-row:3; background-color:#DFE895;" class="age gssp">Santonian</a><div style="grid-column:4; grid-row:3;" class="num">83.6</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/coniacian" style="grid-column:3; grid-row:4; background-color:#D2E38C;" class="age gssp">Coniacian</a><div style="grid-column:4; grid-row:4;" class="num">86.3</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/turonian" style="grid-column:3; grid-row:5; background-color:#C5DF83;" class="age gssp">Turonian</a><div style="grid-column:4; grid-row:5;" class="num">89.8</div>
