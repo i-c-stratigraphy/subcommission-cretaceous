@@ -6,6 +6,7 @@ permalink: /archives
 ## Archives
 
 ### Annual Reports
+* [2021 report](files/ICS2021_Report_Creta.pdf)
 * [2020 report](files/ICS2020_Report_Creta.pdf)
 * [2019 report](files/ICS2019_Report_Creta.pdf)
 * [2018 report](files/ICS2018_Report_Creta.pdf)
