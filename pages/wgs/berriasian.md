@@ -37,7 +37,6 @@ permalink: /wgs/berriasian
 **Joerg Mutterlose**, Institut für Geologie, Mineralogie und Geophysik, Ruhr-Universität Bochum, Germany  
 **Gregory Price**, School of Geography, Earth and Environmental Sciences, University of Plymouth, UK  
 **Daniela Reháková**, Faculty of Natural Sciences, Comenius University, Bratislava, Slovakia  
-**James B. Riding**, British Geological Survey, Nottingham, UK  
 **Mikhail Rogov**, Geological Institute, Russian Academy of Sciences, Moscow, Russia  
 **Mark D. Schmitz**, Department of Geosciences, Boise State University, Boise, USA  
 **Petr Schnabl**, Institute of Geology, Czech Academy of Sciences, Praha, Czech Republic  
