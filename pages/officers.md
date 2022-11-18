@@ -25,9 +25,9 @@ permalink: /officers
     </div>
     <div style="grid-row:2; grid-column:2;">
         <strong>Vice-Chair: Michael Wagreich</strong><br />
-        Professor: Department of Geodynamics and Sedimentology<br />
+        Professor: Department of Geology<br />
         University of Vienna<br />
-        Althansstrasse, 14<br />
+        Josef Holaubek Platz 2<br />
         A-1090, Vienna, Austria<br />
         Phone: +43-1-4277-53465<br />
         E-mail: <a href="michael.wagreich@univie.ac.at">michael.wagreich@univie.ac.at</a>
@@ -37,12 +37,12 @@ permalink: /officers
     </div>
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Francesca Falzoni</strong><br />
-        Post-Doc researcher:<br />
-        Dipartimento di Scienze della Terra,<br />
-        dell’Ambiente e delle Risorse<br /> 
-        Università degli Studi di Napoli Federico II<br />
-        80126 Napoli, Italy<br />
-        Phone: +39-02-503 15563<br />
-        E-mail: <a href="francesca.falzoni1@gmail.com">francesca.falzoni1@gmail.com</a>
+       Dr.:<br />
+        DIstituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
+        Consiglio Nazionale delle Ricerche<br /> 
+        via Mario Bianco 9<br />
+        20131 Milano, Italy<br />
+        Phone: +39-02 28311436<br />
+        E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>
     </div>
 </div>
