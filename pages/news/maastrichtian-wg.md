@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "New Maastrichtian Working Group appointed by the Cretaceous Subcommission"
-permalink:  /news/berriasian-wg
+permalink:  /news/maastrichtian-wg
 ---
 # New Maastrichtian Working Group appointed by the Cretaceous Subcommission – October 2022
 
