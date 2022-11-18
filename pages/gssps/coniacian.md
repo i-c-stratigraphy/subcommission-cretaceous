@@ -54,6 +54,7 @@ El Rosario section (Sierra del Carmen National Park, Coahuila, Mexico; geographi
 
 ### Links
 
-[Ireneusz Walaszczyk, Stanislav Čech, James S. Crampton, Zofia Dubicka, Christina Ifrim, Ian Jarvis, William J. Kennedy, Jackie A. Lees, Damian Lodowski, Martin Pearce, Danuta Peryt, Bradley B. Sageman, Poul Schiøler, Jordan Todes, David Uličný, Silke Voigt, Frank Wiese, with contributions by Christian Linnert, Tobias Püttmann, Seiichi Toshimitsu (2022). The Global Boundary Stratotype Section and Point (GSSP) for the base of the Coniacian Stage (Salzgitter-Salder, Germany) and its auxiliary sections (Słupia Nadbrzeżna, central Poland; Střeleč, Czech Republic; and El Rosario, NE Mexico). Episodes 2022; 45(2): 181-220, https://doi.org/10.18814/epiiugs/2021/021022]
+[Ireneusz Walaszczyk, Stanislav Čech, James S. Crampton, Zofia Dubicka, Christina Ifrim, Ian Jarvis, William J. Kennedy, Jackie A. Lees, Damian Lodowski, Martin Pearce, Danuta Peryt, Bradley B. Sageman, Poul Schiøler, Jordan Todes, David Uličný, Silke Voigt, Frank Wiese, with contributions by Christian Linnert, Tobias Püttmann, Seiichi Toshimitsu (2022). The Global Boundary Stratotype Section and Point (GSSP) for the base of the Coniacian Stage (Salzgitter-Salder, Germany) and its auxiliary sections (Słupia Nadbrzeżna, central Poland; Střeleč, Czech Republic; and El Rosario, NE Mexico). Episodes 2022; 45(2): 181-220.]
+(https://doi.org/10.18814/epiiugs/2021/021022)
 
 [GSSP Table](https://stratigraphy.org/gssps/)
