@@ -24,6 +24,8 @@ permalink: /wgs/maastrichtian
     </div>
 </div>
 
+The need to revise the current definition of the base Maastrichtian was discussed during the Business Meeting of the SCS held in Warsaw (11th Cretaceous Symposium, Aug. 2022). The current GSSP was ratified in 2001 and the stage boundary is defined at Tercis les Bains, Landes (France) by the mean of 12 biostratigraphic criteria of equal importance falling closely above the FAD of the ammonite Pachydiscus neubergicus. The Boreal proxy is the FAD of belemnite Belemnella lanceolata. Given the taxonomic problems related to the identification of P. neubergicus, its diachronous occurrence in several localities, and the difficult applicability of several biostratigraphic criteria listed in the GSSP definition, a new WG was erected in October 2022. The major aim of the new WG is the definition of the primary marker for the base of the Stage.
+
 ### Working Group Members:
 **Sietske J. Batenburg**, Faculty of Earth Sciences, University of Barcelona, Martí i Franqués, 08028 Barcelona, Spain  
 **André Bornemann**, Federal Institute for Geosciences and Natural Resources  (BGR), Stilleweg 2, 30655 Hannover  
