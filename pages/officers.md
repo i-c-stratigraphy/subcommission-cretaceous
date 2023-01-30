@@ -38,11 +38,11 @@ permalink: /officers
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Francesca Falzoni</strong><br />
        Dr.:<br />
-        DIstituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
+        Istituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
         Consiglio Nazionale delle Ricerche<br /> 
         via Mario Bianco 9<br />
         20131 Milano, Italy<br />
         Phone: +39-02 28311436<br />
-        E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>
+        E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@igag.cnr.it</a>
     </div>
 </div>
