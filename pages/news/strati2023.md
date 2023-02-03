@@ -13,9 +13,9 @@ The Business Meeting of the Sucommission on Cretaceous Stratigraphy has been sch
 
 The program of STRATI 2023 also includes two sessions proposed by the Cretaceous Subcommission,<https://strati2023.sciencesconf.org/resource/page/id/8>, they are:
 
-SC6: Integrated stratigraphy and GSSPs of the Cretaceous System.
+<strong>SC6: Integrated stratigraphy and GSSPs of the Cretaceous System.</strong>
 
-SC7: Cretaceous palaeoceanography, palaeogeography, biota, climate change and critical events.
+<strong>SC7: Cretaceous palaeoceanography, palaeogeography, biota, climate change and critical events.</strong>
 
 I invite you and your collaborators to participate and present your researches, and please feel free to contact me for any question regarding the sessions.
 
