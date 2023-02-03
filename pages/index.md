@@ -53,8 +53,10 @@ Overall objectives of the Subcommission on Cretaceous Stratigraphy (SCS) and fit
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/coniacian" style="grid-column:3; grid-row:4; background-color:#D2E38C;" class="age gssp">Coniacian</a><div style="grid-column:4; grid-row:4;" class="num">85.7</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/turonian" style="grid-column:3; grid-row:5; background-color:#C5DF83;" class="age gssp">Turonian</a><div style="grid-column:4; grid-row:5;" class="num">89.39</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/cenomanian" style="grid-column:3; grid-row:6; background-color:#B8DA7A;" class="age gssp">Cenomanian</a><div style="grid-column:4; grid-row:6;" class="num">93.9</div>
-    <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/albian" style="grid-column:3; grid-row:7; background-color:#CEE7B1;" class="age gssp">Albian</a><div style="grid-column:4; grid-row:7;" class="num">100.5</div>
-    <a href="https://stratigraphy.org/subcommission-cretaceous/wgs/aptian" style="grid-column:3; grid-row:8; background-color:#C1E2A8;" class="age wg">Aptian</a><div style="grid-column:4; grid-row:8;" class="num">113.2</div>
+    <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/albian" style="grid-column:3; grid-row:7; background-color:#CEE7B1;" class="age 
+gssp">Albian</a><div style="grid-column:4; grid-row:7;" class="num">100.5</div>
+    <a href="https://stratigraphy.org/subcommission-cretaceous/wgs/aptian" style="grid-column:3; grid-row:8; background-color:#C1E2A8;" class="age 
+wg">Aptian</a><div style="grid-column:4; grid-row:8;" class="num">113.2</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/wgs/barremian" style="grid-column:3; grid-row:9; background-color:#B4DE9F;" class="age wg">Barremian</a><div style="grid-column:4; grid-row:9;" class="num">121.4</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/gssps/hauterivian" style="grid-column:3; grid-row:10; background-color:#A7D996;" class="age gssp">Hauterivian</a><div style="grid-column:4; grid-row:10;" class="num">126.5</div>
     <a href="https://stratigraphy.org/subcommission-cretaceous/wgs/valanginian" style="grid-column:3; grid-row:11; background-color:#9AD58D;" class="age wg">Valanginian</a><div style="grid-column:4; grid-row:11;" class="num">132.6</div>
