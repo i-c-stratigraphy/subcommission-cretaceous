@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coniacian"
-permalink: /wg/coniacian
+permalink: /wgs/coniacian
 ---
 ## Coniacian GSSP Working Group
 
