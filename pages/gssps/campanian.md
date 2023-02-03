@@ -65,7 +65,7 @@ Tepeyac, Coahuila, Mexico (28°54'45''N, 100°44'29''W): The section is located 
 
 ### Links
 Andy Gale, Sietske Batenburg, Rodolfo Coccioni, Zofia Dubicka, Elisabetta Erba, Francesca Falzoni, Jim Haggart, Takishi Hasegawa, Christina Ifrim, Ian Jarvis, Hugh Jenkyns, Agata Jurowska, Jim Kennedy, Matteo Maron, Giovanni Muttoni, Martin Pearce, Maria Rose Petrizzo, Isabella Premoli-Silva, Nicolas Thibault, Silke Voigt, Michael Wagreich, and Irek Walaszczyk (2023). The Global Boundary Stratotype Section and Point (GSSP) of the Campanian Stage at Bottaccione (Gubbio, Italy) and its Auxiliary Sections: Seaford Head (UK), Bocieniec (Poland), Postalm (Austria), Smoky Hill, Kansas (U.S.A), Tepayac (Mexico). 
-Episodes 2023; published on line 1 February 2023. https://doi.org/10.18814/epiiugs/2022/022048
+[Episodes 2023; published on line 1 February 2023. https://doi.org/10.18814/epiiugs/2022/022048]
 (https://www.episodes.org/journal/view.html?uid=2319&vmd=Full)
 
 [GSSP Table](https://stratigraphy.org/gssps/)
