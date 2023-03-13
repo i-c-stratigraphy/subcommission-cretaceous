@@ -156,7 +156,7 @@ permalink: /members
         *Scientific Expertise*: Late Cretaceous, planktonic foraminifera, taxonomy, biostratigraphy.
     </div>
      <div class="person" style="grid-row:6; grid-column:2;">
-        <img src="images/person-singer.jpg" style="width:150px;" alt="Sari" /><br />
+        <img src="images/person-singer.jpg" style="width:150px;" alt="Singer" /><br />
         <strong>Prof. Brad S. Singer</strong><br />
         Department of Geoscience<br />
         University of Wisconsin-Madison<br />
