@@ -166,7 +166,8 @@ permalink: /members
         Phone: +1 608 265 8650<br />
         E-mail: <a href="mailto:bsinger@wisc.edu">bsinger@wisc.edu</a>
         <br />
-        *Scientific Expertise*: geochronology, volcanology, geochemistry, geophysics.  
+        *Scientific Expertise*: geochronology, volcanology, geochemistry, geophysics.
+   </div>
     <div class="person" style="grid-row:7; grid-column:2;">
         <img src="images/person-vishnevskaya.jpg" style="width:150px;" alt="Vishnevskaya" /><br />
         <strong>Dr. Valentina Vishnevskaya</strong><br />
