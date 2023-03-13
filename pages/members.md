@@ -155,7 +155,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: Late Cretaceous, planktonic foraminifera, taxonomy, biostratigraphy.
     </div>
-     <div class="person" style="grid-row:6; grid-column:2;">
+     <div class="person" style="grid-row:7; grid-column:1;">
         <img src="images/person-singer.jpg" style="width:150px;" alt="Singer" /><br />
         <strong>Prof. Brad S. Singer</strong><br />
         Department of Geoscience<br />
@@ -167,7 +167,7 @@ permalink: /members
         E-mail: <a href="mailto:bsinger@wisc.edu">bsinger@wisc.edu</a>
         <br />
         *Scientific Expertise*: geochronology, volcanology, geochemistry, geophysics.  
-    <div class="person" style="grid-row:7; grid-column:1;">
+    <div class="person" style="grid-row:7; grid-column:2;">
         <img src="images/person-vishnevskaya.jpg" style="width:150px;" alt="Vishnevskaya" /><br />
         <strong>Dr. Valentina Vishnevskaya</strong><br />
         Laboratory of biostratigraphy and paleogeography of the oceans<br />
@@ -180,7 +180,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: Radiolaria, calcareous dinocysts, biostratigraphy, Boreal Realm.
     </div>
-    <div class="person" style="grid-row:7; grid-column:2;">
+    <div class="person" style="grid-row:8; grid-column:1;">
         <img src="images/person-voigt.jpg" style="width:150px;" alt="Voigt" /><br />
         <strong>Prof. Silke Voigt</strong><br />
         Institute of Geosciences<br />
@@ -193,7 +193,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
     </div>
-    <div class="person" style="grid-row:8; grid-column:1;">
+    <div class="person" style="grid-row:8; grid-column:2;">
         <img src="images/person-walaszczyk.jpg" style="width:150px;" alt="Walaszczyk" /><br />
         <strong>Prof. Irek Walaszczyk</strong><br />
         Faculty of Geology<br />
@@ -206,7 +206,7 @@ permalink: /members
          <br />
         *Scientific Expertise*: biostratigraphy, biogeography, palaeogeography, regional geology, taxonomic palaeontology, evolution.
     </div>
-    <div class="person" style="grid-row:8; grid-column:2;">
+    <div class="person" style="grid-row:9; grid-column:1;">
         <img src="images/person-wilmsen.jpg" style="width:150px;" alt="Wilmsen" /><br />
         <strong>Dr. Markus Wilmsen</strong><br />
         Senckenberg Naturhistorische Sammlungen, Dresden<br />
@@ -219,7 +219,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: integrated stratigraphy, facies analysis, palaeoenvironmental reconstructions, mid-Cretaceous ectocochleates, trace fossils.
     </div>
-    <div class="person" style="grid-row:9; grid-column:1;">
+    <div class="person" style="grid-row:9; grid-column:2;">
         <img src="images/person-xi.jpg" style="width:150px;" alt="Xi" /><br />
         <strong>Dr. Dangpeng Xi</strong><br />
      China University of Geosciences<br />
