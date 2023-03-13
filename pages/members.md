@@ -155,6 +155,18 @@ permalink: /members
         <br />
         *Scientific Expertise*: Late Cretaceous, planktonic foraminifera, taxonomy, biostratigraphy.
     </div>
+     <div class="person" style="grid-row:6; grid-column:2;">
+        <img src="images/person-singer.jpg" style="width:150px;" alt="Sari" /><br />
+        <strong>Prof. Brad S. Singer</strong><br />
+        Department of Geoscience<br />
+        University of Wisconsin-Madison<br />
+        1215 W. Dayton Street<br />
+        Madison, WI 53706, U.S.A.<br />
+        <br />
+        Phone: +1 608 265 8650<br />
+        E-mail: <a href="mailto:bsinger@wisc.edu">bsinger@wisc.edu</a>
+        <br />
+        *Scientific Expertise*: geochronology, volcanology, geochemistry, geophysics.  
     <div class="person" style="grid-row:7; grid-column:1;">
         <img src="images/person-vishnevskaya.jpg" style="width:150px;" alt="Vishnevskaya" /><br />
         <strong>Dr. Valentina Vishnevskaya</strong><br />
