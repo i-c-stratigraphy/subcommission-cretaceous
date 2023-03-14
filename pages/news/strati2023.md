@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "STRATI 2019 – July 2-5, 2019"
+title: "STRATI 2023 – July 11-13, 2023"
 permalink: /news/strati2023
 ---
 # STRATI 2023 – July 11-13, 2023
