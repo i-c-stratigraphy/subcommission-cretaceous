@@ -1,3 +1,4 @@
+---
 layout: page
 title: "GOLDEN SPIKE CEREMONY CAMPANIAN GSSP- July 26, 2023"
 permalink:  /news/campanian-ceremony
