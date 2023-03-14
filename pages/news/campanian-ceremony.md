@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "GOLDEN SPIKE CEREMONY CAMPANIAN GSSP- July 26, 2023"
+title: "GOLDEN SPIKE CEREMONY CAMPANIAN GSSP - July 26, 2023"
 permalink:  /news/campanian-ceremony
 ---
-# GOLDEN SPIKE CEREMONY CAMPANIAN GSSP- July 26, 2023
+# GOLDEN SPIKE CEREMONY CAMPANIAN GSSP - July 26, 2023
 
 The golden spike ceremony of the Campanian GSSP in the Bottaccione Gorge at Gubbio (Italy) will be held on July 26, 2023. 
 
