@@ -31,4 +31,4 @@ The local authorities of the Province of Perugia (Stefania Proietti) and Region 
 <p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni,  I. Walaszczyk. </p>
 
 If you are interested in seeing more photos and movies of the ceremony please contact Maria Rose Petrizzo 
-[mrose.petrizzo@unimi.it](mrose.petrizzo@unimi.it)
+[mrose.petrizzo@unimi.it]
