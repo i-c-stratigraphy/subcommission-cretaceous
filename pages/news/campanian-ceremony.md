@@ -27,4 +27,6 @@ The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), M
 The local authorities of the Province of Perugia (Stefania Proietti) and Region of Umbria (Paola Agabiti), the Vice Rector of the University of Perugia (Roberto Rettori), the Rector of the University of Urbino (Giorgio Calcagnini) and the representative of the Italian scientific organization (SGI president Sandro Conticelli, SPI president Giorgio Carnevale, CIS president Piero Gianolla, ISPRA Geological Survey Andrea Fiorentino) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino and citizen of Gubbio interested in heritage sites. 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg.jpg)  
-<p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni, S. Finney, I. Walaszczyk. </p>
+<p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni,  I. Walaszczyk. </p>
+
+If you are interested in seeing more photos and movies of the ceremony please contact Maria Rose Petrizzo [mrose.petrizzo@unimi.it]
