@@ -12,7 +12,8 @@ This GSSP defines the base of the Campanian Stage and was ratified by IUGS in Oc
 
 The ceremony was organized by the International Subcommission on Cretaceous Stratigraphy (chair Maria Rose Petrizzo, secretary Francesca Falzoni) and its Campanian Working Group (chair Andy Gale).
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/goldenMR.jpg)  
+![](https://stratigraphy.org/subcommission-cretaceous/images/GSSPnails.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/goldenMR.jpg) 
 <p style="font-size:smaller;"> Cretaceous Subcommission Chair Maria Rose Petrizzo touching the golden spike.</p>
 
 The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secretary General).
