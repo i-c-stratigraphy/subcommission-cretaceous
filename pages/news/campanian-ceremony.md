@@ -7,7 +7,8 @@ permalink:  /news/campanian-ceremony
 
 The golden spike ceremony for the Campanian Global boundary Stratotype Section and Point (GSSP) was held on July 26, 2023 in the Bottaccione Gorge (Gola del Bottaccione), Gubbio (Italy). 
 
-This GSSP defines the base of the Campanian Stage and was ratified by IUGS in October 2022 (Gale et al. 2023) [Episodes, https://www.episodes.org/journal/view.html?uid=2319&vmd=Full]
+This GSSP defines the base of the Campanian Stage and was ratified by IUGS in October 2022 (Gale et al. 2023) 
+[Episodes, https://www.episodes.org/journal/view.html?uid=2319&vmd=Full]
 
 The ceremony was organized by the International Subcommission on Cretaceous Stratigraphy (chair Maria Rose Petrizzo, secretary Francesca Falzoni) and its Campanian Working Group (chair Andy Gale).
 
@@ -29,4 +30,5 @@ The local authorities of the Province of Perugia (Stefania Proietti) and Region 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg.jpg)  
 <p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni,  I. Walaszczyk. </p>
 
-If you are interested in seeing more photos and movies of the ceremony please contact Maria Rose Petrizzo [mrose.petrizzo@unimi.it]
+If you are interested in seeing more photos and movies of the ceremony please contact Maria Rose Petrizzo 
+[mrose.petrizzo@unimi.it]
