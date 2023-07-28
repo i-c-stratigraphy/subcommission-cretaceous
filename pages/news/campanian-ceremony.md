@@ -5,6 +5,26 @@ permalink:  /news/campanian-ceremony
 ---
 # GOLDEN SPIKE CEREMONY CAMPANIAN GSSP - July 26, 2023
 
-The golden spike ceremony of the Campanian GSSP in the Bottaccione Gorge at Gubbio (Italy) will be held on July 26, 2023. 
+The golden spike ceremony for the Campanian Global boundary Stratotype Section and Point (GSSP) was held on July 26, 2023 in the Bottaccione Gorge (Gola del Bottaccione), Gubbio (Italy). 
 
-Anyone interested in attending this very important event for the Cretaceous Subcommission please contact Maria Rose Petrizzo
+This GSSP defines the base of the Campanian Stage and was ratified by IUGS in October 2022 (Gale et al. 2023) [Episodes, https://www.episodes.org/journal/view.html?uid=2319&vmd=Full]
+
+The ceremony was organized by the International Subcommission on Cretaceous Stratigraphy (chair Maria Rose Petrizzo, secretary Francesca Falzoni) and its Campanian Working Group (chair Andy Gale).
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/goldenMR.jpg)  
+<p style="font-size:smaller;"> Cretaceous Subcommission Chair Maria Rose Petrizzo touching the golden spike.</p>
+
+The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secretary General).
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/panel.jpg)  
+<p style="font-size:smaller;"> ISC Chair David Harper and Cretaceous Subcommission Chair Maria Rose Petrizzo.</p>
+
+The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), Marco Menichetti (University of Urbino) and Sandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by the Mayor of Gubbio Filippo Mario Stirati.
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/people.jpg)  
+<p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, S. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale.</p>
+
+The local authorities of the Province of Perugia (Stefania Proietti) and Region of Umbria (Paola Agabiti), the Vice Rector of the University of Perugia (Roberto Rettori), the Rector of the University of Urbino (Giorgio Calcagnini) and the representative of the Italian scientific organization (SGI president Sandro Conticelli, SPI president Giorgio Carnevale, CIS president Piero Gianolla, ISPRA Geological Survey Andrea Fiorentino) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino and citizen of Gubbio interested in heritage sites. 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg.jpg)  
+<p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni, S. Finney, I. Walaszczyk. </p>
