@@ -14,15 +14,15 @@ The ceremony was organized by the International Subcommission on Cretaceous Stra
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/GSSPnails.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/goldenMR.jpg) 
-<p style="font-size:smaller;"> Cretaceous Subcommission Chair Maria Rose Petrizzo touching the golden spike.</p>
+<p style="font-size:smaller;"> Cretaceous Subcommission Chair Maria Rose Petrizzo.</p>
 
 The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secretary General).
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel.jpg)  
-<p style="font-size:smaller;"> ISC Chair David Harper and Cretaceous Subcommission Chair Maria Rose Petrizzo.</p>
+<p style="font-size:smaller;"> David Harper and Maria Rose Petrizzo.</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel2.jpg)  
-<p style="font-size:smaller;"> IUGS Secretary General Stan Finney and Cretaceous Subcommission Chair Maria Rose Petrizzo.</p>
+<p style="font-size:smaller;"> Stan Finney and Maria Rose Petrizzo.</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail.jpg)  
 <p style="font-size:smaller;"> Marco Menichetti, Rodolfo Coccioni, Maria Rose Petrizzo.</p>
@@ -47,7 +47,13 @@ The local authorities of the Province of Perugia (Stefania Proietti) and Region 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/talk1.jpg) 
+<p style="font-size:smaller;"> F. M. Stirati and M. Menichetti. </p>
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/talk2.jpg) 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/talk3.jpg) 
+<p style="font-size:smaller;"> Andy Gale. </p>
 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/video1.MP4) 
