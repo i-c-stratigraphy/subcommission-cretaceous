@@ -24,6 +24,9 @@ The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel2.jpg)  
 <p style="font-size:smaller;"> IUGS Secretary General Stan Finney and Cretaceous Subcommission Chair Maria Rose Petrizzo.</p>
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail.jpg)  
+<p style="font-size:smaller;"> Marco Menichetti, Rodolfo Coccioni, Maria Rose Petrizzo.</p>
+
 The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), Marco Menichetti (University of Urbino) and Sandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by the Mayor of Gubbio Filippo Mario Stirati.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people.jpg)  
@@ -36,6 +39,15 @@ The local authorities of the Province of Perugia (Stefania Proietti) and Region 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg2.jpg)  
 <p style="font-size:smaller;"> From left to right: F. Miniati, M.R. Petrizzo, F. Falzoni,  D. Xi. </p>
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/people2.jpg)  
+<p style="font-size:smaller;"> From left to right: S. Montanari, R. Coccioni, S. MOnechi, S. Finney. </p>
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/video1.MP4) 
 
 If you are interested in seeing more photos and movies of the ceremony please contact Maria Rose Petrizzo 
 [mrose.petrizzo@unimi.it]
