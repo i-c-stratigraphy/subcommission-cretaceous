@@ -41,7 +41,7 @@ The local authorities of the Province of Perugia (Stefania Proietti) and Region 
 <p style="font-size:smaller;"> From left to right: F. Miniati, M.R. Petrizzo, F. Falzoni,  D. Xi. </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people2.jpg)  
-<p style="font-size:smaller;"> From left to right: S. Montanari, R. Coccioni, S. MOnechi, S. Finney. </p>
+<p style="font-size:smaller;"> From left to right: S. Montanari, R. Coccioni, S. Monechi, S. Finney. </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
 
