@@ -16,9 +16,9 @@ This GSSP defines the base of the Campanian Stage and was ratified by IUGS in Oc
 
 The ceremony was organized by the International Subcommission on Cretaceous Stratigraphy (chair Maria Rose Petrizzo, secretary Francesca Falzoni) and its Campanian Working Group (chair Andy Gale).
 
-The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), Marco Menichetti (University of Urbino) and Alessandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by the Mayor of Gubbio Filippo Mario Stirati.
+Rodolfo Coccioni (University of Urbino), member of Campanian Working Group, and Marco Menichetti (University of Urbino) and Alessandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by Filippo Mario Stirati, the Mayor of Gubbio.
 
-The local authorities of the Province of Perugia (Stefania Proietti) and Region of Umbria (Paola Agabiti), the Vice Rector of the University of Perugia (Roberto Rettori), the Rector of the University of Urbino (Giorgio Calcagnini) attended the ceremony.
+Stefania Proietti (President of the Province of Perugia), Paola Agabiti (Councilor for tourism, culture, educa(on of the Regione of Umbria), Roberto Rettori (Vice Rector of the University of Perugia) and Giorgio Calcagnini (Rector of the University of Urbino) attended the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel.jpg)  
 <p style="font-size:smaller;"> From left to right: M. Menichetti, R. Coccioni, M. R. Petrizzo, S. Proietti, F. M. Stirati, A. Montanari </p>
@@ -34,7 +34,7 @@ The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel2.jpg)  
 <p style="font-size:smaller;"> Stan Finney and Maria Rose Petrizzo </p>
 
-The representative of the Italian scientific organization (SGI president Sandro Conticelli, SPI president Giorgio Carnevale, CIS president Piero Gianolla, ISPRA Geological Survey Andrea Fiorentino) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino and citizen of Gubbio interested in heritage sites. 
+The representative of the Italian scientific organization: Sandro Conticelli (President SGI-Italian Geological Society), Giorgio Carnevale (President SPI-Italian Paleontological Society), Piero Gianolla (President Italian Commission on Stratigraphy-CIS), Andrea Fiorentino (representative of ISPRA Italian Geological Survey) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino, and also several citizen of the area of Gubbio interested in heritage sites. 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people.jpg)  
 <p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, A. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale </p>
