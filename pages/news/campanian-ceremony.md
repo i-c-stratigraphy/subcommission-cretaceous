@@ -34,7 +34,7 @@ The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel2.jpg)  
 <p style="font-size:smaller;"> Stan Finney and Maria Rose Petrizzo </p>
 
-The representative of the Italian scientific organization: Sandro Conticelli (President SGI-Italian Geological Society), Giorgio Carnevale (President SPI-Italian Paleontological Society), Piero Gianolla (President Italian Commission on Stratigraphy-CIS), Andrea Fiorentino (representative of ISPRA Italian Geological Survey) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino, and also several citizen of the area of Gubbio interested in heritage sites. 
+The representative of the Italian scientific organization: Sandro Conticelli (President SGI-Italian Geological Society), Giorgio Carnevale (President SPI-Italian Paleontological Society), Piero Gianolla (President CIS-Italian Commission on Stratigraphy), Andrea Fiorentino (representative ISPRA Italian Geological Survey) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino, and also several citizen of the area of Gubbio interested in heritage sites. 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people.jpg)  
 <p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, A. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale </p>
