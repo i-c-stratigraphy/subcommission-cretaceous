@@ -56,10 +56,9 @@ The representative of the Italian scientific organization: Sandro Conticelli (Pr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk1.jpg) 
-<p style="font-size:smaller;"> F. M. Stirati and M. Menichetti </p>
+<p style="font-size:smaller;"> Filippo Mario Stirati and Marco Menichetti </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk2.jpg) 
-
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk3.jpg) 
 <p style="font-size:smaller;"> Andy Gale </p>
 
