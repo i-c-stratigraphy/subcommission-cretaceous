@@ -18,7 +18,7 @@ The ceremony was organized by the International Subcommission on Cretaceous Stra
 
 Rodolfo Coccioni (University of Urbino), member of Campanian Working Group, and Marco Menichetti (University of Urbino) and Alessandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by Filippo Mario Stirati, the Mayor of Gubbio.
 
-Stefania Proietti (President of the Province of Perugia), Paola Agabiti (Councilor for tourism, culture, educa(on of the Regione of Umbria), Roberto Rettori (Vice Rector of the University of Perugia) and Giorgio Calcagnini (Rector of the University of Urbino) attended the ceremony.
+Stefania Proietti (President of the Province of Perugia), Paola Agabiti (Councilor for tourism, culture, educaton of the Regione of Umbria), Roberto Rettori (Vice Rector of the University of Perugia) and Giorgio Calcagnini (Rector of the University of Urbino) attended the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel.jpg)  
 <p style="font-size:smaller;"> From left to right: M. Menichetti, R. Coccioni, M. R. Petrizzo, S. Proietti, F. M. Stirati, A. Montanari </p>
