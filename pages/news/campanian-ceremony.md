@@ -10,51 +10,58 @@ The golden spike ceremony for the Campanian Global boundary Stratotype Section a
 This GSSP defines the base of the Campanian Stage and was ratified by IUGS in October 2022 (Gale et al. 2023) 
 [Episodes, [https://www.episodes.org/journal/view.html?uid=2319&vmd=Full](https://doi.org/10.18814/epiiugs/2022/022048](https://www.episodes.org/journal/view.html?uid=2319&vmd=Full)
 
-The ceremony was organized by the International Subcommission on Cretaceous Stratigraphy (chair Maria Rose Petrizzo, secretary Francesca Falzoni) and its Campanian Working Group (chair Andy Gale).
-
 ![](https://stratigraphy.org/subcommission-cretaceous/images/GSSPnails.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/goldenMR.jpg) 
-<p style="font-size:smaller;"> Cretaceous Subcommission Chair Maria Rose Petrizzo.</p>
+<p style="font-size:smaller;"> Maria Rose Petrizzo </p>
+
+The ceremony was organized by the International Subcommission on Cretaceous Stratigraphy (chair Maria Rose Petrizzo, secretary Francesca Falzoni) and its Campanian Working Group (chair Andy Gale).
+
+The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), Marco Menichetti (University of Urbino) and Alessandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by the Mayor of Gubbio Filippo Mario Stirati.
+
+The local authorities of the Province of Perugia (Stefania Proietti) and Region of Umbria (Paola Agabiti), the Vice Rector of the University of Perugia (Roberto Rettori), the Rector of the University of Urbino (Giorgio Calcagnini) attended the ceremony.
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel.jpg)  
+<p style="font-size:smaller;"> From left to right: M. Menichetti, R. Coccioni, M. R. Petrizzo, S. Proietti, F. M. Stirati, A. Montanari </p>
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel2.jpg)  
+<p style="font-size:smaller;"> From left to right: R. Coccioni, F. M. Stirati, M. Menichetti, M. R. Petrizzo, S. Proietti, A. Montanari </p>
 
 The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secretary General).
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel.jpg)  
-<p style="font-size:smaller;"> David Harper and Maria Rose Petrizzo.</p>
+<p style="font-size:smaller;"> David Harper and Maria Rose Petrizzo </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel2.jpg)  
-<p style="font-size:smaller;"> Stan Finney and Maria Rose Petrizzo.</p>
+<p style="font-size:smaller;"> Stan Finney and Maria Rose Petrizzo </p>
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail.jpg)  
-<p style="font-size:smaller;"> Marco Menichetti, Rodolfo Coccioni, Maria Rose Petrizzo.</p>
-
-The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), Marco Menichetti (University of Urbino) and Alessandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by the Mayor of Gubbio Filippo Mario Stirati.
+The representative of the Italian scientific organization (SGI president Sandro Conticelli, SPI president Giorgio Carnevale, CIS president Piero Gianolla, ISPRA Geological Survey Andrea Fiorentino) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino and citizen of Gubbio interested in heritage sites. 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people.jpg)  
-<p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, A. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale.</p>
-
-The local authorities of the Province of Perugia (Stefania Proietti) and Region of Umbria (Paola Agabiti), the Vice Rector of the University of Perugia (Roberto Rettori), the Rector of the University of Urbino (Giorgio Calcagnini) and the representative of the Italian scientific organization (SGI president Sandro Conticelli, SPI president Giorgio Carnevale, CIS president Piero Gianolla, ISPRA Geological Survey Andrea Fiorentino) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino and citizen of Gubbio interested in heritage sites. 
+<p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, A. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg.jpg)  
-<p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni,  I. Walaszczyk. </p>
+<p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni,  I. Walaszczyk </p>
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail.jpg)  
+<p style="font-size:smaller;"> Marco Menichetti, Rodolfo Coccioni, Maria Rose Petrizzo </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg2.jpg)  
-<p style="font-size:smaller;"> From left to right: F. Miniati, M.R. Petrizzo, F. Falzoni,  D. Xi. </p>
+<p style="font-size:smaller;"> From left to right: F. Miniati, M.R. Petrizzo, F. Falzoni,  D. Xi </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people2.jpg)  
-<p style="font-size:smaller;"> From left to right: A. Montanari, R. Coccioni, S. Monechi, S. Finney. </p>
+<p style="font-size:smaller;"> From left to right: A. Montanari, R. Coccioni, S. Monechi, S. Finney </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk1.jpg) 
-<p style="font-size:smaller;"> F. M. Stirati and M. Menichetti. </p>
+<p style="font-size:smaller;"> F. M. Stirati and M. Menichetti </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk2.jpg) 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk3.jpg) 
-<p style="font-size:smaller;"> Andy Gale. </p>
-
+<p style="font-size:smaller;"> Andy Gale </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/video1.MP4) 
 
