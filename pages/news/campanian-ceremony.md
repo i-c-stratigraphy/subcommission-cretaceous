@@ -27,10 +27,10 @@ The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail.jpg)  
 <p style="font-size:smaller;"> Marco Menichetti, Rodolfo Coccioni, Maria Rose Petrizzo.</p>
 
-The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), Marco Menichetti (University of Urbino) and Sandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by the Mayor of Gubbio Filippo Mario Stirati.
+The member of Campanian Working Group Rodolfo Coccioni (University of Urbino), Marco Menichetti (University of Urbino) and Alessandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by the Mayor of Gubbio Filippo Mario Stirati.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people.jpg)  
-<p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, S. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale.</p>
+<p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, A. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale.</p>
 
 The local authorities of the Province of Perugia (Stefania Proietti) and Region of Umbria (Paola Agabiti), the Vice Rector of the University of Perugia (Roberto Rettori), the Rector of the University of Urbino (Giorgio Calcagnini) and the representative of the Italian scientific organization (SGI president Sandro Conticelli, SPI president Giorgio Carnevale, CIS president Piero Gianolla, ISPRA Geological Survey Andrea Fiorentino) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino and citizen of Gubbio interested in heritage sites. 
 
@@ -41,11 +41,14 @@ The local authorities of the Province of Perugia (Stefania Proietti) and Region 
 <p style="font-size:smaller;"> From left to right: F. Miniati, M.R. Petrizzo, F. Falzoni,  D. Xi. </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people2.jpg)  
-<p style="font-size:smaller;"> From left to right: S. Montanari, R. Coccioni, S. Monechi, S. Finney. </p>
+<p style="font-size:smaller;"> From left to right: A. Montanari, R. Coccioni, S. Monechi, S. Finney. </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
+
+
+
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/video1.MP4) 
 
