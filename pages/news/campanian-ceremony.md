@@ -49,5 +49,5 @@ The local authorities of the Province of Perugia (Stefania Proietti) and Region 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/video1.MP4) 
 
-If you are interested in seeing more photos and movies of the ceremony please contact Maria Rose Petrizzo 
+If you are interested in seeing more photos and videos of the ceremony please contact Maria Rose Petrizzo 
 [mrose.petrizzo@unimi.it]
