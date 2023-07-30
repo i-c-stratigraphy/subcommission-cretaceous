@@ -30,7 +30,6 @@ The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secr
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel.jpg)  
 <p style="font-size:smaller;"> David Harper and Maria Rose Petrizzo </p>
-
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel2.jpg)  
 <p style="font-size:smaller;"> Stan Finney and Maria Rose Petrizzo </p>
 
@@ -52,9 +51,7 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 <p style="font-size:smaller;"> From left to right: A. Montanari, R. Coccioni, S. Monechi, S. Finney </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
-
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
-
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk1.jpg) 
 <p style="font-size:smaller;"> Filippo Mario Stirati and Marco Menichetti </p>
 
