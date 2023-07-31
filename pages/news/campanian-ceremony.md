@@ -49,6 +49,7 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg.jpg)  
 <p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni,  I. Walaszczyk </p>
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/nail3.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail2.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail.jpg)  
 <p style="font-size:smaller;"> Marco Menichetti, Alessandro Montanari, Rodolfo Coccioni, Maria Rose Petrizzo </p>
