@@ -32,8 +32,10 @@ The ceremony was attended by David Harper (ICS chair) and Stan Finney (IUGS Secr
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel.jpg)  
 <p style="font-size:smaller;"> David Harper and Maria Rose Petrizzo </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/panel2.jpg)  
 <p style="font-size:smaller;"> Stan Finney and Maria Rose Petrizzo </p>
+
 
 The representative of the Italian scientific organizations Sandro Conticelli (President SGI-Italian Geological Society), Giorgio Carnevale (President SPI-Italian Paleontological Society), Piero Gianolla (President CIS-Italian Commission on Stratigraphy), Andrea Fiorentino (representative ISPRA Italian Geological Survey) were also present together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino, and also several citizen of the area of Gubbio interested in heritage sites. 
 
@@ -59,39 +61,51 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people6.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/menichetti.jpg) 
 <p style="font-size:smaller;"> Marco Menichetti </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk1.jpg) 
 <p style="font-size:smaller;"> Filippo Mario Stirati and Marco Menichetti </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/stirati.jpg) 
 <p style="font-size:smaller;"> Filippo Mario Stirati </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/proietti.jpg) 
 <p style="font-size:smaller;"> Stefania Proietti </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/agabiti.jpg) 
 <p style="font-size:smaller;"> Paola Agabiti </p>
-![](https://stratigraphy.org/subcommission-cretaceous/images/agabiti.jpg) 
-<p style="font-size:smaller;"> Paola Agabiti </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/rettori.jpg) 
 <p style="font-size:smaller;"> Roberto Rettori </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/calcagnini.jpg) 
 <p style="font-size:smaller;"> Giorgio Calcagnini </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk2.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/MR.jpg) 
 <p style="font-size:smaller;"> Maria Rose Petrizzo </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk3.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/andy.jpg) 
 <p style="font-size:smaller;"> Andy Gale </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/harper.jpg) 
 <p style="font-size:smaller;"> David Harper </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/finney.jpg) 
 <p style="font-size:smaller;"> Stan Finney </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/conticelli.jpg) 
 <p style="font-size:smaller;"> Sandro Conticelli </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/gianolla.jpg) 
 <p style="font-size:smaller;"> Piero Gianolla </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/carnevale.jpg) 
 <p style="font-size:smaller;"> Giorgio Carnevale </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/fiorentino.jpg) 
 <p style="font-size:smaller;"> Andrea Fiorentino </p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people7.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people8.jpg) 
 
