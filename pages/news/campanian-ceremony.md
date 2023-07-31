@@ -21,9 +21,13 @@ Rodolfo Coccioni (University of Urbino), member of Campanian Working Group, and 
 
 Stefania Proietti (President of the Province of Perugia), Paola Agabiti (Councilor for tourism, culture, educaton of the Regione of Umbria), Roberto Rettori (Vice Rector of the University of Perugia) and Giorgio Calcagnini (Rector of the University of Urbino) attended the ceremony.
 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/people9.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel.jpg)  
 <p style="font-size:smaller;"> From left to right: M. Menichetti, R. Coccioni, M. R. Petrizzo, S. Proietti, F. M. Stirati, A. Montanari </p>
 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel6.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel5.jpg)  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel2.jpg)  
 <p style="font-size:smaller;"> From left to right: R. Coccioni, F. M. Stirati, M. Menichetti, M. R. Petrizzo, S. Proietti, A. Montanari </p>
@@ -58,6 +62,7 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people5.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/people10.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people6.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/menichetti.jpg) 
 <p style="font-size:smaller;"> Marco Menichetti </p>
