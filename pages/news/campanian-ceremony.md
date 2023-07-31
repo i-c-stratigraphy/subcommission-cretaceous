@@ -11,6 +11,7 @@ This GSSP defines the base of the Campanian Stage and was ratified by IUGS in Oc
 [Episodes, [https://www.episodes.org/journal/view.html?uid=2319&vmd=Full](https://doi.org/10.18814/epiiugs/2022/022048](https://www.episodes.org/journal/view.html?uid=2319&vmd=Full)
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/GSSPnails.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/nail.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/goldenMR.jpg) 
 <p style="font-size:smaller;"> Maria Rose Petrizzo </p>
 
@@ -23,6 +24,7 @@ Stefania Proietti (President of the Province of Perugia), Paola Agabiti (Council
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel.jpg)  
 <p style="font-size:smaller;"> From left to right: M. Menichetti, R. Coccioni, M. R. Petrizzo, S. Proietti, F. M. Stirati, A. Montanari </p>
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel5.jpg)  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ceremony-panel2.jpg)  
 <p style="font-size:smaller;"> From left to right: R. Coccioni, F. M. Stirati, M. Menichetti, M. R. Petrizzo, S. Proietti, A. Montanari </p>
 
@@ -41,8 +43,9 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg.jpg)  
 <p style="font-size:smaller;"> From left to right: E. Wolfgring, M. Maron, F. Miniati, M.R. Petrizzo, S. Monechi, A. Gale, F. Falzoni,  I. Walaszczyk </p>
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail2.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/noi3nail.jpg)  
-<p style="font-size:smaller;"> Marco Menichetti, Rodolfo Coccioni, Maria Rose Petrizzo </p>
+<p style="font-size:smaller;"> Marco Menichetti, Alessandro Montanari, Rodolfo Coccioni, Maria Rose Petrizzo </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/peoplewg2.jpg)  
 <p style="font-size:smaller;"> From left to right: F. Miniati, M.R. Petrizzo, F. Falzoni,  D. Xi </p>
@@ -52,12 +55,45 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/people5.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/people6.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/menichetti.jpg) 
+<p style="font-size:smaller;"> Marco Menichetti </p>
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk1.jpg) 
 <p style="font-size:smaller;"> Filippo Mario Stirati and Marco Menichetti </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/stirati.jpg) 
+<p style="font-size:smaller;"> Filippo Mario Stirati </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/proietti.jpg) 
+<p style="font-size:smaller;"> Stefania Proietti </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/agabiti.jpg) 
+<p style="font-size:smaller;"> Paola Agabiti </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/agabiti.jpg) 
+<p style="font-size:smaller;"> Paola Agabiti </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/rettori.jpg) 
+<p style="font-size:smaller;"> Roberto Rettori </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/calcagnini.jpg) 
+<p style="font-size:smaller;"> Giorgio Calcagnini </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk2.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/MR.jpg) 
+<p style="font-size:smaller;"> Maria Rose Petrizzo </p>
 ![](https://stratigraphy.org/subcommission-cretaceous/images/talk3.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/andy.jpg) 
 <p style="font-size:smaller;"> Andy Gale </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/harper.jpg) 
+<p style="font-size:smaller;"> David Harper </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/finney.jpg) 
+<p style="font-size:smaller;"> Stan Finney </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/conticelli.jpg) 
+<p style="font-size:smaller;"> Sandro Conticelli </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/gianolla.jpg) 
+<p style="font-size:smaller;"> Piero Gianolla </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/carnevale.jpg) 
+<p style="font-size:smaller;"> Giorgio Carnevale </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/fiorentino.jpg) 
+<p style="font-size:smaller;"> Andrea Fiorentino </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/people7.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/people8.jpg) 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/video1.MP4) 
 
