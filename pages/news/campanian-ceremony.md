@@ -59,11 +59,15 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people2.jpg)  
 <p style="font-size:smaller;"> From left to right: A. Montanari, R. Coccioni, S. Monechi, S. Finney </p>
 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/people9.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/people10.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/people6.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people5.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/people10.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/people6.jpg) 
+
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/menichetti.jpg) 
 <p style="font-size:smaller;"> Marco Menichetti </p>
 
