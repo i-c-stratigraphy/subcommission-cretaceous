@@ -19,7 +19,7 @@ The ceremony was organized by the International Subcommission on Cretaceous Stra
 
 Rodolfo Coccioni (University of Urbino), member of Campanian Working Group, and Marco Menichetti (University of Urbino) and Alessandro Montanari (Coldigioco Geological Observatory) played an active role in the organization of the ceremony that was hosted by Filippo Mario Stirati, the Mayor of Gubbio.
 
-Stefania Proietti (President of the Province of Perugia), Paola Agabiti (Councilor for tourism, culture, educaton of the Regione of Umbria), Roberto Rettori (Vice Rector of the University of Perugia) and Giorgio Calcagnini (Rector of the University of Urbino) attended the ceremony.
+Stefania Proietti (President of the Province of Perugia), Paola Agabiti (Councilor for tourism, culture, educaton of the Region of Umbria), Roberto Rettori (Vice Rector of the University of Perugia) and Giorgio Calcagnini (Rector of the University of Urbino) attended the ceremony.
 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people9.jpg) 
@@ -42,7 +42,7 @@ David Harper (ICS chair) and Stan Finney (IUGS Secretary General) were also pres
 
 The representative of the Italian scientific organizations Sandro Conticelli (President SGI-Italian Geological Society), Giorgio Carnevale (President SPI-Italian Paleontological Society), Piero Gianolla (President CIS-Italian Commission on Stratigraphy), and Andrea Fiorentino (representative ISPRA Italian Geological Survey) attended the ceremony.
 
-Members of the Cretaceous Subcommission together with many geologists and students of the University of Perugia, Urbino, Firenze, Milano, Torino, Camerino, and several citizen of the area of Gubbio interested in heritage sites participated to the event.
+Members of the Cretaceous Subcommission together with many geologists and students of the Universities of Perugia, Urbino, Firenze, Milano, Torino, Camerino, and several citizen of the area of Gubbio interested in heritage sites participated to the event.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people.jpg)  
 <p style="font-size:smaller;"> From left to right: M. Menichetti, S. Conticelli, A. Montanari, A. Fiorentino, D. Harper, S. Finney, M.R. Petrizzo, R. Coccioni, A. Gale, P. Gianolla, G. Carnevale </p>
