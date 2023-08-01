@@ -60,9 +60,6 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people2.jpg)  
 <p style="font-size:smaller;"> From left to right: A. Montanari, R. Coccioni, S. Monechi, S. Finney </p>
 
-
-![](https://stratigraphy.org/subcommission-cretaceous/images/people9.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/people10.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people6.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people3.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people4.jpg) 
@@ -71,9 +68,6 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/menichetti.jpg) 
 <p style="font-size:smaller;"> Marco Menichetti </p>
-
-![](https://stratigraphy.org/subcommission-cretaceous/images/talk1.jpg) 
-<p style="font-size:smaller;"> Filippo Mario Stirati and Marco Menichetti </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/stirati.jpg) 
 <p style="font-size:smaller;"> Filippo Mario Stirati </p>
@@ -118,8 +112,6 @@ The representative of the Italian scientific organizations Sandro Conticelli (Pr
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people7.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/people8.jpg) 
-
-![](https://stratigraphy.org/subcommission-cretaceous/images/video1.MP4) 
 
 If you are interested in seeing more photos and videos of the ceremony please contact Maria Rose Petrizzo 
 [mrose.petrizzo@unimi.it]
