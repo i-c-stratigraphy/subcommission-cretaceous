@@ -35,9 +35,9 @@ permalink: /wgs/berriasian
 **Mathieu Martinez**, Géosciences Rennes, Université de Rennes 1, France  
 **Atsushi Matsuoka**, Department of Geology, Niigata University, Niigata, Japan  
 **Jozef Michalik**, Earth Science Institute, Slovak Academy of Sciences, Bratislava, Slovakia  
-**Joerg Mutterlose**, Institut für Geologie, Mineralogie und Geophysik, Ruhr-Universität Bochum, Germany 
-**Pierre Pellenard**, Université de Bourgogne, Dijon, France 
-**Silviya Petrova**,  Institute of Geology, Bulgarian Academy of Sciences, Sofia, Bulgaria
+**Joerg Mutterlose**, Institut für Geologie, Mineralogie und Geophysik, Ruhr-Universität Bochum, Germany  
+**Pierre Pellenard**, Université de Bourgogne, Dijon, France  
+**Silviya Petrova**,  Institute of Geology, Bulgarian Academy of Sciences, Sofia, Bulgaria  
 **Gregory Price**, School of Geography, Earth and Environmental Sciences, University of Plymouth, UK  
 **Daniela Reháková**, Faculty of Natural Sciences, Comenius University, Bratislava, Slovakia  
 **Mikhail Rogov**, Geological Institute, Russian Academy of Sciences, Moscow, Russia  
