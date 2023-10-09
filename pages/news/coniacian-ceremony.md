@@ -11,6 +11,8 @@ This GSSP defines the base of the Coniacian Stage and was ratified by IUGS in Ma
 [Episodes, [Episodes v. 45, n. 2 (https://www.episodes.org/journal/view.html?volume=45&number=2&spage=181&vmd=Full)] 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSPnail.jpg)
+<p style="font-size:smaller;"> Ireneusz Walaszczyk and Silke Voigt
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSP.jpg)
 <p style="font-size:smaller;"> Irek Walaszczyk and Silke Voigt</p>
 
@@ -23,9 +25,6 @@ The ceremony was organized by the Coniacian Working Group of the International S
 <p style="font-size:smaller;"> Silke Voigt explaining the GSSP </p>
 
 Christian Striese (2nd Major of the City of Salzgitter, Henning Zellmer (GeoparkHarz –Braunschweiger Land –  Ostfalen), Markus Stöwer (Department Head, State Authority for Mining Energy and Geology LBEG), Lower Saxony), Markus Wilmsen (Chair of SKS - Subkommission für Kreide-Stratigraphie, Vice Chair of the DSK - Deutsche Stratigraphische Kommission), Philip Gibbard (Secretary General of the IUGS - International Commission on Stratigraphy), Maria Rose Petrizzo (Chair of the IUGS - ICS International Subcommission on Cretaceous Stratigraphy), and Ireneusz Walaszczyk (Chair of the Working Group of the Coniacian Stage) attended the ceremony.
-
-![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-irek-silke.jpg)  
-<p style="font-size:smaller;"> Ireneusz Walaszczyk and Silke Voigt
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-view.jpg)  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-people.jpg)  
