@@ -11,8 +11,6 @@ This GSSP defines the base of the Coniacian Stage and was ratified by IUGS in Ma
 [Episodes, [Episodes v. 45, n. 2 (https://www.episodes.org/journal/view.html?volume=45&number=2&spage=181&vmd=Full)] 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSPnail.jpg)
-<p style="font-size:smaller;"> Ireneusz Walaszczyk and Silke Voigt
-
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSP.jpg)
 <p style="font-size:smaller;"> Irek Walaszczyk and Silke Voigt</p>
 
