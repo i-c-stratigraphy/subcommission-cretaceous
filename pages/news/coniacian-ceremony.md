@@ -26,7 +26,6 @@ Christian Striese (2nd Major of the City of Salzgitter, Henning Zellmer (Geopark
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-view.jpg)  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-people.jpg)  
-
 <p style="font-size:smaller;"> From left to right: J. Todes, D. Xi, B. Niebuhr, C. Ifrim, I. Jarvis, M. R. Petrizzo, S. Voigt F. Wiese, P. Gibbard</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-3.jpg)  
