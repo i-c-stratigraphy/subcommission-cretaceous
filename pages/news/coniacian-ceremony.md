@@ -1,6 +1,6 @@
 ---
 layout: page
-•	title: "GOLDEN SPIKE CEREMONY CONIACIAN GSSP – September 19, 2023"
+title: "GOLDEN SPIKE CEREMONY CONIACIAN GSSP – September 19, 2023"
 permalink:  /news/coniacian-ceremony
 ---
 # GOLDEN SPIKE CEREMONY CONIACIAN GSSP - September 19, 2023
