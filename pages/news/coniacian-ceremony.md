@@ -11,18 +11,19 @@ This GSSP defines the base of the Coniacian Stage and was ratified by IUGS in Ma
 [Episodes v. 45, n. 2 https://www.episodes.org/journal/view.html?volume=45&number=2&spage=181&vmd=Full] 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSPnail.jpg)
+
+The ceremony was organized by the Coniacian Working Group of the International Subcommission on Cretaceous Stratigraphy. Silke Voigt (University of Frankfurt) member of the Coniacian Working Group and Irek Walaszczyk (University of Warsaw) chair of the Coniacian Working Group played an active role in the organization of the ceremony that was hosted in the castle of Salder, Fürstensaal. 
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-GSSP.jpg)
 <p style="font-size:smaller;">Irek Walaszczyk and Silke Voigt</p>
-
-![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSP2.jpg) 
-<p style="font-size:smaller;">Maria Rose Petrizzo and Phil Gibbard</p>
-
-The ceremony was organized by the Coniacian Working Group of the International Subcommission on Cretaceous Stratigraphy. Silke Voigt (University of Frankfurt), member of Coniacian Working Group played an active role in the organization of the ceremony that was hosted in the castle of Salder, Fürstensaal. 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/silke-panel.jpg)  
 <p style="font-size:smaller;">Silke Voigt explains the GSSP</p>
 
-Christian Striese (2nd Major of the City of Salzgitter, Henning Zellmer (GeoparkHarz –Braunschweiger Land –  Ostfalen), Markus Stöwer (Department Head, State Authority for Mining Energy and Geology LBEG), Lower Saxony), Markus Wilmsen (Chair of SKS - Subkommission für Kreide-Stratigraphie, Vice Chair of the DSK - Deutsche Stratigraphische Kommission), Philip Gibbard (Secretary General of the IUGS - International Commission on Stratigraphy), Maria Rose Petrizzo (Chair of the IUGS - ICS International Subcommission on Cretaceous Stratigraphy), and Ireneusz Walaszczyk (Chair of the Working Group of the Coniacian Stage) attended the ceremony. 
+Christian Striese (2nd Major of the City of Salzgitter, Henning Zellmer (GeoparkHarz –Braunschweiger Land –  Ostfalen), Markus Stöwer (Department Head, State Authority for Mining Energy and Geology LBEG), Lower Saxony), Markus Wilmsen (Chair of SKS - Subkommission für Kreide-Stratigraphie, Vice Chair of the DSK - Deutsche Stratigraphische Kommission), Philip Gibbard (Secretary General of the IUGS - International Commission on Stratigraphy), Maria Rose Petrizzo (Chair of the IUGS - ICS International Subcommission on Cretaceous Stratigraphy), and Irek Walaszczyk (Chair of the Working Group of the Coniacian Stage) attended the ceremony. 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSP2.jpg) 
+<p style="font-size:smaller;">Maria Rose Petrizzo and Phil Gibbard</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-view.jpg)  
 
