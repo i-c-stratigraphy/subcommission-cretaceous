@@ -10,10 +10,11 @@ The golden spike ceremony for the Coniacian Global boundary Stratotype Section a
 This GSSP defines the base of the Coniacian Stage and was ratified by IUGS in May 2021 (Walaszczyk et al. 2022) 
 [Episodes, [Episodes v. 45, n. 2 (https://www.episodes.org/journal/view.html?volume=45&number=2&spage=181&vmd=Full)] 
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSPnail.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSP.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSPnail.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSP.jpg)
 <p style="font-size:smaller;"> Irek Walaszczyk and Silke Voigt</p>
-![](https://stratigraphy.org/subcommission-cretaceous/images/ coniacianGSSP2.jpg) 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSP2.jpg) 
 <p style="font-size:smaller;"> Maria Rose Petrizzo and Phil Gibbard</p>
 
 The ceremony was organized by the Coniacian Working Group of the International Subcommission on Cretaceous Stratigraphy. Silke Voigt (University of Frankfurt), member of Coniacian Working Group played an active role in the organization of the ceremony that was hosted in the castle of Salder, Fürstensaal.
@@ -30,6 +31,7 @@ Christian Striese (2nd Major of the City of Salzgitter, Henning Zellmer (Geopark
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-people.jpg)  
 
 <p style="font-size:smaller;"> From left to right: J. Todes, D. Xi, B. Niebuhr, C. Ifrim, I. Jarvis, M. R. Petrizzo, S. Voigt F. Wiese, P. Gibbard</p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-3.jpg)  
 <p style="font-size:smaller;"> From left to right: A. Bornemann, M.R. Petrizzo, M. Wilmsen
 
