@@ -32,7 +32,7 @@ The event was also attended by members of the Cretaceous Subcommission and co-au
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-people.jpg)  
 <p style="font-size:smaller;">From left to right: J. Todes, D. Xi, B. Niebuhr, C. Ifrim, I. Jarvis, M. R. Petrizzo, S. Voigt F. Wiese, P. Gibbard</p>
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-3.jpg)  
+![](https://stratigraphy.org/subcommission-cretaceous/images/coniacian-3.jpeg)  
 <p style="font-size:smaller;">From left to right: A. Bornemann, M.R. Petrizzo, M. Wilmsen</p> 
 
 If you are interested in seeing more photos of the ceremony please contact Maria Rose Petrizzo 
