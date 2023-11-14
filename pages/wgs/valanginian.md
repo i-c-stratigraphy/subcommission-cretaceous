@@ -46,8 +46,7 @@ permalink: /wgs/valanginian
 
 **Thierry Adatte**, Institute of Earth Sciences, University of Lausanne, Lausanne, Switzerland  
 **María Beatriz Aguirre-Urreta**, Instituto de Estudios Andinos (UBA-CONICET), Universidad de Buenos Aires, Argentina  
-**Roque Aguado**, Departamento de Geología, Universidad de Jaén, Spain  
-**Evgenij J. Baraboshkin**, Geological Faculty, Moscow State University, Russia  
+**Stéphanie Duchamp-Alphonse**, Géosciences, Université Paris-Saclay, Orsay, France  
 **Paul R. Bown**, Department of Earth Sciences, University College London, UK  
 **Stéphanie Duchamp-Alphonse**, Géosciences, Université Paris-Saclay, Orsay, France  
 **Elisabetta Erba**, Dipartimento di Scienze della Terra, Università degli Studio di Milano, Italia  
@@ -82,7 +81,7 @@ Salazar, C., Stinnesbeck, W., Álvarez, M., (2020). Ammonite biostratigraphy and
 Zakharov, V.A., Rogov, M.A., (2020). High-resolution stratigraphy of buchiid bivalves and ammonites from the Jurassic-Cretaceous boundary beds in the Paskenta area (California). Cretaceous Research 110, 104422.
 
 <!--
-### Relevant publications arising from members of the Valanginian WG in 2018-2019:
+### Relevant publications arising from members of the Valanginian WG:
 
 Aguirre-Urreta, B., Martinez, M., Schmitz, M., Lescano, M., Omarini, J., Tunik, M., Kuhnert, H., Concheyro, A., Rawson, P.F., Ramos, V.A., Reboulet, S., Noclin, N., Frederichs, T., Nickl, A.-L., Pälike, H. 2019. Interhemispheric radio-astrochronological calibration of the time scales from the Andean and the Tethyan areas in the Valanginian–Hauterivian (Early Cretaceous). Gondwana Research, 70, 104-132.
 
