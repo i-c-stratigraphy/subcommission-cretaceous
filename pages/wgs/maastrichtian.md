@@ -29,8 +29,8 @@ The need to revise the current definition of the base Maastrichtian was discusse
 ### Working Group Members:
 **Sietske J. Batenburg**, Faculty of Earth Sciences, University of Barcelona, Martí i Franqués, 08028 Barcelona, Spain  
 **André Bornemann**, Federal Institute for Geosciences and Natural Resources  (BGR), Stilleweg 2, 30655 Hannover  
-**Brian T. Huber**, UMR 7207 CR2P -Centre de Recherche en Paléontologie Paris, 75252 Paris cedex 05  
-**Desmares Dephine**, Department of Paleobiology National Museum of Natural History Smithsonian Institution, Washington, DC 20013-7012, U.S.A.  
+**Brian T. Huber**, Department of Paleobiology National Museum of Natural History Smithsonian Institution, Washington, DC 20013-7012, U.S.A.  
+**Desmares Dephine**, UMR 7207 CR2P -Centre de Recherche en Paléontologie Paris, 75252 Paris cedex 05  
 **Agata Jurkowska**, Faculty of Geology, Geophysics and Environmental Protection AGH, University of Science and Technology, Kraków, Poland  
 **Mathieu Martinez**, Géosciences Rennes, Bât.15 campus Beaulieu, Université de Rennes 1, Rennes 35042, France  
 **Mariusz Niecwedowicz**, University of Warsaw, Faculty of Geology, S.J. Thugutt Geological Museum, Żwirki i Wigury 93, 02-089 Warszawa, Poland  
