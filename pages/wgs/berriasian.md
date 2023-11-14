@@ -25,7 +25,8 @@ permalink: /wgs/berriasian
 </div>
 
 ### Working Group Members:
-
+**Ottilia Szives**, Secretary of the WG, Department of Palaeontology and Geology, Hungarian Natural History Museum, Budapest, Hungary  
+**Peter Alsen**,  Geological Survey of Denmark and Greenland  
 **Beatriz Aguirre-Urreta**, Department of Geological Sciences, University of Buenos Aires, Argentina  
 **Jean-Francois Deconinck**, Université de Bourgogne, Dijon, France  
 **Elisabetta Erba**, Universitá degli Studi di Milano, Dipartimento di Scienze della Terra A. Desio, Milano, Italy  
@@ -38,9 +39,9 @@ permalink: /wgs/berriasian
 **Joerg Mutterlose**, Institut für Geologie, Mineralogie und Geophysik, Ruhr-Universität Bochum, Germany  
 **Pierre Pellenard**, Université de Bourgogne, Dijon, France  
 **Silviya Petrova**,  Institute of Geology, Bulgarian Academy of Sciences, Sofia, Bulgaria  
-**Gregory Price**, School of Geography, Earth and Environmental Sciences, University of Plymouth, UK  
+**Gregory Price**, School of Geography, Earth and Environmental Sciences, University of Plymouth, UK 
+**Petr Pruner**, Institute of Geology, Czech Academy of Sciences, Praha, Czech Republic   
 **Daniela Reháková**, Faculty of Natural Sciences, Comenius University, Bratislava, Slovakia  
 **Mikhail Rogov**, Geological Institute, Russian Academy of Sciences, Moscow, Russia  
 **Mark D. Schmitz**, Department of Geosciences, Boise State University, Boise, USA  
-**Petr Schnabl**, Institute of Geology, Czech Academy of Sciences, Praha, Czech Republic  
-**Ottilia Szives**, Department of Palaeontology and Geology, Hungarian Natural History Museum, Budapest, Hungary  
+
