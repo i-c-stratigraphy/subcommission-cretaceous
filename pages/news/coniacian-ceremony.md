@@ -8,7 +8,7 @@ permalink:  /news/coniacian-ceremony
 The golden spike ceremony for the Coniacian Global boundary Stratotype Section and Point (GSSP) was held on September 19, 2023 at Salzgitter-Salder, Norther Germany. 
 
 This GSSP defines the base of the Coniacian Stage and was ratified by IUGS in May 2021 (Walaszczyk et al. 2022) 
-[Episodes v. 45, n. 2 https://www.episodes.org/journal/view.html?volume=45&number=2&spage=181&vmd=Full] 
+[Episodes v. 45, n. 2 https://www.episodes.org/journal/view.html?volume=45&number=2&spage=181&vmd=Full] (https://www.episodes.org/journal/view.html?volume=45&number=2&spage=181&vmd=Full)
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/coniacianGSSPnail.jpg)
 
