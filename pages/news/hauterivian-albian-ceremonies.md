@@ -44,6 +44,9 @@ Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail14.jpg) 
 
 
+
+
+
 The GSSP that defines the base of the Albian Stage was ratified by IUGS in April 2016 (Kennedy et al. 2017) 
 [Episodes, [https://www.episodes.org/journal/view.html?volume=40&number=3&spage=177&vmd=Full](http://doi.org/10.18814/epiiugs/2017/v40i3/017021](https://www.episodes.org/journal/view.html?volume=40&number=3&spage=177&vmd=Full)
 
