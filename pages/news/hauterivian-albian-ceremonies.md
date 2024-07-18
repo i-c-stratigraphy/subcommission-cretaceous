@@ -6,6 +6,8 @@ permalink:  /news/hauterivian-albian-ceremonies
 # GOLDEN SPIKE CEREMONY HAUTERIVIAN AND ALBIAN GSSP - June 29, 2024
 
 The golden spike ceremony for the Hauterivian and Albian Global boundary Stratotype Section and Point (GSSP) was held on June 29, 2024 in Arnayon and La Charce in Southest France.
+
+
 The GSSP that defines the base of the Hauterivian Stage was ratified by IUGS in December 2019 (Mutterlose et al. 2021) 
 [Episodes, [https://www.episodes.org/journal/view.html?uid=2175&vmd=Full]( https://doi.org/10.18814/epiiugs/2020/020072](https://www.episodes.org/journal/view.html?uid=2175&vmd=Full)
 
@@ -78,7 +80,7 @@ The GSSP that defines the base of the Albian Stage was ratified by IUGS in April
 
 <p style="font-size:smaller;">On the way to the Albian GSSP</p>
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1 .jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1a.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian2.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian3.jpg) 
