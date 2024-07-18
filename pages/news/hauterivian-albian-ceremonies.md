@@ -65,7 +65,6 @@ The GSSP that defines the base of the Albian Stage was ratified by IUGS in April
   ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail9.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail10.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail11.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail12.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail13.jpg) 
 <p style="font-size:smaller;"> <On the way to the Albian GSSP</p>
 
