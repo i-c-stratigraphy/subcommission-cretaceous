@@ -14,12 +14,12 @@ The GSSP that defines the base of the Hauterivian Stage was ratified by IUGS in 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1a.jpg) 
 <p style="font-size:smaller;"> Maria Rose Petrizzo, chair International Subcommission on Cretaceous Stratigraphy </p>
 
-Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Group), Maxime Chateauvieux (Chargé de projets Espaces Naturels Sensibles, Conseil départemental de la Drôme) and Hervé Simon from (Communication Direction of the Department of Drôme, Baronnies Provençales Regional Natural Park played an active role in the organization of the ceremony.
+Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Group), Maxime Chateauvieux (Chargé de projets Espaces Naturels Sensibles, Conseil départemental de la Drôme) and Hervé Simon from (Communication Direction of the Department of Drôme, Baronnies Provençales Regional Natural Park) played an active role in the organization of the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail2.jpg) 
 <p style="font-size:smaller;"> Maxime Chateauvieux and Stéphane Reboulet </p>
 
-David Harper (chair of the International Commission of Stratigraphy), Joerg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) were also present.
+David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) were also present.
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail2.jpg) 
 <p style="font-size:smaller;"> From left to right: Jorg Mutterlose, Stéphane Reboulet, Maria Rose Petrizzo, David Harper </p>
 
@@ -56,7 +56,7 @@ The GSSP that defines the base of the Albian Stage was ratified by IUGS in April
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail5.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail5a.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail6.jpg) 
-<p style="font-size:smaller;"> < From left to right: Francesca Falzoni, Ian Jarvis, Andy Gale, Maria Rose Petrizzo, Stéphane Reboulet, David Harper, Eric Phelippeau, Marie-Pierre Monier, Nicole Peloux, Pascale Rochas, Jorg Mutterlose</p>
+<p style="font-size:smaller;"> < From left to right: Francesca Falzoni, Ian Jarvis, Andy Gale, Maria Rose Petrizzo, Stéphane Reboulet, David Harper, Eric Phelippeau, Marie-Pierre Monier, Nicole Peloux, Pascale Rochas, Jörg Mutterlose</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail7.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail8.jpg) 
