@@ -21,7 +21,8 @@ Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Grou
 <p style="font-size:smaller;"> Maxime Chateauvieux and Stéphane Reboulet</p>
 
 David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) were also present.
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail2.jpg) 
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3.jpg) 
 
 <p style="font-size:smaller;"> From left to right: Jorg Mutterlose, Stéphane Reboulet, Maria Rose Petrizzo, David Harper </p>
 
