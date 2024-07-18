@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GOLDEN SPIKE CEREMONY HAUTERIVIAN AND ALBIAN GSSP - June 29, 2024"
-permalink:  /news/hauterivian-albian-ceremony
+permalink:  /news/hauterivian-albian-ceremonies
 ---
 # GOLDEN SPIKE CEREMONY HAUTERIVIAN AND ALBIAN GSSP - June 29, 2024
 
