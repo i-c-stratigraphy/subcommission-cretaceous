@@ -17,16 +17,19 @@ The GSSP that defines the base of the Hauterivian Stage was ratified by IUGS in 
 Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Group), Maxime Chateauvieux (Chargé de projets Espaces Naturels Sensibles, Conseil départemental de la Drôme) and Hervé Simon from (Communication Direction of the Department of Drôme, Baronnies Provençales Regional Natural Park) played an active role in the organization of the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail2.jpg) 
-<p style="font-size:smaller;">Maxime Chateauvieux and Stéphane Reboulet</p>
+
+<p style="font-size:smaller;"> Maxime Chateauvieux and Stéphane Reboulet</p>
 
 David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) were also present.
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail2.jpg) 
+
 <p style="font-size:smaller;"> From left to right: Jorg Mutterlose, Stéphane Reboulet, Maria Rose Petrizzo, David Harper </p>
 
 Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (Vice-président du Conseil départemental de la Drôme en charge de la transition écologique, de l'environnement et de la biodiversité), Madame Pascale Rochas (Conseillère départementale), Madame Nicole Peloux (Présidente du Parc Naturel Régional des Baronnies provençales), Monsieur Pascal Cirer-Methel (mairie de la commune de La Charce), Madame Sophie Lacoste-Péricard (adjointe au maire de la commune d'Arnayon) attended the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail4.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail5.jpg) 
+
 <p style="font-size:smaller;"> From left to right: Pascale Rochas, Eric Phelippeau, Nicole Peloux , Stéphane Reboulet, David Harper,  Pascal Cirer-Methel, Maria Rose Petrizzo, Marie-Pierre Monier </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail7.jpg) 
@@ -45,8 +48,9 @@ The GSSP that defines the base of the Albian Stage was ratified by IUGS in April
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail1.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail1a.jpg) 
-<p style="font-size:smaller;">Maria Rose Petrizzo and Andy Gale </p>
+![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail1a.jpg)
+
+<p style="font-size:smaller;"> Maria Rose Petrizzo and Andy Gale </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail2.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail3.jpg) 
@@ -56,16 +60,18 @@ The GSSP that defines the base of the Albian Stage was ratified by IUGS in April
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail5.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail5a.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail6.jpg) 
-<p style="font-size:smaller;">From left to right: Francesca Falzoni, Ian Jarvis, Andy Gale, Maria Rose Petrizzo, Stéphane Reboulet, David Harper, Eric Phelippeau, Marie-Pierre Monier, Nicole Peloux, Pascale Rochas, Jörg Mutterlose</p>
+
+<p style="font-size:smaller;"> From left to right: Francesca Falzoni, Ian Jarvis, Andy Gale, Maria Rose Petrizzo, Stéphane Reboulet, David Harper, Eric Phelippeau, Marie-Pierre Monier, Nicole Peloux, Pascale Rochas, Jörg Mutterlose </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail7.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail8.jpg) 
-<p style="font-size:smaller;"> < From left to right: Sophie Lacoste-Pericard, David Harper, Eric Phelippeau</p>
+<p style="font-size:smaller;"> From left to right: Sophie Lacoste-Pericard, David Harper, Eric Phelippeau </p>
 
   ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail9.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail10.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail11.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/albiannail13.jpg) 
+
 <p style="font-size:smaller;">On the way to the Albian GSSP</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian1.jpg) 
