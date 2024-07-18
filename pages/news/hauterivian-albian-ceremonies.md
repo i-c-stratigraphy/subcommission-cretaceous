@@ -74,12 +74,12 @@ The GSSP that defines the base of the Albian Stage was ratified by IUGS in April
 
 <p style="font-size:smaller;">On the way to the Albian GSSP</p>
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian1.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian1a.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian2.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian3.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian4.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian5.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1 .jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1a.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian2.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian3.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian4.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian5.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivianalbian6.jpg) 
 
 If you are interested in seeing more photos and videos of the ceremony please contact Maria Rose Petrizzo 
