@@ -30,7 +30,7 @@ Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Grou
 
 <p style="font-size:smaller;"> Maxime Chateauvieux and Stéphane Reboulet</p>
 
-The dedication ceremonies were aslo attended by Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (Vice-président du Conseil départemental de la Drôme en charge de la transition écologique, de l'environnement et de la biodiversité), Madame Pascale Rochas (Conseillère départementale), Madame Nicole Peloux (Présidente du Parc Naturel Régional des Baronnies provençales), Monsieur Pascal Cirer-Methel (mairie de la commune de La Charce), and Madame Sophie Lacoste-Péricard (adjointe au maire de la commune d'Arnayon).
+The dedication ceremonies were also attended by Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (Vice-président du Conseil départemental de la Drôme en charge de la transition écologique, de l'environnement et de la biodiversité), Madame Pascale Rochas (Conseillère départementale), Madame Nicole Peloux (Présidente du Parc Naturel Régional des Baronnies provençales), Monsieur Pascal Cirer-Methel (mairie de la commune de La Charce), and Madame Sophie Lacoste-Péricard (adjointe au maire de la commune d'Arnayon).
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3a.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail4.jpg) 
