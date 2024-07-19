@@ -17,7 +17,7 @@ The golden spike ceremony for the HAUTERIVIAN and ALBIAN Global boundary Stratot
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1a.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1.jpg) 
 
-Maria Rose Petrizzo (chair of the International Subcommission on Cretaceous Stratigraphy), David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremony.
+Maria Rose Petrizzo (chair of the International Subcommission on Cretaceous Stratigraphy), David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremonies.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1b.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3.jpg) 
@@ -30,7 +30,7 @@ Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Grou
 
 <p style="font-size:smaller;"> Maxime Chateauvieux and Stéphane Reboulet</p>
 
-Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (Vice-président du Conseil départemental de la Drôme en charge de la transition écologique, de l'environnement et de la biodiversité), Madame Pascale Rochas (Conseillère départementale), Madame Nicole Peloux (Présidente du Parc Naturel Régional des Baronnies provençales), Monsieur Pascal Cirer-Methel (mairie de la commune de La Charce), Madame Sophie Lacoste-Péricard (adjointe au maire de la commune d'Arnayon) attended the ceremony.
+The dedication ceremonies were aslo attended by Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (Vice-président du Conseil départemental de la Drôme en charge de la transition écologique, de l'environnement et de la biodiversité), Madame Pascale Rochas (Conseillère départementale), Madame Nicole Peloux (Présidente du Parc Naturel Régional des Baronnies provençales), Monsieur Pascal Cirer-Methel (mairie de la commune de La Charce), and Madame Sophie Lacoste-Péricard (adjointe au maire de la commune d'Arnayon).
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3a.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail4.jpg) 
