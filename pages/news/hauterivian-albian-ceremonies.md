@@ -14,8 +14,8 @@ The golden spike ceremony for the HAUTERIVIAN and ALBIAN Global boundary Stratot
 [Episodes, [https://www.episodes.org/journal/view.html?uid=2175&vmd=Full]( https://doi.org/10.18814/epiiugs/2020/020072](https://www.episodes.org/journal/view.html?uid=2175&vmd=Full)
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail.jpg)
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1a.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1.jpg) 
 
 Maria Rose Petrizzo (chair of the International Subcommission on Cretaceous Stratigraphy), David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremony.
 
