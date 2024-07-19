@@ -43,6 +43,6 @@ permalink: /officers
         via Mario Bianco 9<br />
         20131 Milano, Italy<br />
         Phone: +39-02 28311436<br />
-        E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@igag.cnr.it</a>
+        E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>
     </div>
 </div>
