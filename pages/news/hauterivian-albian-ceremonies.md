@@ -16,19 +16,18 @@ The golden spike ceremony for the HAUTERIVIAN and ALBIAN Global boundary Stratot
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1a.jpg) 
-<p style="font-size:smaller;">Maria Rose Petrizzo, chair International Subcommission on Cretaceous Stratigraphy</p>
+
+Maria Rose Petrizzo (chair of the International Subcommission on Cretaceous Stratigraphy), David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremony.
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3.jpg) 
+
+<p style="font-size:smaller;"> From left to right: Jorg Mutterlose, Stéphane Reboulet, Maria Rose Petrizzo, David Harper </p>
 
 Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Group), Maxime Chateauvieux (Chargé de projets Espaces Naturels Sensibles, Conseil départemental de la Drôme) and Hervé Simon from (Communication Direction of the Department of Drôme, Baronnies Provençales Regional Natural Park) played an active role in the organization of the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail2.jpg) 
 
 <p style="font-size:smaller;"> Maxime Chateauvieux and Stéphane Reboulet</p>
-
-David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) were also present.
-
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3.jpg) 
-
-<p style="font-size:smaller;"> From left to right: Jorg Mutterlose, Stéphane Reboulet, Maria Rose Petrizzo, David Harper </p>
 
 Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (Vice-président du Conseil départemental de la Drôme en charge de la transition écologique, de l'environnement et de la biodiversité), Madame Pascale Rochas (Conseillère départementale), Madame Nicole Peloux (Présidente du Parc Naturel Régional des Baronnies provençales), Monsieur Pascal Cirer-Methel (mairie de la commune de La Charce), Madame Sophie Lacoste-Péricard (adjointe au maire de la commune d'Arnayon) attended the ceremony.
 
