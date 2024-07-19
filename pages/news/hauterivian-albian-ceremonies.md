@@ -19,6 +19,7 @@ The golden spike ceremony for the HAUTERIVIAN and ALBIAN Global boundary Stratot
 
 Maria Rose Petrizzo (chair of the International Subcommission on Cretaceous Stratigraphy), David Harper (chair of the International Commission of Stratigraphy), Jörg Mutterlose (chair of Hauterivian Working Group), Andy Gale (member of the Albian Working Group), Francesca Falzoni and Ian Jarvis (respectively secretary and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremony.
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1b.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3.jpg) 
 
 <p style="font-size:smaller;"> From left to right: Jorg Mutterlose, Stéphane Reboulet, Maria Rose Petrizzo, David Harper </p>
@@ -31,6 +32,7 @@ Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Grou
 
 Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (Vice-président du Conseil départemental de la Drôme en charge de la transition écologique, de l'environnement et de la biodiversité), Madame Pascale Rochas (Conseillère départementale), Madame Nicole Peloux (Présidente du Parc Naturel Régional des Baronnies provençales), Monsieur Pascal Cirer-Methel (mairie de la commune de La Charce), Madame Sophie Lacoste-Péricard (adjointe au maire de la commune d'Arnayon) attended the ceremony.
 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail3a.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail4.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail5.jpg) 
 
@@ -42,7 +44,7 @@ Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail9.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail10.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail11.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail12.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail12.jpg)  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail13.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail14.jpg) 
 
