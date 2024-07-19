@@ -13,7 +13,7 @@ The golden spike ceremony for the HAUTERIVIAN and ALBIAN Global boundary Stratot
 
 [Episodes, [https://www.episodes.org/journal/view.html?uid=2175&vmd=Full]( https://doi.org/10.18814/epiiugs/2020/020072](https://www.episodes.org/journal/view.html?uid=2175&vmd=Full)
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail1a.jpg) 
 
