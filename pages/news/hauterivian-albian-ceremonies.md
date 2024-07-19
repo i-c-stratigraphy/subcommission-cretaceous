@@ -24,7 +24,7 @@ Maria Rose Petrizzo (chair of the International Subcommission on Cretaceous Stra
 
 <p style="font-size:smaller;"> From left to right: Jorg Mutterlose, Stéphane Reboulet, Maria Rose Petrizzo, David Harper </p>
 
-Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Group), Maxime Chateauvieux (Chargé de projets Espaces Naturels Sensibles, Conseil départemental de la Drôme) and Hervé Simon from (Communication Direction of the Department of Drôme, Baronnies Provençales Regional Natural Park) played an active role in the organization of the ceremony.
+Stéphane Reboulet (University of Lyon and chair of the Valanginian Working Group), Maxime Chateauvieux (Chargé de projets Espaces Naturels Sensibles, Conseil départemental de la Drôme), Hervé Simon (Communication Direction of the Department of Drôme, Baronnies Provençales Regional Natural Park), and Pascal Cirer-Methel (Mayor of La Charce) played an active role in the organization of the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail2.jpg) 
 
