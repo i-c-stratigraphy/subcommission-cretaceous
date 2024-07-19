@@ -34,7 +34,7 @@ Madame Marie-Pierre Monier (sénatrice de la Drôme), Monsieur Eric Phelippeau (
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail4.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail5.jpg) 
 
-<p style="font-size:smaller;"> From left to right: Pascale Rochas, Eric Phelippeau, Nicole Peloux , Stéphane Reboulet, David Harper,  Pascal Cirer-Methel, Maria Rose Petrizzo, Marie-Pierre Monier </p>
+<p style="font-size:smaller;"> From left to right: Pascale Rochas, Eric Phelippeau, Nicole Peloux, Stéphane Reboulet, David Harper, Pascal Cirer-Methel, Maria Rose Petrizzo, Marie-Pierre Monier </p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail7.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauteriviannail8.jpg) 
