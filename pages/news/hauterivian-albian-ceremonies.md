@@ -87,8 +87,8 @@ The dedication ceremonies were also attended by Madame Marie-Pierre Monier (sén
 <p style="font-size:smaller;">On the way to the Albian GSSP</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1.jpg) 
-![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1bis.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1a.jpg) 
+![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian1bis.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian2.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian3.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/hauterivian-albian4.jpg) 
