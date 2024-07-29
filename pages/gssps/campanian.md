@@ -21,28 +21,49 @@ The magnetic polarity reversal from Chron 34n (top of the Long Cretaceous Normal
 ### Secondary Markers
 Listed below from the stratigraphic bottom to the top (Abbreviations: FO= First Occurrence; LO= last occurrence; FCO= First Common Occurrence; CIE= Carbon Isotope Excursion)
 (1) FO of the planktonic foraminifera _Globotruncana neotricarinata_ (213.30 m). 
+
 (2) Carbon isotope peak LSE-a (215.4 m to 216.6 m). 
+
 (3) Carbon isotope peak LSE-b (217.0 m to 218.8 m) that forms the maximum of the LSE CIE. 
+
 (4) FO of the planktonic foraminifera _Contusotruncana patelliformis_ (217.55 m). 
+
 (5) LO of the planktonic foraminifera _Marginotruncana tarfayaensis_, _Marginotruncana pseudomarginata_, _Muricohedbegella flandrini_ (218.92 m).
+
 (6) FO of the coccolith _Arkhangelskiella cymbiformis_ (base of zone UC13) (219.10 m). 
 
 (7) FO of the planktonic foraminifera _Hendersonites carinatus_ (219.33 m).
+
 (8) FO of the coccolith _Aspidolithus parcus expansus_ (middle zone UC13) (219.5 m).
+
 (9) LO of the planktonic foraminifera _Dicarinella concavata_ (220.2 m). 
+
 (10) FO of the coccolith _Aspidolithus parcus parcus_ (base of zone UC14) (220.5 m).
+
 (11) FO of the planktonic foraminifera _Pseudoguembelina costellifera_ (221.45 m). 
+
 (12) primary marker, magnetic reversal Chron 33r (221.53 m). 
+
 (13) LO of the planktonic foraminifera _Marginotruncana schneegansi_ (221.6 m). 
+
 (14) LOs of the planktonic foraminifera _Dicarinella asymetrica_ and _Sigalia_ spp. (221.72 m) (base of _Globotruncanita elevata_ Zone). 
+
 (15) FO of the planktonic foraminifera _Globotruncana hilli_ (221.72 m).
+
 (16) FO of the planktonic foraminifera _Globotruncanita atlantica_ (222.05 m).
+
 (17) FO of the planktonic foraminifera _Globotruncana orientalis_ (222.21 m).
+
 (18) FCO of the coccolith _Aspidolithus parcus parcus_ (224.60 m) (base of zone UC14aTP).
+
 (19) LO of the planktonic foraminifera _Marginotruncana undulata_ (225.75 m).
+
 (20) FO of the planktonic foraminifera _Pseudoguembelina costulata_ (227.0 m).
+
 (21) LO of the planktonic foraminifera _Marginotruncana sinuosa_ (227.50 m).
+
 (22) FO of the coccolith _Aspidolithus parcus constrictus_ (229 m) (base of zone UC14bTP)
+
 (23) LO of the planktonic foraminifera _Marginotruncana_ spp. (230.98 m). 
 
 ### Geochronology
