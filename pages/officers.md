@@ -5,44 +5,44 @@ permalink: /officers
 ---
 ## Officers
 
-### Nominated officers for 2020-2024
+### Nominated officers for 2024-2028
 
 <div style="display:grid; grid-row-gap:20px;">
     <div style="grid-row:1; grid-column:1;">
-        <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" />
+        <img src="images/person-jarvis.jpg" style="width:150px;" alt="Maria" />
     </div>
     <div style="grid-row:1; grid-column:2;">
-        <strong>Chair: Maria Rose Petrizzo</strong><br />
-        Professor: Dipartimento di Scienze della Terra “A. Desio”<br />
-        Università degli Studi di Milano<br />
-        Via Mangiagalli, 34<br />
-        20133, Milano, Italy<br />
+        <strong>Chair: Ian Jarvis</strong><br />
+        Professor: Department of Geography and Geology<br />
+      School of Natural and Built Environments, Kingston University London<br />
+      Penrhyn Road, Kingston upon Thames<br />
+       London KT1 2EE, UK<br />
         Phone: +39-02-503 15531<br />
-        E-mail: <a href="mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>
+        E-mail: <a href="mailto:i.jarvis@kingston.ac.uk">i.jarvis@kingston.ac.uk</a>
     </div>
     <div style="grid-row:2; grid-column:1;">
-        <img src="images/person-wagreich.gif" style="width:150px;" alt="Michael" />
-    </div>
-    <div style="grid-row:2; grid-column:2;">
-        <strong>Vice-Chair: Michael Wagreich</strong><br />
-        Professor: Department of Geology<br />
-        University of Vienna<br />
-        Josef Holaubek Platz 2<br />
-        A-1090, Vienna, Austria<br />
-        Phone: +43-1-4277-53465<br />
-        E-mail: <a href="michael.wagreich@univie.ac.at">michael.wagreich@univie.ac.at</a>
-    </div>
-    <div style="grid-row:3; grid-column:1;">
         <img src="images/person-FFalzoni.gif" style="width:150px;" alt="Francesca" />
     </div>
-    <div style="grid-row:3; grid-column:2;">
-        <strong>Secretary: Francesca Falzoni</strong><br />
-       Dr.:<br />
-        Istituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
+    <div style="grid-row:2; grid-column:2;">
+        <strong>Vice-Chair: Francesca Falzoni</strong><br />
+        Dr.: Istituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
         Consiglio Nazionale delle Ricerche<br /> 
         via Mario Bianco 9<br />
         20131 Milano, Italy<br />
         Phone: +39-02 28311436<br />
         E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>
+    </div>
+    <div style="grid-row:3; grid-column:1;">
+        <img src="images/person-dubicka.jpg" style="width:150px;" alt="Francesca" />
+    </div>
+    <div style="grid-row:3; grid-column:2;">
+        <strong>Secretary: Zofia Dubicka</strong><br />
+       Professor:<br />
+        Faculty of Geology<br />
+        University of Warsaw<br /> 
+        ul. Żwirki i Wigury 93<br />
+        02-089 Warsaw, Poland<br />
+        Phone: <br />
+        E-mail: <a href="z.dubicka@uw.edu.pl">z.dubicka@uw.edu.pl</a>
     </div>
 </div>
