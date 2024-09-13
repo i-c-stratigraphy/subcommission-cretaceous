@@ -9,7 +9,7 @@ permalink: /officers
 
 <div style="display:grid; grid-row-gap:20px;">
     <div style="grid-row:1; grid-column:1;">
-        <img src="images/person-jarvis.jpg" style="width:150px;" alt="Maria" />
+        <img src="images/person-jarvis.jpg" style="width:150px;" alt="Jarvis" />
     </div>
     <div style="grid-row:1; grid-column:2;">
         <strong>Chair: Ian Jarvis</strong><br />
@@ -33,7 +33,7 @@ permalink: /officers
         E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>
     </div>
     <div style="grid-row:3; grid-column:1;">
-        <img src="images/person-dubicka.jpg" style="width:150px;" alt="Francesca" />
+        <img src="images/person-dubicka.jpg" style="width:150px;" alt="Dubicka" />
     </div>
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Zofia Dubicka</strong><br />
