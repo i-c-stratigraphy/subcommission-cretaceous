@@ -37,8 +37,7 @@ permalink: /officers
     </div>
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Zofia Dubicka</strong><br />
-       Professor:<br />
-        Faculty of Geology<br />
+       Professor: Faculty of Geology<br />
         University of Warsaw<br /> 
         ul. Żwirki i Wigury 93<br />
         02-089 Warsaw, Poland<br />
