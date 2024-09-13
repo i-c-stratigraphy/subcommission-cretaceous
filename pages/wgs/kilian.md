@@ -35,12 +35,12 @@ permalink: /wgs/kilian
         <div class="contact-details">
             Prof. Jaap Klein<br />
             <br />
-            Naturalis Biodiversity Center, the Netherlands<br />
-            Demmerik 12<br />
-            3645 EC Vinkeveen<br />
-            The Netherlands<br />
+            Naturalis Biodiversity Center<br />
+            429 Chemin du Thuve<br />
+            04700 Oraison,Alpes de Haute Provence <br />
+            France<br />
             <br />
-            E-mail: <a href="jaap.klein@zonnet.nl">jaap.klein@zonnet.nl</a>
+            E-mail: <a href="jaap.klein@naturalis.nl">jaap.klein@naturalis.nl</a>
         </div>
     </div>
     <div class="person">
