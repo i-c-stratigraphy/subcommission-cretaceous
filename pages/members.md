@@ -30,7 +30,7 @@ permalink: /members
         *Scientific Expertise*: calcareous nannofossils, biostratigraphy, palaeoceanography, coccolithophores, evolution, diversity.
     </div>
     <div class="person" style="grid-row:2; grid-column:1;">
-        <img src="images/person-crapmton.jpg" style="width:150px;" alt="Crampton" /><br />
+        <img src="images/person-crampton.jpg" style="width:150px;" alt="Crampton" /><br />
         <strong>Prof. James S. Crampton </strong><br />
         Te Herenga Waka Victoria University of Wellington<br />
         School of Geography, Environment & Earth Sciences, PO Box 600<br />
