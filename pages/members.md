@@ -3,7 +3,7 @@ layout: page
 title: "Voting Members"
 permalink: /members
 ---
-## Members
+## Voting Members
 <div style="display:grid; grid-row-gap:20px;">
     <div class="person" style="grid-row:1; grid-column:1;">
         <img src="images/person-batenburg.jpg" style="width:150px;" alt="Batenburg" /><br />
