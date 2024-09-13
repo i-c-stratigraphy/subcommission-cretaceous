@@ -82,7 +82,7 @@ permalink: /corresponding members
         *Scientific Expertise*: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
     </div>
     <div class="person" style="grid-row:4; grid-column:1;">
-        <img src="images/person- wagreich.gif " style="width:150px;" alt="Michael" /><br />
+        <img src="images/person-wagreich.gif " style="width:150px;" alt="Michael" /><br />
         <strong>Prof. Michael Wagreich </strong><br />
         Vice Chair 2016-2024 <br />
         Department of Geology <br />
