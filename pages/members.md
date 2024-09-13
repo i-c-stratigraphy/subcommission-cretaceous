@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Members"
+title: "Voting Members"
 permalink: /members
 ---
 ## Members
@@ -29,29 +29,29 @@ permalink: /members
         <br />
         *Scientific Expertise*: calcareous nannofossils, biostratigraphy, palaeoceanography, coccolithophores, evolution, diversity.
     </div>
+    
     <div class="person" style="grid-row:2; grid-column:1;">
-        <img src="images/person-ismar.jpg" style="width:150px;" alt="Ismar" /><br />
-        <strong>Prof. Ismar de Souza Carvalho</strong><br />
-        Univ. Federal do Rio de Janeiro, CCMN<br />
-        Igeo Av. Athos da Silveira Ramos 274<br />
-        Cidade Universitária – Ilha do Fundão 21.941-916<br />
-        Rio de Janeiro, RJ, Brasil<br />
+        <img src="images/person-crapmton.jpg" style="width:150px;" alt="Crampton" /><br />
+        <strong>Prof. James S. Crampton </strong><br />
+        Te Herenga Waka Victoria University of Wellington<br />
+        School of Geography, Environment & Earth Sciences, PO Box 600<br />
+        Wellington, New Zealand<br />
         <br />
-        Phone: +55-21-3938-9405<br />
-        E-mail: <a href="mailto:ismar@geologia.ufrj.br">ismar@geologia.ufrj.br</a>
+        Phone: <br />
+        E-mail: <a href="mailto:james.crampton@vuw.ac.nz">James.crampton@vuw.ac.nz</a>
         <br />
-        *Scientific Expertise*: Ichnology, vertebrate palaeontology, continental palaeoenvironments, conchostracans.
+        *Scientific Expertise*: Bivalvia, Inoceramidae, New Zealand, Paleobiology.
     </div>
     <div class="person" style="grid-row:2; grid-column:2;">
-         <img src="images/person-galbrun.jpg" style="width:150px;" alt="Galbrun" /><br />
-        <strong>Prof. Bruno Galbrun</strong><br />
-        Université Pierre et Marie Curie, ISTeP<br />
-        Institut des Sciences de la Terre-Paris, UMR-CNRS 7193<br />
-        4 place Jussieu, 75252 Paris CEDEX 5, France<br />
+         <img src="images/person-desmares.jpg" style="width:150px;" alt="Desmares" /><br />
+        <strong>Prof. Delphine Desmares </strong><br />
+        Sorbonne Université <br />
+        Faculté des Sciences, Campus Jussieu, UMR 7207 CR2P Centre de Recherche en Paleontologie de Paris<br />
+        place Jussieu, 75005 Paris, France<br />
         <br />
-        E-mail: <a href="mailto:bruno.galbrun@upmc.fr">bruno.galbrun@upmc.fr</a>
+        E-mail: <a href="mailto:delphine.desmares@sorbonne-universite.fr">delphine.desmares@sorbonne-universite.fr</a>
         <br />
-        *Scientific Expertise*: cyclostratigraphy, magnetostratigraphy, paleoclimatology.
+        *Scientific Expertise*: Cretaceous planktonic foraminifera, OAE2, biostratigraphy, chemostratigraphy.
     </div>
     <div class="person" style="grid-row:3; grid-column:1;">
         <img src="images/person-granier.jpg" style="width:150px;" alt="Granier" /><br />
@@ -67,45 +67,6 @@ permalink: /members
         *Scientific Expertise*: holostratigraphy, sequence stratigraphy, carbonate sedimentology, paleophycology, benthic foraminifers.
     </div>
     <div class="person" style="grid-row:3; grid-column:2;">
-        <img src="images/person-hasegawa.jpg" style="width:150px;" alt="Hasegawa" /><br />
-        <strong>Prof. Takashi Hasegawa</strong><br />
-        Faculty of Natural System<br />
-        Institute of Science and Engineeering<br />
-        Kanazawa University<br />
-        Kakuma, Kanazawa, 920-1192, Japan<br />
-        <br />
-        Phone: +81-76-264-6508<br />
-        E-mail: <a href="mailto:jh7ujr@staff.kanazawa-u.ac.jp">jh7ujr@staff.kanazawa-u.ac.jp</a>
-        <br />
-        *Scientific Expertise*: carbon isotope stratigraphy, organic carbon, biomarkers, OAEs, paleoenvironment, paleoceanography.
-    </div>
-    <div class="person" style="grid-row:4; grid-column:1;">
-        <img src="images/person-huber.jpg" style="width:150px;" alt="Huber" /><br />
-        <strong>Dr. Brian T. Huber</strong><br />
-        Department of Paleobiology<br />
-        National Museum of Natural History<br />
-        Smithsonian Institution<br />
-        Washington, DC 20013-7012, U.S.A.<br />
-        <br />
-        Phone: 1-202-633-1328<br />
-        E-mail: <a href="mailto:huberb@si.edu">huberb@si.edu</a>
-        <br />
-        *Scientific Expertise*: Cretaceous, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
-    </div>
-    <div class="person" style="grid-row:4; grid-column:2;">
-        <img src="images/person-jarvis.jpg" style="width:150px;" alt="Jarvis" /><br />
-        <strong>Prof. Ian Jarvis</strong><br />
-        Department of Geography and Geology<br />
-        School of Natural and Built Environments, Kingston University London<br />
-        Penrhyn Road, Kingston upon Thames<br />
-        London KT1 2EE, UK<br />
-        <br />
-        Phone: +44 20 8417 2526<br />
-        E-mail: <a href="mailto:i.jarvis@kingston.ac.uk">i.jarvis@kingston.ac.uk</a> 
-        <br />
-        *Scientific Expertise*: carbon isotopes, chemostratigraphy, Dinoflagellate cysts, Chalk sedimentology, palaeoenvironments, climate and sea level.
-    </div>
-    <div class="person" style="grid-row:5; grid-column:1;">
         <img src="images/person-koutsoukos.jpg" style="width:150px;" alt="Koutsoukos" /><br />
         <strong>Dr. Eduardo A. M. Koutsoukos </strong><br />
         Institut für Geowissenschaften<br />
@@ -118,7 +79,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: evolutionary paleobiology, ecosystem dynamics, stratigraphy, foraminifera.
     </div>
-    <div class="person" style="grid-row:5; grid-column:2;">
+    <div class="person" style="grid-row:4; grid-column:1;">
         <img src="images/person-morenobedmar.jpg" style="width:150px;" alt="Moreno Bedmar" /><br />
         <strong>Prof. Josep A. Moreno Bedmar </strong><br />
         Instituto de Geología<br />
@@ -129,21 +90,45 @@ permalink: /members
         <br />
         *Scientific Expertise*: paleontology, ammonite biostratigraphy, stratigraphy, Lower Cretaceous.
     </div>
-    <div class="person" style="grid-row:6; grid-column:1;">
-        <img src="images/person-sageman.jpg" style="width:150px;" alt="Sageman" /><br />
-        <strong>Prof. Bradley Sageman</strong><br />
-        Dept. of Earth and Planetary Sciences<br />
-        Northwestern University<br />
-        2145 Sheridan Road. Tech Institute<br />
-        Evanston, Illinois 60208, U.S.A<br />
+    <div class="person" style="grid-row:4; grid-column:2;">
+        <img src="images/person-pavlishina.jpg" style="width:150px;" alt="Pavlishina" /><br />
+        <strong>Prof. Polina Pavlishina </strong><br />
+        Sofia University “St. Kliment Ohridski”<br />
+        Department of Geology, Palaeontology and Fossil fuels<br />
+        Tzar Osvoboditel 15<br />
+        1504 Sofia, Bulgaria <br />
         <br />
-        Phone: +1-847-467-2257<br />
-        E-mail: <a href="mailto:brad@earth.northwestern.edu">brad@earth.northwestern.edu</a>
+        Phone:<br />
+        E-mail: <a href="mailto:polina@gea.uni-sofia.bg">polina@gea.uni-sofia.bg</a> 
         <br />
-        *Scientific Expertise*: stratigraphy, biogeochemistry, paleoceanography, paleoclimatology.
+        *Scientific Expertise*: Cretaceous palynology, dinoflagellate cysts, pollen, palynofacies analysis, palaeoenvironments.
     </div>
-    <div class="person" style="grid-row:6; grid-column:2;">
-        <img src="images/person-sari.jpg" style="width:150px;" alt="Sari" /><br />
+    <div class="person" style="grid-row:5; grid-column:1;">
+        <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
+        <strong>Dr. Maria Rose Petrizzo</strong><br />
+        Dipartimento di Scienze della Terra “A. Desio”<br />
+        Università degli Studi di Milano<br />
+        Via Mangiagalli, 34<br />
+        20133, Milano, Italy<br />
+        <br />
+        Phone:+39-02-503 15531 <br />
+        E-mail: <a href="mailto:mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>
+        <br />
+        *Scientific Expertise*: Cretaceous, Paleogene, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
+    </div>
+    <div class="person" style="grid-row:5; grid-column:2;">
+        <img src="images/person-sano.jpg" style="width:150px;" alt="Sanor" /><br />
+        <strong>Prof. Shin-Ichi Sano  </strong><br />
+        Department of Earth System Science, Faculty of Sustainable Design<br />
+        University of Toyama<br />
+        3190 Gofuku, Toyama-Shi, Toyama 930-8555, Japan<br />
+        <br />
+        E-mail: <a href="mailto:ssano@sus.u-toyama.ac.jp">ssano@sus.u-toyama.ac.jp</a>
+        <br />
+        *Scientific Expertise*: rudists, belemnites, Pacific, East Asia, stratigraphy, palaeobiogeography.
+    </div>
+    <div class="person" style="grid-row:6; grid-column:1;">
+         <img src="images/person-sari.jpg" style="width:150px;" alt="Sari" /><br />
         <strong>Prof. Bilal Sari</strong><br />
         Dokuz Eylul University<br />
         Faculty of Engineering, Department of Geological Engineering<br />
@@ -154,6 +139,18 @@ permalink: /members
         E-mail: <a href="mailto:bilal.sari@deu.edu.tr">bilal.sari@deu.edu.tr</a>
         <br />
         *Scientific Expertise*: Late Cretaceous, planktonic foraminifera, taxonomy, biostratigraphy.
+    </div>
+    <div class="person" style="grid-row:6; grid-column:2;">
+        <img src="images/person-self-trail.jpg" style="width:150px;" alt="Self-Trail" /><br />
+        <strong>Prof. Jean Marie Self-Trail </strong><br />
+        U.S. Geological Survey, Florence Bascom Geoscience Center<br />
+        12201 Sunrise Valley Dr.<br />
+        MS926A, Reston, VA 20192, USA<br />
+        <br />
+        Phone:<br />
+        E-mail: <a href="mailto:jstrail@usgs.gov">jstrail@usgs.gov</a>
+        <br />
+        *Scientific Expertise*: Cretaceous, Nannofossils, Stratigraphy, Biostratigraphy, Paleoceanography.
     </div>
      <div class="person" style="grid-row:7; grid-column:1;">
         <img src="images/person-singer.jpg" style="width:150px;" alt="Singer" /><br />
@@ -169,45 +166,18 @@ permalink: /members
         *Scientific Expertise*: geochronology, volcanology, geochemistry, geophysics.
    </div>
     <div class="person" style="grid-row:7; grid-column:2;">
-        <img src="images/person-vishnevskaya.jpg" style="width:150px;" alt="Vishnevskaya" /><br />
-        <strong>Dr. Valentina Vishnevskaya</strong><br />
-        Laboratory of biostratigraphy and paleogeography of the oceans<br />
-        Geological Institute of the Russian Academy of Sciences<br />
-        Pyzhevsky per., 7<br />
-        Moscow 119017, Russia<br />
+        <img src="images/person-takashima.jpg" style="width:150px;" alt="Takashima" /><br />
+        <strong>Prof. Reishi Takashima </strong><br />
+        Tohoku University Museum, Tohoku University<br />
+        6-3, Aramaki aza Aoba, Aoba-ku<br />
+        Sendai, Miyagi 980-8578, Japan<br />
         <br />
-        Phone: 7(495)959-0174<br />
-        E-mail: <a href="mailto:valentina.vishnaa@mail.ru">valentina.vishnaa@mail.ru</a>
+        Phone: <br />
+        E-mail: <a href="mailto:reishi.takashima.a7@tohoku.ac.jp">reishi.takashima.a7@tohoku.ac.jp</a>
         <br />
-        *Scientific Expertise*: Radiolaria, calcareous dinocysts, biostratigraphy, Boreal Realm.
+        *Scientific Expertise*: Pacific, Panthalassa, Japan, Yezo Group, Vocontian Basin, carbon isotope stratigraphy.
     </div>
     <div class="person" style="grid-row:8; grid-column:1;">
-        <img src="images/person-voigt.jpg" style="width:150px;" alt="Voigt" /><br />
-        <strong>Prof. Silke Voigt</strong><br />
-        Institute of Geosciences<br />
-        Goethe-University Frankfurt<br />
-        Altenhöferallee 1<br />
-        60438 Frankfurt am Main, Germany<br />
-        <br />
-        Phone: +49 (0)69798 40190
-        E-mail: <a href="mailto:s.voigt@em.uni-frankfurt.de">s.voigt@em.uni-frankfurt.de</a>
-        <br />
-        *Scientific Expertise*: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
-    </div>
-    <div class="person" style="grid-row:8; grid-column:2;">
-        <img src="images/person-walaszczyk.jpg" style="width:150px;" alt="Walaszczyk" /><br />
-        <strong>Prof. Irek Walaszczyk</strong><br />
-        Faculty of Geology<br />
-        University of Warsaw<br />
-        Al. Zwirki i Wigury 93<br />
-        02-089 Warszawa, Poland<br />
-        <br />
-        Phone: +48 22 5540482<br />
-        E-mail: <a href="mailto:i.walaszczyk@uw.edu.pl">i.walaszczyk@uw.edu.pl</a>
-         <br />
-        *Scientific Expertise*: biostratigraphy, biogeography, palaeogeography, regional geology, taxonomic palaeontology, evolution.
-    </div>
-    <div class="person" style="grid-row:9; grid-column:1;">
         <img src="images/person-wilmsen.jpg" style="width:150px;" alt="Wilmsen" /><br />
         <strong>Dr. Markus Wilmsen</strong><br />
         Senckenberg Naturhistorische Sammlungen, Dresden<br />
@@ -220,7 +190,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: integrated stratigraphy, facies analysis, palaeoenvironmental reconstructions, mid-Cretaceous ectocochleates, trace fossils.
     </div>
-    <div class="person" style="grid-row:9; grid-column:2;">
+    <div class="person" style="grid-row:8; grid-column:2;">
         <img src="images/person-xi.jpg" style="width:150px;" alt="Xi" /><br />
         <strong>Dr. Dangpeng Xi</strong><br />
      China University of Geosciences<br />
@@ -231,6 +201,7 @@ permalink: /members
         E-mail: <a href="mailto:xidp@cugb.edu.cn">xidp@cugb.edu.cn</a> 
      <br />
         *Scientific Expertise*: microfossils, stratigraphic correlation of marine and non-marine Cretaceous, Cretaceous ecosystem, paleolimnology and paleoclimate, paleoceanography. 
+    </div>
 </div>
 
 <p></p>
