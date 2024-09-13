@@ -29,7 +29,6 @@ permalink: /members
         <br />
         *Scientific Expertise*: calcareous nannofossils, biostratigraphy, palaeoceanography, coccolithophores, evolution, diversity.
     </div>
-    
     <div class="person" style="grid-row:2; grid-column:1;">
         <img src="images/person-crapmton.jpg" style="width:150px;" alt="Crampton" /><br />
         <strong>Prof. James S. Crampton </strong><br />
@@ -203,5 +202,4 @@ permalink: /members
         *Scientific Expertise*: microfossils, stratigraphic correlation of marine and non-marine Cretaceous, Cretaceous ecosystem, paleolimnology and paleoclimate, paleoceanography. 
     </div>
 </div>
-
 <p></p>
