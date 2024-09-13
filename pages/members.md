@@ -48,6 +48,7 @@ permalink: /members
         Faculté des Sciences, Campus Jussieu, UMR 7207 CR2P Centre de Recherche en Paleontologie de Paris<br />
         place Jussieu, 75005 Paris, France<br />
         <br />
+        Phone: <br />
         E-mail: <a href="mailto:delphine.desmares@sorbonne-universite.fr">delphine.desmares@sorbonne-universite.fr</a>
         <br />
         *Scientific Expertise*: Cretaceous planktonic foraminifera, OAE2, biostratigraphy, chemostratigraphy.
@@ -61,6 +62,7 @@ permalink: /members
         6 avenue, Le Gorgeu – CS 93837<br />
         F – 29238 Brest, France<br />
         <br />
+        Phone: <br />
         E-mail: <a href="mailto:bgranier@univ-brest.fr">bgranier@univ-brest.fr</a>
         <br />
         *Scientific Expertise*: holostratigraphy, sequence stratigraphy, carbonate sedimentology, paleophycology, benthic foraminifers.
@@ -85,6 +87,7 @@ permalink: /members
         Universidad Nacional Autónoma de México (UNAM), Ciudad Universitaria<br />
         Coyoacán, 04510, Ciudad de México, México<br />
         <br />
+        Phone: <br />
         E-mail: <a href="mailto:josepamb@geologia.unam.mx">josepamb@geologia.unam.mx</a>
         <br />
         *Scientific Expertise*: paleontology, ammonite biostratigraphy, stratigraphy, Lower Cretaceous.
@@ -104,7 +107,8 @@ permalink: /members
     </div>
     <div class="person" style="grid-row:5; grid-column:1;">
         <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
-        <strong>Dr. Maria Rose Petrizzo</strong><br />
+        <strong>Prof. Maria Rose Petrizzo</strong><br />
+        Chair 2016-2024<br />
         Dipartimento di Scienze della Terra “A. Desio”<br />
         Università degli Studi di Milano<br />
         Via Mangiagalli, 34<br />
@@ -122,6 +126,7 @@ permalink: /members
         University of Toyama<br />
         3190 Gofuku, Toyama-Shi, Toyama 930-8555, Japan<br />
         <br />
+        Phone:<br />
         E-mail: <a href="mailto:ssano@sus.u-toyama.ac.jp">ssano@sus.u-toyama.ac.jp</a>
         <br />
         *Scientific Expertise*: rudists, belemnites, Pacific, East Asia, stratigraphy, palaeobiogeography.
