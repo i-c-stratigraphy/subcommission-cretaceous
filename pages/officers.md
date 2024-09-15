@@ -13,11 +13,10 @@ permalink: /officers
     </div>
     <div style="grid-row:1; grid-column:2;">
         <strong>Chair: Ian Jarvis</strong><br />
-        Professor: Department of Geography and Geology<br />
-      School of Natural and Built Environments, Kingston University London<br />
-      Penrhyn Road, Kingston upon Thames<br />
-       London KT1 2EE, UK<br />
-        Phone: +39-02-503 15531<br />
+        Emeritus Professor:  Department of Geography, Geology and the Environment<br />
+      Kingston University London, Penrhyn Road<br />
+      Kingston upon Thames, London KT1 2EE, UK<br />
+        Phone: +44-7711 047954<br />
         E-mail: <a href="mailto:i.jarvis@kingston.ac.uk">i.jarvis@kingston.ac.uk</a>
     </div>
     <div style="grid-row:2; grid-column:1;">
