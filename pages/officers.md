@@ -5,22 +5,23 @@ permalink: /officers
 ---
 ## Officers
 
-### Nominated officers for 2024-2028
+### Officers for 2024-2028
 
 <div style="display:grid; grid-row-gap:20px;">
     <div style="grid-row:1; grid-column:1;">
-        <img src="images/person-jarvis.jpg" style="width:150px;" alt="Jarvis" />
+        <img src="images/person-jarvis.jpg"alt="Jarvis" />
     </div>
     <div style="grid-row:1; grid-column:2;">
-        <strong>Chair: Ian Jarvis</strong><br />
-        Emeritus Professor:  Department of Geography, Geology and the Environment<br />
+      <strong>Chair: Ian Jarvis</strong><br />
+      Emeritus Professor:  Department of Geography, Geology and the Environment<br />
       Kingston University London, Penrhyn Road<br />
       Kingston upon Thames, London KT1 2EE, UK<br />
-        Phone: +44-7711 047954<br />
-        E-mail: <a href="mailto:i.jarvis@kingston.ac.uk">i.jarvis@kingston.ac.uk</a>
+      Phone: +44-7711 047954<br />
+      E-mail: <a href="mailto:i.jarvis@kingston.ac.uk">i.jarvis@kingston.ac.uk</a>
     </div>
+    
     <div style="grid-row:2; grid-column:1;">
-        <img src="images/person-FFalzoni.gif" style="width:150px;" alt="Francesca" />
+        <img src="images/person-falzoni.jpg" alt="Francesca" />
     </div>
     <div style="grid-row:2; grid-column:2;">
         <strong>Vice-Chair: Francesca Falzoni</strong><br />
@@ -31,16 +32,30 @@ permalink: /officers
         Phone: +39-02 28311436<br />
         E-mail: <a href="francesca.falzoni@cnr.it">francesca.falzoni@cnr.it</a>
     </div>
+    
     <div style="grid-row:3; grid-column:1;">
-        <img src="images/person-dubicka.jpg" style="width:150px;" alt="Dubicka" />
+        <img src="images/person-dubicka.jpg" alt="Dubicka" />
     </div>
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Zofia Dubicka</strong><br />
-       Professor: Faculty of Geology<br />
+        Professor: Faculty of Geology<br />
         University of Warsaw<br /> 
         ul. Żwirki i Wigury 93<br />
         02-089 Warsaw, Poland<br />
         Phone: <br />
         E-mail: <a href="z.dubicka@uw.edu.pl">z.dubicka@uw.edu.pl</a>
+    </div>
+
+    <div style="grid-row:4; grid-column:1;">
+        <img src="images/person-petrizzo.jpg" alt="Petrizzo" />
+    </div>
+    <div style="grid-row:4; grid-column:2;">
+        <strong>Webmaster: Maria Rose Petrizzo</strong><br />
+        Professor, Dipartimento di Scienze della Terra "A. Desio"<br />
+        Università degli Studi di Milano<br />
+        via Mangiagalli 34<br />
+        20133 Milano, Italy<br />
+        Tel: +39-02-503 15531<br />
+        E-mail: <a href="mailto:mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>  
     </div>
 </div>
