@@ -9,7 +9,7 @@ permalink: /officers
 
 <div style="display:grid; grid-row-gap:20px;">
     <div style="grid-row:1; grid-column:1;">
-        <img src="images/person-jarvis.jpg"alt="Jarvis" />
+        <img src="images/person-jarvis.jpg" width="150px" alt="Jarvis" />
     </div>
     <div style="grid-row:1; grid-column:2;">
       <strong>Chair: Ian Jarvis</strong><br />
@@ -21,7 +21,7 @@ permalink: /officers
     </div>
     
     <div style="grid-row:2; grid-column:1;">
-        <img src="images/person-falzoni.jpg" alt="Francesca" />
+        <img src="images/person-falzoni.jpg" width="150px" alt="Francesca" />
     </div>
     <div style="grid-row:2; grid-column:2;">
         <strong>Vice-Chair: Francesca Falzoni</strong><br />
@@ -34,7 +34,7 @@ permalink: /officers
     </div>
     
     <div style="grid-row:3; grid-column:1;">
-        <img src="images/person-dubicka.jpg" alt="Dubicka" />
+        <img src="images/person-dubicka.jpg" width="150px" alt="Dubicka" />
     </div>
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Zofia Dubicka</strong><br />
@@ -47,7 +47,7 @@ permalink: /officers
     </div>
 
     <div style="grid-row:4; grid-column:1;">
-        <img src="images/person-petrizzo.jpg" alt="Petrizzo" />
+        <img src="images/person-petrizzo.jpg" width="150px" alt="Petrizzo" />
     </div>
     <div style="grid-row:4; grid-column:2;">
         <strong>Webmaster: Maria Rose Petrizzo</strong><br />
