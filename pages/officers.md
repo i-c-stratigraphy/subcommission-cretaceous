@@ -17,7 +17,7 @@ permalink: /officers
       Kingston University London, Penrhyn Road<br />
       Kingston upon Thames, London KT1 2EE, UK<br />
       Phone: +44-7711 047954<br />
-      E-mail: <a href="mailto:i.jarvis@kingston.ac.uk">i.jarvis@kingston.ac.uk</a>
+      E-mail: <a href="mailto:ian.jarvis@kingston.ac.uk">ian.jarvis@kingston.ac.uk</a>
     </div>
     
     <div style="grid-row:2; grid-column:1;">
@@ -25,7 +25,7 @@ permalink: /officers
     </div>
     <div style="grid-row:2; grid-column:2;">
         <strong>Vice-Chair: Francesca Falzoni</strong><br />
-        Dr.: Istituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
+        Istituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
         Consiglio Nazionale delle Ricerche<br /> 
         via Mario Bianco 9<br />
         20131 Milano, Italy<br />
@@ -38,11 +38,11 @@ permalink: /officers
     </div>
     <div style="grid-row:3; grid-column:2;">
         <strong>Secretary: Zofia Dubicka</strong><br />
-        Professor: Faculty of Geology<br />
+        Faculty of Geology<br />
         University of Warsaw<br /> 
         ul. Żwirki i Wigury 93<br />
         02-089 Warsaw, Poland<br />
-        Phone: <br />
+        Phone: +48 69 683 03 93<br />
         E-mail: <a href="z.dubicka@uw.edu.pl">z.dubicka@uw.edu.pl</a>
     </div>
 
@@ -51,7 +51,7 @@ permalink: /officers
     </div>
     <div style="grid-row:4; grid-column:2;">
         <strong>Webmaster: Maria Rose Petrizzo</strong><br />
-        Professor, Dipartimento di Scienze della Terra "A. Desio"<br />
+        Dipartimento di Scienze della Terra "A. Desio"<br />
         Università degli Studi di Milano<br />
         via Mangiagalli 34<br />
         20133 Milano, Italy<br />
