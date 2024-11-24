@@ -33,7 +33,7 @@ The need to revise the current definition of the base Maastrichtian was discusse
 **Desmares Dephine**, UMR 7207 CR2P -Centre de Recherche en Paléontologie Paris, 75252 Paris cedex 05  
 **Agata Jurkowska**, Faculty of Geology, Geophysics and Environmental Protection AGH, University of Science and Technology, Kraków, Poland  
 **Mathieu Martinez**, Géosciences Rennes, Bât.15 campus Beaulieu, Université de Rennes 1, Rennes 35042, France  
-**Mariusz Niecwedowicz**, University of Warsaw, Faculty of Geology, S.J. Thugutt Geological Museum, Żwirki i Wigury 93, 02-089 Warszawa, Poland  
+**Mariusz Niechwedowicz**, University of Warsaw, Faculty of Geology, S.J. Thugutt Geological Museum, Żwirki i Wigury 93, 02-089 Warszawa, Poland  
 **Maria Rose Petrizzo**, Dipartimento di Scienze della Terra “A. Desio”, Università degli Studi di Milano, via Mangiagalli 34, 20133 Milano, Italy  
 **Nicolas Thibault**, Department of Geography and Geology, University of Copenhagen, Øster Voldgade 10, 1350 Copenhagen C., Denmark  
 **Michael Wagreich**, Department of Geology, University of Vienna, Josef Holaubek Platz 2, Vienna, A-1090, Austria  
