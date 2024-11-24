@@ -43,7 +43,7 @@ permalink: /members
     </div>
     <div class="person" style="grid-row:2; grid-column:2;">
          <img src="images/person-desmares.jpg" style="width:150px;" alt="Desmares" /><br />
-        <strong>Prof. Delphine Desmares </strong><br />
+        <strong>Dr. Delphine Desmares </strong><br />
         Sorbonne Université <br />
         Faculté des Sciences, Campus Jussieu, UMR 7207 CR2P Centre de Recherche en Paleontologie de Paris<br />
         place Jussieu, 75005 Paris, France<br />
