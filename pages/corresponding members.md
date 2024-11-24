@@ -68,19 +68,6 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: stratigraphy, biogeochemistry, paleoceanography, paleoclimatology.
     </div>
-    <div class="person" style="grid-row:3; grid-column:2;">
-        <img src="images/person-voigt.jpg" style="width:150px;" alt="Voigt" /><br />
-        <strong>Prof. Silke Voigt</strong><br />
-        Institute of Geosciences<br />
-        Goethe-University Frankfurt<br />
-        Altenhöferallee 1<br />
-        60438 Frankfurt am Main, Germany<br />
-        <br />
-        Phone: +49 (0)69798 40190
-        E-mail: <a href="mailto:s.voigt@em.uni-frankfurt.de">s.voigt@em.uni-frankfurt.de</a>
-        <br />
-        *Scientific Expertise*: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
-    </div>
     <div class="person" style="grid-row:4; grid-column:1;">
         <img src="images/person-wagreich.gif " style="width:150px;" alt="Michael" /><br />
         <strong>Prof. Michael Wagreich </strong><br />
