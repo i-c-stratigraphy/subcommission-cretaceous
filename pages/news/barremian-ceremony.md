@@ -10,7 +10,7 @@ The golden spike ceremony for the BARREMIAN Global boundary Stratotype Section a
 ## The GSSP that defines the base of the BARREMIAN Stage was ratified by IUGS in March 2023 (Company et al. 2024) 
 [Episodes 2024;47:335-379]( https://doi.org/10.18814/epiiugs/2023/02330)
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/barremian1.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail1.jpg)
 
 
 UNDER CONSTRUCTION
