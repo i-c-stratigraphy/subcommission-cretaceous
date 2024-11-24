@@ -12,6 +12,6 @@ The golden spike ceremony for the BARREMIAN Global boundary Stratotype Section a
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail1.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail5.jpg)
-
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail2.jpg)
 
 UNDER CONSTRUCTION
