@@ -5,6 +5,12 @@ permalink:  /news/barremian-ceremony
 ---
 # GOLDEN SPIKE CEREMONY BARREMIAN GSSP - November 9, 2024
 
-The golden spike ceremonies for the Barremian Global boundary Stratotype Section and Point (GSSP) will be held on November 9, 2024 in Caravaca in Southest Spain.
+The golden spike ceremony for the BARREMIAN Global boundary Stratotype Section and Point (GSSP) was held on November 9, 2024 in Rio Argos (Caravaca de la Cruz), Southest Spain.
 
-If you are interested to attend the ceremony please contact Miguel Company <mcompany@ugr.es> 
+## The GSSP that defines the base of the BARREMIAN Stage was ratified by IUGS in March 2023 (Company et al. 2024) 
+[Episodes 2024;47:335-379]( https://doi.org/10.18814/epiiugs/2023/02330)
+
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremian1.jpg)
+
+
+UNDER CONSTRUCTION
