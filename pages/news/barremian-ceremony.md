@@ -69,4 +69,6 @@ The dedication ceremony was directed by Ana Belén Martínez (Deputy Mayor and C
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail19.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail20a.jpg)
 
+If you are interested in seeing more photos of the ceremony please contact Maria Rose Petrizzo 
+[mrose.petrizzo@unimi.it]
 
