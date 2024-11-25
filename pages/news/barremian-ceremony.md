@@ -60,7 +60,7 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail26a.jpg)
 <p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Patricio Sánchez, Miguel Company, Ian Jarvis
 
-![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail27jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail27.jpg)
 <p style="font-size:smaller;"> From left to right: José Francisco García, Miguel Company, Ian Jarvis
 
 
