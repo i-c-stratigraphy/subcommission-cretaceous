@@ -27,6 +27,7 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail9.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail10.jpg)
 <p style="font-size:smaller;"> From left to right: Miguel Company, Carlos Díaz, Maria Rose Petrizzo, Zofia Dubicka, Ian Jarvis, Luis Arrufat,  Elisabetta Erba, Dangpeng Xi</p>
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail11.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail12.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail13.jpg)
