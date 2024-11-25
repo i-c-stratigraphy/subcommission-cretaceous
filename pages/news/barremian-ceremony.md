@@ -37,9 +37,9 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail16.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail16a.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail17.jpg)
-![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail18.jpg)
-![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail19.jpg)
-![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail20a.jpg)
+
+The dedication ceremony was directed by Ana Belén Martínez (Deputy Mayor and Councilor for the Environment of the Caravaca City Council), and attended by José Francisco García (Mayor of Caravaca) and Patricio Sánchez (General Director of Cultural Heritage of the Region of Murcia). 
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail21.jpg)
 <p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Miguel Company, Ian Jarvis
   
@@ -65,6 +65,8 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail27.jpg)
 <p style="font-size:smaller;"> From left to right: José Francisco García, Miguel Company, Ian Jarvis
 
-
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail18.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail19.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail20a.jpg)
 
 
