@@ -13,7 +13,7 @@ The golden spike ceremony for the BARREMIAN Global boundary Stratotype Section a
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail1.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail2.jpg)
 
-The ceremony was organized by Miguel Company (chair of Barremian Working Group) and the Town Hall of Caravaca de la Cruz. Carlos Díaz and Luis Arrufat played an active role in the organization of the ceremony.
+The ceremony was organized by Miguel Company (chair of the Barremian Working Group) and the Town Hall of Caravaca de la Cruz. Carlos Díaz and Luis Arrufat played an active role in the organization of the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail5a.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail6.jpg)
