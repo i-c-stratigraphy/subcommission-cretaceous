@@ -42,24 +42,24 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail20a.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail21.jpg)
 <p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Miguel Company, Ian Jarvis
-
+  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail22.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail23.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail23a.jpg)
 <p style="font-size:smaller;"> Maria Rose Petrizzo
-
+  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail24.jpg)
 <p style="font-size:smaller;"> Elisabetta Erba
-
+  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail25.jpg)
 <p style="font-size:smaller;"> Ian Jarvis
-
+  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail26.jpg)
 <p style="font-size:smaller;"> From left to right: Miguel Company, Ian Jarvis
-
+  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail26a.jpg)
 <p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Patricio Sánchez, Miguel Company, Ian Jarvis
-
+  
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail27.jpg)
 <p style="font-size:smaller;"> From left to right: José Francisco García, Miguel Company, Ian Jarvis
 
