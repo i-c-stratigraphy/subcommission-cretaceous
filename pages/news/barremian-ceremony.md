@@ -16,7 +16,7 @@ The golden spike ceremony for the BARREMIAN Global boundary Stratotype Section a
 The ceremony was organized by Miguel Company (chair of Barremian Working Group) and the Town Hall of Caravaca de la Cruz. Carlos Díaz and Luis Arrufat played an active role in the organization of the ceremony.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail5a.jpg)
-![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail5.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail4.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail6.jpg)
 
 Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy), Francesca Falzoni (vice chair of the International Subcommission on Cretaceous Stratigraphy), Zofia Dubicka (secretary of the International Subcommission on Cretaceous Stratigraphy), Dangpeng Xi (member the International Subcommission on Cretaceous Stratigraphy), Elisabetta Erba (chair of the International Commission of Stratigraphy ICS), and Maria Rose Petrizzo (vice president International Union of Geological Sciences IUGS and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremony. 
