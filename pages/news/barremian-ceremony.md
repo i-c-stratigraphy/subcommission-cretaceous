@@ -18,6 +18,8 @@ The ceremony was organized by Miguel Company (chair of Barremian Working Group) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail5a.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail5.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail6.jpg)
+
+Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy), Francesca Falzoni (vice chair of the International Subcommission on Cretaceous Stratigraphy), Zofia Dubicka (secretary of the International Subcommission on Cretaceous Stratigraphy), Dangpeng Xi (member the International Subcommission on Cretaceous Stratigraphy), Elisabetta Erba (chair of the International Commission of Stratigraphy), and Maria Rose Petrizzo (vice president IUGS and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremony. 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail7.jpg)
 <p style="font-size:smaller;"> From left to right: Miguel Company, Maria Rose Petrizzo, Ian Jarvis, Francesca Falzoni,  Zofia Dubicka, Elisabetta Erba, Dangpeng Xi</p>
 
