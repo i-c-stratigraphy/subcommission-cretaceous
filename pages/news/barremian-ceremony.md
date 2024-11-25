@@ -52,8 +52,10 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 <p style="font-size:smaller;"> Elisabetta Erba
   
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail25.jpg)
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail25a.jpeg)
 <p style="font-size:smaller;"> Ian Jarvis
   
+![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail25b.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail26.jpg)
 <p style="font-size:smaller;"> From left to right: Miguel Company, Ian Jarvis
   
