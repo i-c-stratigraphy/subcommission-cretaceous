@@ -39,7 +39,6 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail17.jpg)
 
 The dedication ceremony was directed by Ana Belén Martínez (Deputy Mayor and Councilor for the Environment of the Caravaca City Council), and attended by José Francisco García (Mayor of Caravaca), Patricio Sánchez (General Director of Cultural Heritage of the Region of Murcia), and José Santiago Villa (Deputy mayor and Councilor for Tourism of the Caravaca City Council).
-
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail21.jpg)
 <p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Miguel Company, Ian Jarvis
   
