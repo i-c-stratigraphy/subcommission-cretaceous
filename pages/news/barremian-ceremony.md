@@ -40,29 +40,29 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 
 The dedication ceremony was directed by Ana Belén Martínez (Deputy Mayor and Councilor for the Environment of the Caravaca City Council), and attended by José Francisco García (Mayor of Caravaca), Patricio Sánchez (General Director of Cultural Heritage of the Region of Murcia), and José Santiago Villa (Deputy mayor and Councilor for Tourism of the Caravaca City Council).
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail21.jpg)
-<p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Miguel Company, Ian Jarvis 
+<p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Miguel Company, Ian Jarvis</p>  
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail22.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail23.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail23a.jpg)
-<p style="font-size:smaller;"> Maria Rose Petrizzo
+<p style="font-size:smaller;"> Maria Rose Petrizzo</p>
   
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail24.jpg)
-<p style="font-size:smaller;"> Elisabetta Erba
+<p style="font-size:smaller;"> Elisabetta Erba</p>
   
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail25.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail25a.jpeg)
-<p style="font-size:smaller;"> Ian Jarvis
+<p style="font-size:smaller;"> Ian Jarvis</p>
   
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail25b.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail26.jpg)
-<p style="font-size:smaller;"> From left to right: Miguel Company, Ian Jarvis
+<p style="font-size:smaller;"> From left to right: Miguel Company, Ian Jarvis</p>
   
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail26a.jpg)
-<p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Patricio Sánchez, Miguel Company, Ian Jarvis
+<p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Patricio Sánchez, Miguel Company, Ian Jarvis</p>
   
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail27.jpg)
-<p style="font-size:smaller;"> From left to right: José Francisco García, Miguel Company, Ian Jarvis
+<p style="font-size:smaller;"> From left to right: José Francisco García, Miguel Company, Ian Jarvis</p>
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail18.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail19.jpg)
