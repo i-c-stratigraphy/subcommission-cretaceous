@@ -19,7 +19,7 @@ The ceremony was organized by Miguel Company (chair of the Barremian Working Gro
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail6.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail4.jpg)
 
-Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy), Francesca Falzoni (vice chair of the International Subcommission on Cretaceous Stratigraphy), Zofia Dubicka (secretary of the International Subcommission on Cretaceous Stratigraphy), Dangpeng Xi (member the International Subcommission on Cretaceous Stratigraphy), Elisabetta Erba (chair of the International Commission of Stratigraphy ICS), and Maria Rose Petrizzo (vice president International Union of Geological Sciences IUGS and member of the International Subcommission on Cretaceous Stratigraphy) attended the ceremony. 
+Ian Jarvis, Francesca Falzoni, Zofia Dubicka, Dangpeng Xi (respectively chair, vice chair, secretary and member of the International Subcommission on Cretaceous Stratigraphy), Elisabetta Erba (chair of the international Commission on Stratigraphy ICS), and Maria Rose Petrizzo (vice president of the International Union of Geological Sciences IUGS) attended the ceremony. 
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail7.jpg)
 <p style="font-size:smaller;"> From left to right: Miguel Company, Maria Rose Petrizzo, Ian Jarvis, Francesca Falzoni,  Zofia Dubicka, Elisabetta Erba, Dangpeng Xi</p>
@@ -38,7 +38,8 @@ Ian Jarvis (chair of the International Subcommission on Cretaceous Stratigraphy)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail16a.jpg)
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail17.jpg)
 
-The dedication ceremony was directed by Ana Belén Martínez (Deputy Mayor and Councilor for the Environment of the Caravaca City Council), and attended by José Francisco García (Mayor of Caravaca), Patricio Sánchez (General Director of Cultural Heritage of the Region of Murcia), and José Santiago Villa (Deputy mayor and Councilor for Tourism of the Caravaca City Council).
+The dedication ceremony was coordinated by Ana Belén Martínez (Deputy Mayor and Councilor for the Environment of the Caravaca City Council), and attended by José Francisco García (Mayor of Caravaca), Patricio Sánchez (General Director of Cultural Heritage of the Region of Murcia), and José Santiago Villa (Deputy mayor and Councilor for Tourism of the Caravaca City Council).
+
 ![](https://stratigraphy.org/subcommission-cretaceous/images/barremiannail21.jpg)
 <p style="font-size:smaller;"> From left to right: Ana Belén Martínez, Miguel Company, Ian Jarvis</p>  
 
