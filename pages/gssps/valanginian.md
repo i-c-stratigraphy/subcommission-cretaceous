@@ -93,7 +93,7 @@ The base of polarity Chron M15r falls within the _T. alpillensis_ ammonite Zone 
 
 ### Chemostratigraphy of the Cañada Luenga section
 
-Carbon isotope values range between -0.24‰ and +1.34‰ δ<sup>13</sup>C</und>carb through the boundary section. The carbon isotope curve shows fairly stable values, around 1‰ throughout the section, except for two well-defined, W-shaped negative excursions, one in the uppermost part of the _T. alpillensis_ ammonite Subzone (upper part of Chron M15r) and one in the upper part of the _N. premolicus_ ammonite Subzone (Chron M14r). Maximum values occur around the Berriasian/Valanginian boundary. 
+Carbon isotope values range between -0.24‰ and +1.34‰ δ<sup>13</sup>C<und>carb</und> through the boundary section. The carbon isotope curve shows fairly stable values, around 1‰ throughout the section, except for two well-defined, W-shaped negative excursions, one in the uppermost part of the _T. alpillensis_ ammonite Subzone (upper part of Chron M15r) and one in the upper part of the _N. premolicus_ ammonite Subzone (Chron M14r). Maximum values occur around the Berriasian/Valanginian boundary. 
 
 
 ### Links
