@@ -49,9 +49,9 @@ Primary and secondary biostratigraphic markers occurring through the Berriasian/
 
 ### Chemostratigraphy of the Vergol section
 
-The base of the Valanginian (bed VGL-B136) does not coincide with any significant stratigraphic change in CaCO3 content or Mg/Ca, δ13O or δ13C values in either marls or limestones.
+The base of the Valanginian (bed VGL-B136) does not coincide with any significant stratigraphic change in CaCO3 content or Mg/Ca, δ<sup>13</sup>O or δ<sup>13</sup>C values in either marls or limestones.
 
-The carbonate carbon-isotope profile (δ13Ccarb) spanning the boundary shows a 10 m thick plateau interval (~1.1‰ in limestone; ~0.8‰ in marls) in the upper part of the T. alpillensis Zone, and then falling δ13Ccarb values across the Berriasian/Valanginian boundary.  Values reach a minimum in the lower part of the _“T.” pertransiens_ Zone (~0.5‰ δ13Ccarb in limestone; ~0.3‰ in marls), rising back to a second plateau interval above.
+The carbonate carbon-isotope profile (δ<sup>13</sup>Ccarb) spanning the boundary shows a 10 m thick plateau interval (~1.1‰ in limestone; ~0.8‰ in marls) in the upper part of the T. alpillensis Zone, and then falling δ13Ccarb values across the Berriasian/Valanginian boundary.  Values reach a minimum in the lower part of the _“T.” pertransiens_ Zone (~0.5‰ δ<sup>13</sup>Ccarb in limestone; ~0.3‰ in marls), rising back to a second plateau interval above.
 
 At the base of VGL-B136 (19.23 m), the predicted value of <sup>87</sup>Sr/<sup>86</sup>Sr is 0.707289 (± 0.000004).
 
