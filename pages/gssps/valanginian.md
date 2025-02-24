@@ -26,25 +26,25 @@ N.B.: Due to some problems of attribution, the generic name of this species appe
 Primary and secondary biostratigraphic markers occurring through the Berriasian/Valanginian stage boundary interval in the Vergol section are listed below from the stratigraphic bottom to the top:
 (Abbreviations: FO = First Occurrence, LO = Last Occurrence, L= Limestone bed, M = Marl layer)
 
- Bed VGL-B96 (L), 0.38 m, FO _Tirnovella alpillensis_ (ammonite) 
- •	Bed VGL-B107 (L), 5.97 m, FO _Colomisphaera vogleri_ (calcareous dinoflagellate cyst) 
-•	Bed VGL-B110 (M), 7.28 m, FO _Muderongia macwhaei_ (organic-walled dinoflagellate cyst) 
-•	Bed VGL-B112 (M), 9.03 m, FO _Percivalia fenestrata_ (calcareous nannofossil) 
-•	Bed VGL-B116 (L), 11.33 m, FO _”Thurmanniceras” otopeta_ (ammonite) 
-•	Bed VGL-B117 (L), 12.05 m, FO _Praecalpionellites murgeanui_ (calpionellid) 
-•	Bed VGL-B119 (L), 12.98 m, FO _Colomisphaera conferta_ (calcareous dinoflagellate cyst) 
-•	Bed VGL-B129 (L), 16.46 m, LO _Tirnovella alpillensis_ (ammonite) 
-•	Bed VGL-B133 (L), 17.89 m, FO _Calpionellites darderi_ and _C. coronatus_ (calpionellid) 
-•	Bed VGL-B135 (L), 19.04 m, LO _“Thurmanniceras” otopeta_ and _Berriasella calisto_ (ammonite) 
-•	Bed VGL-B136 (L), 19.23 m, FO _“Thurmanniceras” pertransiens_ (ammonite) - PRIMARY MARKER 
-•	Bed VGL-B137 (L), 19.80 m, FO _“Thurmanniceras” gratianopolitense_ (ammonite) 
-•	Bed VGL-B141 (L), 21.27 m, FO _Neocomites premolicus_ (ammonite) 
-•	Bed VGL-B142 (M), 22.15 m, occurrence _Thalassiphora? charollaisii_ (organic-walled dinoflagellate cyst) 
+•	Bed VGL-B96 (L), 0.38 m, FO _Tirnovella alpillensis_ (ammonite)  
+•	Bed VGL-B107 (L), 5.97 m, FO _Colomisphaera vogleri_ (calcareous dinoflagellate cyst)  
+•	Bed VGL-B110 (M), 7.28 m, FO _Muderongia macwhaei_ (organic-walled dinoflagellate cyst)  
+•	Bed VGL-B112 (M), 9.03 m, FO _Percivalia fenestrata_ (calcareous nannofossil)  
+•	Bed VGL-B116 (L), 11.33 m, FO _”Thurmanniceras” otopeta_ (ammonite)  
+•	Bed VGL-B117 (L), 12.05 m, FO _Praecalpionellites murgeanui_ (calpionellid)  
+•	Bed VGL-B119 (L), 12.98 m, FO _Colomisphaera conferta_ (calcareous dinoflagellate cyst)  
+•	Bed VGL-B129 (L), 16.46 m, LO _Tirnovella alpillensis_ (ammonite)  
+•	Bed VGL-B133 (L), 17.89 m, FO _Calpionellites darderi_ and _C. coronatus_ (calpionellid)  
+•	Bed VGL-B135 (L), 19.04 m, LO _“Thurmanniceras” otopeta_ and _Berriasella calisto_ (ammonite)  
+•	**Bed VGL-B136 (L), 19.23 m, FO _“Thurmanniceras” pertransiens_ (ammonite) - PRIMARY MARKER**   
+•	Bed VGL-B137 (L), 19.80 m, FO _“Thurmanniceras” gratianopolitense_ (ammonite)  
+•	Bed VGL-B141 (L), 21.27 m, FO _Neocomites premolicus_ (ammonite)  
+•	Bed VGL-B142 (M), 22.15 m, occurrence _Thalassiphora? charollaisii_ (organic-walled dinoflagellate cyst)  
 •	Bed VGL-B146 (M), 23.57 m, FO _Calcicalathina oblongata_ (calcareous nannofossil)  
-•	Bed VGL-B149 (L), 24.54 m, FO _Calpionellites major_ (calpionellid) 
-•	Bed VGL-B150 (L), 25.27 m, FO _Castellanibelus orbignyanus_ (belemnite) 
-•	Bed VGL-V2 (L), 26.91 m, FO _Neolissoceras (Vergoliceras) salinarium_ (ammonite) and FO _Calpionellites caravacaensis_ (calpionellid) 
-•	Bed VGL-V5 (L), 28.87 m, FO _Berriasibelus exstinctorius_ (belemnite) 
+•	Bed VGL-B149 (L), 24.54 m, FO _Calpionellites major_ (calpionellid)  
+•	Bed VGL-B150 (L), 25.27 m, FO _Castellanibelus orbignyanus_ (belemnite)  
+•	Bed VGL-V2 (L), 26.91 m, FO _Neolissoceras (Vergoliceras) salinarium_ (ammonite) and FO _Calpionellites caravacaensis_ (calpionellid)  
+•	Bed VGL-V5 (L), 28.87 m, FO _Berriasibelus exstinctorius_ (belemnite)  
 
 
 ### Chemostratigraphy of the Vergol section
@@ -65,8 +65,8 @@ The floating ages of the 405-kyr eccentricity cycles are anchored on a CA-ID-TIM
 
 ### Standard Auxiliary Boundary Stratotype
 
-The Cañada Luenga section (Cehegín, SE Spain) is included as a Standard Auxiliary Boundary Stratotype (SABS). The Cañada Luenga section provides a robust magnetostratigraphic record of the Berriasian/Valanginian boundary interval, together with a rich, diverse and well-preserved fossil content that ensures precise correlation with the Vergol GSSP. 
-The section is located in the Cañada Luenga ravine, 3.1 km SSW of Cehegín and 750 m upstream from the confluence of the ravine with the River Quípar. The geographic coordinates of the middle part of the section are 38º03’55”N, 1º48’4”W. The entire Cañada Luenga section extends from the middle Berriasian to the lower Valanginian.
+The Cañada Luenga section (Cehegín, SE Spain) is included as a Standard Auxiliary Boundary Stratotype (SABS). The Cañada Luenga section provides a robust magnetostratigraphic record of the Berriasian/Valanginian boundary interval, together with a rich, diverse and well-preserved fossil content that ensures precise correlation with the Vergol GSSP.  
+The section is located in the Cañada Luenga ravine, 3.1 km SSW of Cehegín and 750 m upstream from the confluence of the ravine with the River Quípar. The geographic coordinates of the middle part of the section are 38º03’55”N, 1º48’4”W. The entire Cañada Luenga section extends from the middle Berriasian to the lower Valanginian.  
 The Berriasian/Valanginian boundary is exposed in the upper part of the section within an interval about 13 m thick (beds CL-0 to 20). The base of this part of the section (beds CL-0 to 3, approximately 1.25 m thick), is assigned to the lower part of the _Tirnovella alpillensis_ Subzone, and is made up of reddish to grey nodular calcilutites to calcirudites that correspond to the top of the Upper Ammonitico Rosso Formation. The remainder of the section consists of alternating light grey limestone and marly limestone beds (5 to 55 cm thick) and dark grey marlstone interbeds (2 to 110 cm thick) of the Miravetes Formation. 
 
 ### Primary and secondary markers
@@ -74,17 +74,17 @@ The Berriasian/Valanginian boundary is exposed in the upper part of the section 
 The primary marker of the base of the Valanginian Stage, the FO of the ammonite _“Thurmanniceras” pertransiens_, is recorded in the Cañada Luenga section in Bed CL-9 at 5.80 m. 
 
 The succession of primary and secondary biostratigraphic markers through the stage boundary interval of the Cañada Luenga section are listed below from the stratigraphic bottom to the top: 
-•	Bed CL-0, 0 m, FO _Tirnovella alpillensis_ (ammonite)
-•	Bed CL-3–4, 1.5 m, FO _Percivalia fenestrata_ (calcareous nannofossil)
-•	Bed CL-5, 2.65 m, FO _“Thurmanniceras” otopeta_ (ammonite)
-•	Bed CL-6, 3.35 m, FO _Praecalpionellites murgeanui_ (calpionellid)
-•	Bed CL-8, 5.27 m, FO _Calpionellites darderi_ (calpionellid) and LO _C. coronatus_ (calpionellid) 
-•	Bed CL-8, 5.50 m, LO _Tirnovella alpillensis_ (ammonite)
-•	Bed CL-8, 5.50 m, LO _“Thurmanniceras” otopeta_ (ammonite) and _Berriasella calisto_ (ammonite)
-•	Bed CL-9, 5.80 m, FO _“Thurmanniceras” pertransiens_ (ammonite), LO _“Thurmanniceras” gratianopolitense_ (ammonite) and LO _Neocomites premolicus_ (ammonite)
-•	Bed CL-12, 6.95 m, FO _Calpionellites major_ (calpionellid)
-•	Bed CL-16, 10.25 m, FO _Calpionellites caravacaensis_ (calpionellid)
-•	Bed CL-17, 11.90 m, FO _Neolissoceras (Vergoliceras) salinarium_ (ammonite)
+•	Bed CL-0, 0 m, FO _Tirnovella alpillensis_ (ammonite)  
+•	Bed CL-3–4, 1.5 m, FO _Percivalia fenestrata_ (calcareous nannofossil)  
+•	Bed CL-5, 2.65 m, FO _“Thurmanniceras” otopeta_ (ammonite)  
+•	Bed CL-6, 3.35 m, FO _Praecalpionellites murgeanui_ (calpionellid)  
+•	Bed CL-8, 5.27 m, FO _Calpionellites darderi_ (calpionellid) and LO _C. coronatus_ (calpionellid)  
+•	Bed CL-8, 5.50 m, LO _Tirnovella alpillensis_ (ammonite)  
+•	Bed CL-8, 5.50 m, LO _“Thurmanniceras” otopeta_ (ammonite) and _Berriasella calisto_ (ammonite)  
+•	Bed CL-9, 5.80 m, FO _“Thurmanniceras” pertransiens_ (ammonite), LO _“Thurmanniceras” gratianopolitense_ (ammonite) and LO _Neocomites premolicus_ (ammonite)  
+•	Bed CL-12, 6.95 m, FO _Calpionellites major_ (calpionellid)  
+•	Bed CL-16, 10.25 m, FO _Calpionellites caravacaensis_ (calpionellid)  
+•	Bed CL-17, 11.90 m, FO _Neolissoceras (Vergoliceras) salinarium_ (ammonite)  
 
 
 ### Magnetostratigraphy of the Cañada Luenga section
