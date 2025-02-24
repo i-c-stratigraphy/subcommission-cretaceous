@@ -31,7 +31,7 @@ See the [local copy of the license deed](LICENSE) for details.
 ## Support and contacts
 *For website content:*  
 **Prof. Maria Rose Petrizzo**  
-Chair, International Subcommission on Cretaceous Stratigraphy  
+Webmaster, International Subcommission on Cretaceous Stratigraphy  
 
 Dipartimento di Scienze della Terra "A. Desio"  
 Università degli Studi di Milano  
