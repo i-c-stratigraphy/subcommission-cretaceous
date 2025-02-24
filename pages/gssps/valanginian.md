@@ -53,7 +53,7 @@ The base of the Valanginian (bed VGL-B136) does not coincide with any significan
 
 The carbonate carbon-isotope profile (δ13Ccarb) spanning the boundary shows a 10 m thick plateau interval (~1.1‰ in limestone; ~0.8‰ in marls) in the upper part of the T. alpillensis Zone, and then falling δ13Ccarb values across the Berriasian/Valanginian boundary.  Values reach a minimum in the lower part of the _“T.” pertransiens_ Zone (~0.5‰ δ13Ccarb in limestone; ~0.3‰ in marls), rising back to a second plateau interval above.
 
-At the base of VGL-B136 (19.23 m), the predicted value of 87Sr/86Sr is 0.707289 (± 0.000004).
+At the base of VGL-B136 (19.23 m), the predicted value of <sup>87</sup>Sr/<sup>86</sup>Sr is 0.707289 (± 0.000004).
 
 
 ### Magnetostratigraphy of the Vergol section
