@@ -55,7 +55,22 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: Cretaceous, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
     </div>
-    <div class="person" style="grid-row:3; grid-column:1;">
+   <div class="person" style="grid-row:3; grid-column:1;">
+        <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
+        <strong>Prof. Maria Rose Petrizzo</strong><br />
+        Chair 2016-2024<br />
+        Dipartimento di Scienze della Terra “A. Desio”<br />
+        Università degli Studi di Milano<br />
+        Via Mangiagalli, 34<br />
+        20133, Milano, Italy<br />
+        <br />
+        Phone:+39-02-503 15531 <br />
+        E-mail: <a href="mailto:mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>
+        <br />
+        *Scientific Expertise*: Cretaceous, Paleogene, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
+    </div>
+
+    <div class="person" style="grid-row:3; grid-column:2;">
         <img src="images/person-sageman.jpg" style="width:150px;" alt="Sageman" /><br />
         <strong>Prof. Bradley Sageman</strong><br />
         Dept. of Earth and Planetary Sciences<br />
