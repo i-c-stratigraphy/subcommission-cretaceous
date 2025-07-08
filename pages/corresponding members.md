@@ -43,7 +43,7 @@ permalink: /corresponding members
         *Scientific Expertise*: carbon isotope stratigraphy, organic carbon, biomarkers, OAEs, paleoenvironment, paleoceanography.
     </div>
     <div class="person" style="grid-row:2; grid-column:2;">
-        <img src="images/person-huber.jpg" style="width:150px;" alt="Huber" /><br />
+         <img src="images/person-huber.jpg" style="width:150px;" alt="Huber" /><br />
         <strong>Dr. Brian T. Huber</strong><br />
         Department of Paleobiology<br />
         National Museum of Natural History<br />
@@ -56,7 +56,7 @@ permalink: /corresponding members
         *Scientific Expertise*: Cretaceous, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
     </div>
    <div class="person" style="grid-row:3; grid-column:1;">
-        <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
+         <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
         <strong>Prof. Maria Rose Petrizzo</strong><br />
         Chair 2016-2024<br />
         Dipartimento di Scienze della Terra “A. Desio”<br />
