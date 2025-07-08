@@ -68,7 +68,7 @@ permalink: /corresponding members
         E-mail: <a href="mailto:mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>
         <br />
         *Scientific Expertise*: Cretaceous, Paleogene, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
-    </div>
+     </div>
     <div class="person" style="grid-row:3; grid-column:2;">
         <img src="images/person-sageman.jpg" style="width:150px;" alt="Sageman" /><br />
         <strong>Prof. Bradley Sageman</strong><br />
