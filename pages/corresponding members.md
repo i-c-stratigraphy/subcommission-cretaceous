@@ -54,22 +54,8 @@ permalink: /corresponding members
         E-mail: <a href="mailto:huberb@si.edu">huberb@si.edu</a>
         <br />
         *Scientific Expertise*: Cretaceous, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
-    </div>
-   <div class="person" style="grid-row:3; grid-column:1;">
-         <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
-        <strong>Prof. Maria Rose Petrizzo</strong><br />
-        Chair 2016-2024<br />
-        Dipartimento di Scienze della Terra “A. Desio”<br />
-        Università degli Studi di Milano<br />
-        Via Mangiagalli, 34<br />
-        20133, Milano, Italy<br />
-        <br />
-        Phone:+39-02-503 15531 <br />
-        E-mail: <a href="mailto:mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>
-        <br />
-        *Scientific Expertise*: Cretaceous, Paleogene, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
      </div>
-    <div class="person" style="grid-row:3; grid-column:2;">
+    <div class="person" style="grid-row:3; grid-column:1;">
         <img src="images/person-sageman.jpg" style="width:150px;" alt="Sageman" /><br />
         <strong>Prof. Bradley Sageman</strong><br />
         Dept. of Earth and Planetary Sciences<br />
@@ -82,7 +68,7 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: stratigraphy, biogeochemistry, paleoceanography, paleoclimatology.
     </div>
-    <div class="person" style="grid-row:4; grid-column:1;">
+    <div class="person" style="grid-row:3; grid-column:2;">
         <img src="images/person-wagreich.gif " style="width:150px;" alt="Michael" /><br />
         <strong>Prof. Michael Wagreich </strong><br />
         Vice Chair 2016-2024 <br />
@@ -96,7 +82,7 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: biostratigraphy, biogeography, palaeogeography, regional geology, taxonomic palaeontology, evolution.
     </div>
-    <div class="person" style="grid-row:4; grid-column:2;">
+    <div class="person" style="grid-row:4; grid-column:1;">
         <img src="images/person-walaszczyk.jpg" style="width:150px;" alt="Walaszczyk" /><br />
         <strong>Prof. Irek Walaszczyk</strong><br />
         Faculty of Geology<br />
