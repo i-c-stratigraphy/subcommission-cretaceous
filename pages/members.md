@@ -105,6 +105,20 @@ permalink: /members
         <br />
         *Scientific Expertise*: Cretaceous palynology, dinoflagellate cysts, pollen, palynofacies analysis, palaeoenvironments.
     </div>
+    <div class="person" style="grid-row:3; grid-column:1;">
+         <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
+        <strong>Prof. Maria Rose Petrizzo</strong><br />
+        Chair 2016-2024<br />
+        Dipartimento di Scienze della Terra “A. Desio”<br />
+        Università degli Studi di Milano<br />
+        Via Mangiagalli, 34<br />
+        20133, Milano, Italy<br />
+        <br />
+        Phone:+39-02-503 15531 <br />
+        E-mail: <a href="mailto:mrose.petrizzo@unimi.it">mrose.petrizzo@unimi.it</a>
+        <br />
+        *Scientific Expertise*: Cretaceous, Paleogene, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
+     </div>
     <div class="person" style="grid-row:5; grid-column:1;">
         <img src="images/person-sano.jpg" style="width:150px;" alt="Sanor" /><br />
         <strong>Prof. Shin-Ichi Sano  </strong><br />
