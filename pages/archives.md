@@ -26,7 +26,7 @@ permalink: /archives
 * [2007 report](files/ICS2007_Report_Creta.pdf)
 
 ### Meeting Minutes
-* [ISCS Business Meeting 12th International Cretaceous Symposium - 2 September 2025](files/ISCS Business-meeting-12th International Cretaceous Symposium - 2 September 2025.pdf)
+* [ISCS Business Meeting 12th International Cretaceous Symposium - 2 September 2025](files/ISCS Business meeting-12th International Cretaceous Symposium - 2 September 2025.pdf)
 * [ISCS Business Meeting IGC Busan - 26 August 2024](files/ISCS-Business-meeting-IGC Busan -26 August 2024.pdf)
 * [ISCS Business Meeting STRATI 2019 – 4th July 2019](files/ISCS-Business-Meeting-STRATI2019-4th-July-2019.pdf)
 * [ISCS Business Meeting – 10th International Symposium on Cretaceous System – 23rd August 2017](files/ISCS_meeting-23_August_2017.pdf)
