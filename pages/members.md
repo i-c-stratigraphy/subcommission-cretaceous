@@ -8,12 +8,12 @@ permalink: /members
     <div class="person" style="grid-row:1; grid-column:1;">
         <img src="images/person-batenburg.jpg" style="width:150px;" alt="Batenburg" /><br />
         <strong>Dr. Sietske J. Batenburg</strong><br />
-        Faculty of Earth Sciences<br />
-        University of Barcelona<br />
-        Martí i Franqués, 08028 Barcelona, Spain<br />
+        Department of Earth Sciences, Faculty of Geosciencess<br />
+        Utrecht University<br />
+        Princetonlaan 8a, 3584 CB Utrecht, The Netherlands<br />
         <br />
-        Phone: +34 698963831<br />
-        E-mail: <a href="mailto:sbatenburg@ub.edu">sbatenburg@ub.edu</a>
+        Phone: <br />
+        E-mail: <a href="mailto:s.j.batenburg@uu.nl">s.j.batenburg@uu.nl</a>
         <br />
        *Scientific Expertise*: carbon isotope stratigrapy, cyclostratigraphy, paleoclimatology, sediment geochemistry, sedimentology.
     </div>
