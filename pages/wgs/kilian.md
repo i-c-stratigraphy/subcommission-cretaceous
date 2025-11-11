@@ -89,7 +89,7 @@ permalink: /wgs/kilian
             1088 Ludovika ter 2<br />
             H-1431 Budapest, Hungary<br />
             <br />
-            E-mail: <a href="sziveso@nhmus.hu">sziveso@nhmus.hu</a>
+            E-mail: <a href="o.szives@gmail.com">o.szives@gmail.com</a>
         </div>
     </div>
 </div>
