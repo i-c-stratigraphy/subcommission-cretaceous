@@ -54,18 +54,17 @@ permalink: /members
         *Scientific Expertise*: Cretaceous planktonic foraminifera, OAE2, biostratigraphy, chemostratigraphy.
     </div>
     <div class="person" style="grid-row:3; grid-column:1;">
-        <img src="images/person-granier.jpg" style="width:150px;" alt="Granier" /><br />
-        <strong>Prof. Bruno Granier</strong><br />
-        Dépt. des Sciences de la Terre et de L’Univers<br />
-        UFR Sciences et Techniques<br />
-        Université de Bretagne Occidentale<br />
-        6 avenue, Le Gorgeu – CS 93837<br />
-        F – 29238 Brest, France<br />
+        <img src="images/person-frijia.jpg" style="width:150px;" alt=" Frijia" /><br />
+        <strong>Prof. Gianluca Frijia</strong><br />
+        Dipartimento di Fisica e Scienze della Terra<br />
+        Università degli Studi di Ferrara<br />
+        Via Ludovico Ariosto, 35<br />
+        44121 Ferrara, Italy<br />
         <br />
         Phone: <br />
-        E-mail: <a href="mailto:bgranier@univ-brest.fr">bgranier@univ-brest.fr</a>
+        E-mail: <a href="mailto: gianluca.frijia@unife.it">gianluca.frijia@unife.it</a>
         <br />
-        *Scientific Expertise*: holostratigraphy, sequence stratigraphy, carbonate sedimentology, paleophycology, benthic foraminifers.
+        *Scientific Expertise*: Biostratigraphy, Sr- and C-isotope stratigraphy, sequence stratigraphy, larger foraminifera, carbonate platforms.
     </div>
     <div class="person" style="grid-row:3; grid-column:2;">
         <img src="images/person-koutsoukos.jpg" style="width:150px;" alt="Koutsoukos" /><br />
