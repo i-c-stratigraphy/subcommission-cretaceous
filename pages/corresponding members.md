@@ -30,6 +30,20 @@ permalink: /corresponding members
         *Scientific Expertise*: cyclostratigraphy, magnetostratigraphy, paleoclimatology.
     </div>
     <div class="person" style="grid-row:2; grid-column:1;">
+        <img src="images/person-granier.jpg" style="width:150px;" alt="Granier" /><br />
+        <strong>Prof. Bruno Granier</strong><br />
+        Dépt. des Sciences de la Terre et de L’Univers<br />
+        UFR Sciences et Techniques<br />
+        Université de Bretagne Occidentale<br />
+        6 avenue, Le Gorgeu – CS 93837<br />
+        F – 29238 Brest, France<br />
+        <br />
+        Phone: <br />
+        E-mail: <a href="mailto:bgranier@univ-brest.fr">bgranier@univ-brest.fr</a>
+        <br />
+        *Scientific Expertise*: holostratigraphy, sequence stratigraphy, carbonate sedimentology, paleophycology, benthic foraminifers.
+    </div>
+    <div class="person" style="grid-row:2; grid-column:2;">
                 <img src="images/person-hasegawa.jpg" style="width:150px;" alt="Hasegawa" /><br />
         <strong>Prof. Takashi Hasegawa</strong><br />
         Faculty of Natural System<br />
@@ -42,7 +56,7 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: carbon isotope stratigraphy, organic carbon, biomarkers, OAEs, paleoenvironment, paleoceanography.
     </div>
-    <div class="person" style="grid-row:2; grid-column:2;">
+    <div class="person" style="grid-row:3; grid-column:1;">
          <img src="images/person-huber.jpg" style="width:150px;" alt="Huber" /><br />
         <strong>Dr. Brian T. Huber</strong><br />
         Department of Paleobiology<br />
@@ -55,7 +69,7 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: Cretaceous, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
      </div>
-    <div class="person" style="grid-row:3; grid-column:1;">
+    <div class="person" style="grid-row:3; grid-column:2;">
         <img src="images/person-sageman.jpg" style="width:150px;" alt="Sageman" /><br />
         <strong>Prof. Bradley Sageman</strong><br />
         Dept. of Earth and Planetary Sciences<br />
@@ -68,7 +82,7 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: stratigraphy, biogeochemistry, paleoceanography, paleoclimatology.
     </div>
-    <div class="person" style="grid-row:3; grid-column:2;">
+    <div class="person" style="grid-row:4; grid-column:1;">
         <img src="images/person-wagreich.gif " style="width:150px;" alt="Michael" /><br />
         <strong>Prof. Michael Wagreich </strong><br />
         Vice Chair 2016-2024 <br />
@@ -82,7 +96,7 @@ permalink: /corresponding members
         <br />
         *Scientific Expertise*: biostratigraphy, biogeography, palaeogeography, regional geology, taxonomic palaeontology, evolution.
     </div>
-    <div class="person" style="grid-row:4; grid-column:1;">
+    <div class="person" style="grid-row:4; grid-column:2;">
         <img src="images/person-walaszczyk.jpg" style="width:150px;" alt="Walaszczyk" /><br />
         <strong>Prof. Irek Walaszczyk</strong><br />
         Faculty of Geology<br />
