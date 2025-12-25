@@ -54,7 +54,7 @@ permalink: /members
         *Scientific Expertise*: Cretaceous planktonic foraminifera, OAE2, biostratigraphy, chemostratigraphy.
     </div>
     <div class="person" style="grid-row:3; grid-column:1;">
-        <img src="images/person-frijia.jpg" style="width:150px;" alt=" Frijia" /><br />
+        <img src="images/person-frijia.jpeg" style="width:150px;" alt=" Frijia" /><br />
         <strong>Prof. Gianluca Frijia</strong><br />
         Dipartimento di Fisica e Scienze della Terra<br />
         Università degli Studi di Ferrara<br />
