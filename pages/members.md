@@ -65,8 +65,21 @@ permalink: /members
         E-mail: <a href="mailto: gianluca.frijia@unife.it">gianluca.frijia@unife.it</a>
         <br />
         *Scientific Expertise*: Biostratigraphy, Sr- and C-isotope stratigraphy, sequence stratigraphy, larger foraminifera, carbonate platforms.
+      </div>
+<div class="person" style="grid-row:3; grid-column:2;">
+        <img src="images/person-jurkowska.jpg" style="width:150px;" alt="Jurkowska " /><br />
+        <strong>Dr. Agata Jurkowska</strong><br />
+        Faculty of Geology, Geophysics and Environmental Protection <br />
+        AGH University of Kraków<br />
+        5 Mickiewicza St. 30<br />
+        30-059 Kraków, Poland<br />
+        <br />
+        Phone: <br />
+        E-mail: <a href="mailto: jurkowska.a@gmail.com">jurkowska.a@gmail.com</a>
+        <br />
+        *Scientific Expertise*: Inoceramid biostratigraphy, mineralogy, flint, Si cycle, diagenesis.
     </div>
-    <div class="person" style="grid-row:3; grid-column:2;">
+    <div class="person" style="grid-row:4; grid-column:1;">
         <img src="images/person-koutsoukos.jpg" style="width:150px;" alt="Koutsoukos" /><br />
         <strong>Dr. Eduardo A. M. Koutsoukos </strong><br />
         Institut für Geowissenschaften<br />
@@ -79,7 +92,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: evolutionary paleobiology, ecosystem dynamics, stratigraphy, foraminifera.
     </div>
-    <div class="person" style="grid-row:4; grid-column:1;">
+    <div class="person" style="grid-row:4; grid-column:2;">
         <img src="images/person-morenobedmar.jpg" style="width:150px;" alt="Moreno Bedmar" /><br />
         <strong>Prof. Josep A. Moreno Bedmar </strong><br />
         Instituto de Geología<br />
@@ -91,7 +104,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: paleontology, ammonite biostratigraphy, stratigraphy, Lower Cretaceous.
     </div>
-    <div class="person" style="grid-row:4; grid-column:2;">
+    <div class="person" style="grid-row:5; grid-column:1;">
         <img src="images/person-pavlishina.jpg" style="width:150px;" alt="Pavlishina" /><br />
         <strong>Prof. Polina Pavlishina </strong><br />
         Sofia University “St. Kliment Ohridski”<br />
@@ -104,7 +117,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: Cretaceous palynology, dinoflagellate cysts, pollen, palynofacies analysis, palaeoenvironments.
     </div>
-    <div class="person" style="grid-row:5; grid-column:1;">
+    <div class="person" style="grid-row:5; grid-column:2;">
          <img src="images/person-MRPetrizzo.gif" style="width:150px;" alt="Maria" /><br />
         <strong>Prof. Maria Rose Petrizzo</strong><br />
         Chair 2016-2024<br />
@@ -118,7 +131,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: Cretaceous, Paleogene, paleoceanography, paleoclimate, foraminifera, biostratigraphy, paleobiogeography.
      </div>
-    <div class="person" style="grid-row:5; grid-column:2;">
+    <div class="person" style="grid-row:6; grid-column:1;">
         <img src="images/person-sano.jpg" style="width:150px;" alt="Sanor" /><br />
         <strong>Prof. Shin-Ichi Sano  </strong><br />
         Department of Earth System Science, Faculty of Sustainable Design<br />
@@ -130,7 +143,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: rudists, belemnites, Pacific, East Asia, stratigraphy, palaeobiogeography.
     </div>
-    <div class="person" style="grid-row:6; grid-column:1;">
+    <div class="person" style="grid-row:6; grid-column:2;">
          <img src="images/person-sari.jpg" style="width:150px;" alt="Sari" /><br />
         <strong>Prof. Bilal Sari</strong><br />
         Dokuz Eylul University<br />
@@ -143,7 +156,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: Late Cretaceous, planktonic foraminifera, taxonomy, biostratigraphy.
     </div>
-    <div class="person" style="grid-row:6; grid-column:2;">
+    <div class="person" style="grid-row:7; grid-column:1;">
         <img src="images/person-self-trail.jpg" style="width:150px;" alt="Self-Trail" /><br />
         <strong>Prof. Jean Marie Self-Trail </strong><br />
         U.S. Geological Survey, Florence Bascom Geoscience Center<br />
@@ -155,7 +168,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: Cretaceous, Nannofossils, Stratigraphy, Biostratigraphy, Paleoceanography.
     </div>
-     <div class="person" style="grid-row:7; grid-column:1;">
+     <div class="person" style="grid-row:7; grid-column:2;">
         <img src="images/person-singer.jpg" style="width:150px;" alt="Singer" /><br />
         <strong>Prof. Brad S. Singer</strong><br />
         Department of Geoscience<br />
@@ -168,7 +181,20 @@ permalink: /members
         <br />
         *Scientific Expertise*: geochronology, volcanology, geochemistry, geophysics.
    </div>
-    <div class="person" style="grid-row:7; grid-column:2;">
+<div class="person" style="grid-row:8; grid-column:1;">
+        <img src="images/person-szives.jpg" style="width:150px;" alt="Szives" /><br />
+        <strong>Dr. Ottilia Szives </strong><br />
+        Department of Collections, Geological Survey<br />
+        Supervisory Authority for Regulatory Affairs <br />
+        Stefánia út 14<br />
+        Budapest 1143, Hungary <br />
+        <br />
+        Phone: <br />
+        E-mail: <a href="mailto: o.szives@gmail.com"> o.szives@gmail.com</a>
+        <br />
+        *Scientific Expertise*: Ammonites, calcareous nannofossils, taxonomy, biostratigraphy, palaeoenvironmental reconstruction.
+      </div>
+    <div class="person" style="grid-row:8; grid-column:2;">
         <img src="images/person-takashima.jpg" style="width:150px;" alt="Takashima" /><br />
         <strong>Prof. Reishi Takashima </strong><br />
         Tohoku University Museum, Tohoku University<br />
@@ -180,7 +206,7 @@ permalink: /members
         <br />
         *Scientific Expertise*: Pacific, Panthalassa, Japan, Yezo Group, Vocontian Basin, carbon isotope stratigraphy.
     </div>
-    <div class="person" style="grid-row:8; grid-column:1;">
+    <div class="person" style="grid-row:9; grid-column:1;">
         <img src="images/person-wilmsen.jpg" style="width:150px;" alt="Wilmsen" /><br />
         <strong>Dr. Markus Wilmsen</strong><br />
         Senckenberg Naturhistorische Sammlungen, Dresden<br />
@@ -193,7 +219,19 @@ permalink: /members
         <br />
         *Scientific Expertise*: integrated stratigraphy, facies analysis, palaeoenvironmental reconstructions, mid-Cretaceous ectocochleates, trace fossils.
     </div>
-    <div class="person" style="grid-row:8; grid-column:2;">
+<div class="person" style="grid-row:9; grid-column:2;">
+        <img src="images/person-wolfgring.jpg" style="width:150px;" alt=" Wolfgring " /><br />
+        <strong>Dr. Erik Wolfgring </strong><br />
+        Department of Geology, University of Vienna <br />
+        Josef-Holaubek-Platz 2 (UZA II)<br />
+        Wien 1090, Austria <br />
+        <br />
+        Phone: <br />
+        E-mail: <a href="mailto: erik.wolfgring@univie.ac.at "> erik.wolfgring@univie.ac.at </a>
+        <br />
+        *Scientific Expertise*: Benthic and planktonic foraminifera, chemostratigraphy (stable isotopes), cyclostratigraphy, ocean drilling, southern high latitudes.
+       </div>
+    <div class="person" style="grid-row:10; grid-column:1;">
         <img src="images/person-xi.jpg" style="width:150px;" alt="Xi" /><br />
         <strong>Dr. Dangpeng Xi</strong><br />
      China University of Geosciences<br />
