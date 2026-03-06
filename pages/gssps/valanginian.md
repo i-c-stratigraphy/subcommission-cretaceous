@@ -97,6 +97,6 @@ Carbon isotope values range between -0.24‰ and +1.34‰ δ<sup>13</sup>C<sub>c
 
 
 ### Links
-Episodes paper in preparation: Reboulet S., Company M., Adatte T., Aguado R., Baudin F., Deconinck J-F., Duxbury S., de Gea G., Grabowski J., Granier B., Ivanova D., Janssen N.M.M., Klein J., Lakova I., Leng M.G., Lodowski D.G., Martinez M., Mattioli E., McArthur J.M., Olivero D., Reháková D., Tavera J.M., 2024. The Global Boundary Stratotype Section and Point (GSSP) for the base of the Valanginian Stage, the Vergol section (Drôme, southeast France) and its Standard Auxiliary Boundary Stratotype (SABS), Cañada Luenga section (Cehegín, Spain).
+Reboulet S., Company M., Adatte T., Aguado R., Baudin F., Deconinck J-F., Duxbury S., de Gea G., Grabowski J., Granier B., Ivanova D., Janssen N.M.M., Klein J., Lakova I., Leng M.G., Lodowski D.G., Martinez M., Mattioli E., McArthur J.M., Olivero D., Reháková D., Tavera J.M., 2025. The Global Boundary Stratotype Section and Point (GSSP) for the base of the Valanginian Stage, the Vergol section (Drôme, southeast France) and its Standard Auxiliary Boundary Stratotype (SABS), Cañada Luenga section (Cehegín, Spain). [Episodes 48(4): 479-563](https://doi.org/10.18814/epiiugs/2025/025028)
 
 [GSSP Table](https://stratigraphy.org/gssps/)
