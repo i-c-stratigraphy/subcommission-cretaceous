@@ -17,4 +17,4 @@ Applications should be sent to the SCS Secretary:
 Dr Zofia Dubicka, University of Warsaw, Faculty of Geology, Al. Żwirki i Wigury 93, 02-089 Warszawa, Poland. 
 e-mail: z.dubicka@uw.edu.pl
 
-DEADLINE for applications: 15 April 2026
+# DEADLINE for applications: 15 April 2026
