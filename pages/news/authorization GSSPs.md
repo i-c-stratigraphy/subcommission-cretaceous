@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AUTHORIZATION TO COLLECT SAMPLES on the Valanginian, Hauterivian, and Albian GSSPs
+title: AUTHORIZATION TO COLLECT SAMPLES on the Valanginian, Hauterivian, and Albian GSSPs
 permalink: /news/authorization GSSPs
 ---
 # AUTHORIZATION TO COLLECT SAMPLES on the Valanginian, Hauterivian, and Albian GSSPs
