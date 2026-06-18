@@ -17,7 +17,7 @@ Additional information may be found at:
  
 References:
  
-[Kennedy J.W., Gale A.S., Huber B.T., Petrizzo M.R., Bown P., Jenkyns H.C., 2017. The Global Boundary Stratotype Section and Point (GSSP) for the base of the Albian Stage, of the Cretaceous, the Col de Pré-Guittard section, Arnayon, Drôme, France. Episodes, 40: 177–188. http://dx.doi.org/10.18814/epiiugs/2017/v40i3/017021](/files/231898897.pdf)
+[Kennedy J.W., Gale A.S., Huber B.T., Petrizzo M.R., Bown P., Jenkyns H.C., 2017. The Global Boundary Stratotype Section and Point (GSSP) for the base of the Albian Stage, of the Cretaceous, the Col de Pré-Guittard section, Arnayon, Drôme, France. Episodes, 40: 177–188. http://dx.doi.org/10.18814/epiiugs/2017/v40i3/017021.](/files/231898897.pdf)
  
 [Mutterlose J., Rawson P. F., Reboulet S., with contributions by Baudin F., Bulot L., Emmanuel L., Gardin S., Martinez M., Renard M., 2021. The Global Boundary Stratotype Section and Point (GSSP) for the base of the Hauterivian Stage (Lower Cretaceous), La Charce, southeast France. Episodes, 44: 129–150. https://doi.org/10.18814/epiiugs/2020/020072.] (http://www.episodes.org/journal/view.html?uid=2175&vmd=Full)
  
