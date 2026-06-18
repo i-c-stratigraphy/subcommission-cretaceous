@@ -8,7 +8,7 @@ The Drôme Department and the Baronnies Provençales Regional Natural Park have 
  
 It is mandatory to submit an application and obtain prior authorization from the Drôme Department to collect rock and fossil samples from the Montbrun-les-Bains, La Charce, Arnayon sites.  Permission will be formally communicated to applicants through a prefectural order.  
  
-[Download an application form here](files/Application_authorization_collect_Drôme_geol_sites_June_2026.pdf)
+[Download an application form here](files/Application_June_2026.pdf)
 
  
 Additional information may be found at: 
