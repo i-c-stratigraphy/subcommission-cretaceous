@@ -13,7 +13,7 @@ It is mandatory to submit an application and obtain prior authorization from the
  
 Additional information may be found at: 
  
-(<https://lgltpe.fr/arrete-prefectoral-de-protection-et-formulaire-de-demande-dautorisation-de-prelevements-mis-en-place-dans-le-departement-de-la-drome/> (in French but can be translated to English in a browser)
+(<https://lgltpe.fr/en/prefectural-protection-order-and-sampling-authorization-application-form-in-the-drome-department/>
  
 References:
  
