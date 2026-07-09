@@ -32,7 +32,7 @@ A gathering of researchers and members of the International Subcommission on Cre
 ![](https://stratigraphy.org/subcommission-cretaceous/images/Rios-Netto.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/Sano.jpg) 
 
-The #EARLY CAREER SCIENTIST BEST PAPER AWARD of the Subcommission on Cretaceous Stratigraphy at STRATI 2026 was awarded to Zhaoxia Ge from the School of Earth and Space Sciences, Peking University, for a paper entitled “Multi-stage paleoclimatic evolution of the Early Cretaceous Jehol Biota”.  Congratulations to Zhaoxia for her excellent presentation.
+The EARLY CAREER SCIENTIST BEST PAPER AWARD of the Subcommission on Cretaceous Stratigraphy at STRATI 2026 was awarded to Zhaoxia Ge from the School of Earth and Space Sciences, Peking University, for a paper entitled “Multi-stage paleoclimatic evolution of the Early Cretaceous Jehol Biota”.  Congratulations to Zhaoxia for her excellent presentation.
 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ZhaoxiaGe.jpg) 
 ![](https://stratigraphy.org/subcommission-cretaceous/images/ZhaoxiaGe-2.jpg) 
