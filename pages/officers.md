@@ -25,8 +25,8 @@ permalink: /officers
     </div>
     <div style="grid-row:2; grid-column:2;">
         <strong>Vice-Chair: Francesca Falzoni</strong><br />
-        Istituto di Geologia Ambientale ed Geoingegneria (IGAG)<br />
-        Consiglio Nazionale delle Ricerche<br /> 
+        Institute of Geosciences (CNR-GEO)<br />
+        National Research Council of Italy<br /> 
         via Mario Bianco 9<br />
         20131 Milano, Italy<br />
         Phone: +39-02 28311436<br />
